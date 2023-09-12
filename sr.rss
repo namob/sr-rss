@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/podrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
+    <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 11 Sep 2023 12:47:22 GMT</lastBuildDate>
+    <image>
+      <title>P3 Dokumentär</title>
+      <link>https://sverigesradio.se/p3dokumentar</link>
+      <url>https://static-cdn.sr.se/images/2519/2639c08c-5d25-4e44-90a0-864c20e65f3b.jpg?preset=api-itunes-presentation-image</url>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/2519/2639c08c-5d25-4e44-90a0-864c20e65f3b.jpg?preset=api-itunes-presentation-image"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary><![CDATA[Sveriges största podd om vår tids mest spännande och viktiga händelser. Nya avsnitt från P3 Dokumentär hittar du först i Sveriges Radio Play. Ansvarig utgivare: Caroline Lagergren]]></itunes:summary>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:owner>
+      <itunes:name>P3 Dokumentär</itunes:name>
+      <itunes:email>podd@sverigesradio.se</itunes:email>
+    </itunes:owner>
+    <title>P3 Dokumentär</title>
+    <link>https://sverigesradio.se/p3dokumentar</link>
+    <description><![CDATA[Sveriges största podd om vår tids mest spännande och viktiga händelser. <a href="https://sverigesradio.se/play/program/2519?utm_source=thirdparty&utm_medium=rss&utm_campaign=program_p3dokumentar">Nya avsnitt från P3 Dokumentär hittar du först i Sveriges Radio Play.</a>
+Ansvarig utgivare: Caroline Lagergren]]></description>
+    <language>sv</language>
+    <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
+    <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Den amerikanska studenten i nordkoreanskt fångenskap</title>
+            <description>Otto Warmbier är 21 år gammal när han tillfångatas på Nordkoreas flygplats efter en semester i landet. Ingen vet vad som hänt men två månader senare syns han i nordkoreansk TV där han erkänner brott.</description>
+            <link>https://sverigesradio.se/avsnitt/2236275</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2236275</guid>
+            <pubDate>Thu, 07 Sep 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/df39f793-a60e-42b4-9fc2-36bd3d73e796.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8984297-hi.m4a" length="4786" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Knivattackerna i Vetlanda</title>
+            <description>En man knivhugger slumpvis utvalda personer under loppet av några minuter i småländska Vetlanda. Nu söker ett helt samhälle svaret på frågan: varför?</description>
+            <link>https://sverigesradio.se/avsnitt/2204517</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2204517</guid>
+            <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/7988f9e9-fe3d-4778-bd99-523099d2db61.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8964103-hi.m4a" length="3273" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Branden i Grenfell Tower</title>
+            <description>När det börjar brinna i 24-våningshuset i London sprider sig elden rekordsnabbt genom byggnaden. Omar lyckas ta sig ut, men kvar på 14:e våningen är hans lillebror Mohammed.</description>
+            <link>https://sverigesradio.se/avsnitt/2199793</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2199793</guid>
+            <pubDate>Thu, 10 Aug 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/1400ca45-5e3e-4084-b0bc-773bd5235aa2.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8892845-hi.m4a" length="3984" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: SAS-planet och flygkraschen i Milano</title>
+            <description>I dimman rullar ett litet jetplan ut mitt på startbanan på flygplatsen i Milano. Samtidigt rusar ett SAS-plan framåt för att lyfta. Sekunder senare tappar kontrolltornet kontakten med båda planen.</description>
+            <link>https://sverigesradio.se/avsnitt/2192092</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2192092</guid>
+            <pubDate>Thu, 27 Jul 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/a67ac445-0776-4eac-ab91-c747f02068b4.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8928094-hi.m4a" length="3574" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Polischefen som blev knarkbaron</title>
+            <description>En prostituerad kvinna, i Helsingfors blir ett viktigt vittne i jakten på knarkkungen Bölemannen som visar sig ha dubbla roller. Nu misstänks chefen på Helsingfors narkotikapolis för grova brott.</description>
+            <link>https://sverigesradio.se/avsnitt/2202208</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2202208</guid>
+            <pubDate>Thu, 13 Jul 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/ca137291-7510-4c73-a811-bc629f5515f9.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8903627-hi.m4a" length="4607" type="audio/aac" />
+            </item>
+</channel>
+</rss>
