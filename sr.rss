@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Amfetaminfabriken och operation Trojan Shield</title>
+            <description>Grannarna i den lilla bruksorten Olshammar reagerar på den märkliga renoveringen av det grå huset. De anar inte att det finns en amfetaminfabrik i källaren – och att FBI zoomar in huset på kartan.</description>
+            <link>https://sverigesradio.se/avsnitt/2244637</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2244637</guid>
+            <pubDate>Thu, 21 Sep 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/ef483479-4a5c-4eca-a388-a3c377fcaac5.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9001093-hi.m4a" length="3892" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Den amerikanska studenten i nordkoreanskt fångenskap</title>
             <description>Otto Warmbier är 21 år gammal när han tillfångatas på Nordkoreas flygplats efter en semester i landet. Ingen vet vad som hänt men två månader senare syns han i nordkoreansk TV där han erkänner brott.</description>
             <link>https://sverigesradio.se/avsnitt/2236275</link>
@@ -60,15 +69,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 27 Jul 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a67ac445-0776-4eac-ab91-c747f02068b4.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8928094-hi.m4a" length="3574" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Polischefen som blev knarkbaron</title>
-            <description>En prostituerad kvinna, i Helsingfors blir ett viktigt vittne i jakten på knarkkungen Bölemannen som visar sig ha dubbla roller. Nu misstänks chefen på Helsingfors narkotikapolis för grova brott.</description>
-            <link>https://sverigesradio.se/avsnitt/2202208</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2202208</guid>
-            <pubDate>Thu, 13 Jul 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/ca137291-7510-4c73-a811-bc629f5515f9.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8903627-hi.m4a" length="4607" type="audio/aac" />
             </item>
 </channel>
 </rss>
