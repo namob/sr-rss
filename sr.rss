@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Bombattentatet mot Margaret Thatcher</title>
+            <description>Det konservativa partiet Tories är mitt uppe i festandet på Grand Hotell i Brighton när IRAs bomb går av 1984. Gäster begravs i rasmassor och fem personer dör den kvällen.</description>
+            <link>https://sverigesradio.se/avsnitt/2259229</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2259229</guid>
+            <pubDate>Thu, 05 Oct 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/7da86eec-de3d-4f2e-af06-688a19d9afe1.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9024812-hi.m4a" length="4047" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Amfetaminfabriken och operation Trojan Shield</title>
             <description>Grannarna i den lilla bruksorten Olshammar reagerar på den märkliga renoveringen av det grå huset. De anar inte att det finns en amfetaminfabrik i källaren – och att FBI zoomar in huset på kartan.</description>
             <link>https://sverigesradio.se/avsnitt/2244637</link>
@@ -60,15 +69,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 10 Aug 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/1400ca45-5e3e-4084-b0bc-773bd5235aa2.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8892845-hi.m4a" length="3984" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: SAS-planet och flygkraschen i Milano</title>
-            <description>I dimman rullar ett litet jetplan ut mitt på startbanan på flygplatsen i Milano. Samtidigt rusar ett SAS-plan framåt för att lyfta. Sekunder senare tappar kontrolltornet kontakten med båda planen.</description>
-            <link>https://sverigesradio.se/avsnitt/2192092</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2192092</guid>
-            <pubDate>Thu, 27 Jul 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a67ac445-0776-4eac-ab91-c747f02068b4.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8928094-hi.m4a" length="3574" type="audio/aac" />
             </item>
 </channel>
 </rss>
