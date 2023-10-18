@@ -65,4 +65,4 @@ if r.status_code == 200:
             <enclosure url="{audiourl}" length="{audioduration}" type="{audiotype}" />
             </item>"""
     rss += "\n</channel>\n</rss>"
-    print(rss, file=open("sr.rss", "w"))
+    print(rss, file=open("p3dokumentar.rss", "w"))
