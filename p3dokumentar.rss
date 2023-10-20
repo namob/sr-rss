@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Självhjälpsgurun och döden i öknen</title>
+            <description>När ambulans larmas till öknen i Arizona möts man av en skräckscen. Över 50 människor ligger utspridda på marken, några svamlar andra är orörliga. Svetthyddan intill är tom och ledaren syns inte till.</description>
+            <link>https://sverigesradio.se/avsnitt/2270498</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2270498</guid>
+            <pubDate>Thu, 19 Oct 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/ea12249e-6eb9-4e10-bf67-fa0a7942e5f5.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9042466-hi.m4a" length="4976" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Bombattentatet mot Margaret Thatcher</title>
             <description>Det konservativa partiet Tories är mitt uppe i festandet på Grand Hotell i Brighton när IRAs bomb går av 1984. Gäster begravs i rasmassor och fem personer dör den kvällen.</description>
             <link>https://sverigesradio.se/avsnitt/2259229</link>
@@ -60,15 +69,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7988f9e9-fe3d-4778-bd99-523099d2db61.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9037596-hi.m4a" length="3267" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Branden i Grenfell Tower</title>
-            <description>När det börjar brinna i 24-våningshuset i London sprider sig elden rekordsnabbt genom byggnaden. Omar lyckas ta sig ut, men kvar på 14:e våningen är hans lillebror Mohammed.</description>
-            <link>https://sverigesradio.se/avsnitt/2199793</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2199793</guid>
-            <pubDate>Thu, 10 Aug 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/1400ca45-5e3e-4084-b0bc-773bd5235aa2.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8892845-hi.m4a" length="3984" type="audio/aac" />
             </item>
 </channel>
 </rss>
