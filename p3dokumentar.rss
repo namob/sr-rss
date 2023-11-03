@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Rånarligan och skottdramat i Umeå</title>
+            <description>En vårmorgon 2009 ska fyra män spränga sig in i en värdedepå i Umeå. De vet inte att nationella insatsstyrkan redan är där. Rånförsöket urartar i Sveriges största eldstrid mellan polis och rånare.</description>
+            <link>https://sverigesradio.se/avsnitt/2280323</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2280323</guid>
+            <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061935-hi.m4a" length="4156" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Självhjälpsgurun och döden i öknen</title>
             <description>När ambulans larmas till öknen i Arizona möts man av en skräckscen. Över 50 människor ligger utspridda på marken, några svamlar andra är orörliga. Svetthyddan intill är tom och ledaren syns inte till.</description>
             <link>https://sverigesradio.se/avsnitt/2270498</link>
@@ -60,15 +69,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 07 Sep 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/df39f793-a60e-42b4-9fc2-36bd3d73e796.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8984297-hi.m4a" length="4786" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Knivattackerna i Vetlanda</title>
-            <description>En man knivhugger slumpvis utvalda personer under loppet av några minuter i småländska Vetlanda. Nu söker ett helt samhälle svaret på frågan: varför?</description>
-            <link>https://sverigesradio.se/avsnitt/2204517</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2204517</guid>
-            <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/7988f9e9-fe3d-4778-bd99-523099d2db61.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9037596-hi.m4a" length="3267" type="audio/aac" />
             </item>
 </channel>
 </rss>
