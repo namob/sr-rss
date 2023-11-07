@@ -61,14 +61,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/ef483479-4a5c-4eca-a388-a3c377fcaac5.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9001093-hi.m4a" length="3892" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Den amerikanska studenten i nordkoreanskt fångenskap</title>
-            <description>Otto Warmbier är 21 år gammal när han tillfångatas på Nordkoreas flygplats efter en semester i landet. Ingen vet vad som hänt men två månader senare syns han i nordkoreansk TV där han erkänner brott.</description>
-            <link>https://sverigesradio.se/avsnitt/2236275</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2236275</guid>
-            <pubDate>Thu, 07 Sep 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/df39f793-a60e-42b4-9fc2-36bd3d73e796.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8984297-hi.m4a" length="4786" type="audio/aac" />
-            </item>
 </channel>
 </rss>
