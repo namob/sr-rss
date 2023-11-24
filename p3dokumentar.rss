@@ -61,14 +61,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7da86eec-de3d-4f2e-af06-688a19d9afe1.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9024812-hi.m4a" length="4047" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Amfetaminfabriken och operation Trojan Shield</title>
-            <description>Grannarna i den lilla bruksorten Olshammar reagerar på den märkliga renoveringen av det grå huset. De anar inte att det finns en amfetaminfabrik i källaren – och att FBI zoomar in huset på kartan.</description>
-            <link>https://sverigesradio.se/avsnitt/2244637</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2244637</guid>
-            <pubDate>Thu, 21 Sep 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/ef483479-4a5c-4eca-a388-a3c377fcaac5.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9001093-hi.m4a" length="3892" type="audio/aac" />
-            </item>
 </channel>
 </rss>
