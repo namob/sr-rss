@@ -61,5 +61,14 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/ea12249e-6eb9-4e10-bf67-fa0a7942e5f5.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9042466-hi.m4a" length="4976" type="audio/aac" />
             </item>
+            <item>
+            <title>Ny: Bombattentatet mot Margaret Thatcher</title>
+            <description>Det konservativa partiet Tories är mitt uppe i festandet på Grand Hotell i Brighton när IRAs bomb går av 1984. Gäster begravs i rasmassor och fem personer dör den kvällen.</description>
+            <link>https://sverigesradio.se/avsnitt/2259229</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2259229</guid>
+            <pubDate>Thu, 05 Oct 2023 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/7da86eec-de3d-4f2e-af06-688a19d9afe1.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9024812-hi.m4a" length="4047" type="audio/aac" />
+            </item>
 </channel>
 </rss>
