@@ -32,7 +32,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2306600</guid>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9123390-hi.m4a" length="4743" type="audio/aac" />
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136366-hi.m4a" length="4742" type="audio/aac" />
             </item>
             <item>
             <title>Ny: Fuskligan och kuppen mot högskoleprovet</title>
@@ -60,15 +60,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061935-hi.m4a" length="4156" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Självhjälpsgurun och döden i öknen</title>
-            <description>När ambulans larmas till öknen i Arizona möts man av en skräckscen. Över 50 människor ligger utspridda på marken, några svamlar andra är orörliga. Svetthyddan intill är tom och ledaren syns inte till.</description>
-            <link>https://sverigesradio.se/avsnitt/2270498</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2270498</guid>
-            <pubDate>Thu, 19 Oct 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/ea12249e-6eb9-4e10-bf67-fa0a7942e5f5.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9042466-hi.m4a" length="4976" type="audio/aac" />
             </item>
 </channel>
 </rss>
