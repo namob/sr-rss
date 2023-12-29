@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Titanic – det osänkbara skeppet</title>
+            <description>Med på resan över Atlanten finns samhällets rikaste personer och flera hundra emigranter. I 3e klass reser Agnes med sina två små döttrar. Hon hör skriken när 1500 människor dör i det iskalla havet.</description>
+            <link>https://sverigesradio.se/avsnitt/2309134</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2309134</guid>
+            <pubDate>Thu, 28 Dec 2023 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/534478f6-dee1-4190-b020-6f5223edbcef.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9134985-hi.m4a" length="4558" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Bhagwanrörelsen – sekten som fångade Ted Gärdestad</title>
             <description>När gurun Bhagwan tar sina anhängare till en övergiven ranch i USA är visionerna om ett drömsamhälle stora. Flera svenskar åker dit. Men samhället kommer snart förgöra sig självt inifrån.</description>
             <link>https://sverigesradio.se/avsnitt/2306600</link>
@@ -51,15 +60,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 16 Nov 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/813ce526-2a52-4e45-aa5e-482253a87070.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9080272-hi.m4a" length="4482" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Rånarligan och skottdramat i Umeå</title>
-            <description>En vårmorgon 2009 ska fyra män spränga sig in i en värdedepå i Umeå. De vet inte att nationella insatsstyrkan redan är där. Rånförsöket urartar i Sveriges största eldstrid mellan polis och rånare.</description>
-            <link>https://sverigesradio.se/avsnitt/2280323</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2280323</guid>
-            <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061935-hi.m4a" length="4156" type="audio/aac" />
             </item>
 </channel>
 </rss>
