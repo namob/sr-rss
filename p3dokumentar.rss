@@ -61,14 +61,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/813ce526-2a52-4e45-aa5e-482253a87070.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9080272-hi.m4a" length="4482" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Rånarligan och skottdramat i Umeå</title>
-            <description>En vårmorgon 2009 ska fyra män spränga sig in i en värdedepå i Umeå. De vet inte att nationella insatsstyrkan redan är där. Rånförsöket urartar i Sveriges största eldstrid mellan polis och rånare.</description>
-            <link>https://sverigesradio.se/avsnitt/2280323</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2280323</guid>
-            <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061935-hi.m4a" length="4156" type="audio/aac" />
-            </item>
 </channel>
 </rss>
