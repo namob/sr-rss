@@ -61,14 +61,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136366-hi.m4a" length="4742" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Fuskligan och kuppen mot högskoleprovet</title>
-            <description>Mattias vill ta sig in på sin drömutbildning, men betygen räcker inte och han kontaktar HP-hjälpen: en fusktjänst som fixar toppresultat till den som betalar.</description>
-            <link>https://sverigesradio.se/avsnitt/2301065</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2301065</guid>
-            <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/9006c718-8578-430d-9ded-87a74fa6e353.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9103070-hi.m4a" length="4513" type="audio/aac" />
-            </item>
 </channel>
 </rss>
