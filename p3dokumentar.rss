@@ -5,29 +5,38 @@
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
     <lastBuildDate>Mon, 11 Sep 2023 12:47:22 GMT</lastBuildDate>
     <image>
-      <title>P3 DokumentÃ¤r</title>
+      <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
       <url>https://static-cdn.sr.se/images/2519/2639c08c-5d25-4e44-90a0-864c20e65f3b.jpg?preset=api-itunes-presentation-image</url>
     </image>
     <itunes:image href="https://static-cdn.sr.se/images/2519/2639c08c-5d25-4e44-90a0-864c20e65f3b.jpg?preset=api-itunes-presentation-image"/>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:summary><![CDATA[Sveriges stÃ¶rsta podd om vÃ¥r tids mest spÃ¤nnande och viktiga hÃ¤ndelser. Nya avsnitt frÃ¥n P3 DokumentÃ¤r hittar du fÃ¶rst i Sveriges Radio Play. Ansvarig utgivare: Caroline Lagergren]]></itunes:summary>
+    <itunes:summary><![CDATA[Sveriges största podd om vår tids mest spännande och viktiga händelser. Nya avsnitt från P3 Dokumentär hittar du först i Sveriges Radio Play. Ansvarig utgivare: Caroline Lagergren]]></itunes:summary>
     <itunes:author>Sveriges Radio</itunes:author>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:owner>
-      <itunes:name>P3 DokumentÃ¤r</itunes:name>
+      <itunes:name>P3 Dokumentär</itunes:name>
       <itunes:email>podd@sverigesradio.se</itunes:email>
     </itunes:owner>
-    <title>P3 DokumentÃ¤r</title>
+    <title>P3 Dokumentär</title>
     <link>https://sverigesradio.se/p3dokumentar</link>
-    <description><![CDATA[Sveriges stÃ¶rsta podd om vÃ¥r tids mest spÃ¤nnande och viktiga hÃ¤ndelser. <a href="https://sverigesradio.se/play/program/2519?utm_source=thirdparty&utm_medium=rss&utm_campaign=program_p3dokumentar">Nya avsnitt frÃ¥n P3 DokumentÃ¤r hittar du fÃ¶rst i Sveriges Radio Play.</a>
+    <description><![CDATA[Sveriges största podd om vår tids mest spännande och viktiga händelser. <a href="https://sverigesradio.se/play/program/2519?utm_source=thirdparty&utm_medium=rss&utm_campaign=program_p3dokumentar">Nya avsnitt från P3 Dokumentär hittar du först i Sveriges Radio Play.</a>
 Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
-            <title>Ny: Krisen i Svenska Akademien och Sara Danius okÃ¤nda dagbÃ¶cker</title>
-            <description>En av Sveriges mest kÃ¤nda kulturinstitutioner hamnar i en maktstrid som ska nÃ¥ lÃ¥ngt utanfÃ¶r Sveriges grÃ¤nser. Det Ã¤r 2018 och i stormens Ã¶ga stÃ¥r Svenska Akademiens stÃ¤ndige sekreterare Sara Danius.</description>
+            <title>Ny: Jakten på pedofilnätverket Lost boy</title>
+            <description>15-årige Martin Krossnes ringer polisen från en kiosk. En vuxen man försöker locka med honom till ett hotell. Det blir startskottet på en internationell pedofilutredning.</description>
+            <link>https://sverigesradio.se/avsnitt/2337319</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2337319</guid>
+            <pubDate>Thu, 08 Feb 2024 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9196492-hi.m4a" length="3708" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Krisen i Svenska Akademien och Sara Danius okända dagböcker</title>
+            <description>En av Sveriges mest kända kulturinstitutioner hamnar i en maktstrid som ska nå långt utanför Sveriges gränser. Det är 2018 och i stormens öga står Svenska Akademiens ständige sekreterare Sara Danius.</description>
             <link>https://sverigesradio.se/avsnitt/2329061</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2329061</guid>
             <pubDate>Mon, 22 Jan 2024 15:00:00 GMT</pubDate>
@@ -36,7 +45,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             </item>
             <item>
             <title>Ny: Ryska stormningen av Greenpeace-skeppet Arctic Sunrise</title>
-            <description>I september 2013 seglar Greenpeace till Barents Hav fÃ¶r att fÃ¶rsÃ¶ka stoppa rysk oljeborrning i Arktis. Men Ryssland slÃ¥r tillbaka miljÃ¶protesten med en kraft som chockar omvÃ¤rlden.</description>
+            <description>I september 2013 seglar Greenpeace till Barents Hav för att försöka stoppa rysk oljeborrning i Arktis. Men Ryssland slår tillbaka miljöprotesten med en kraft som chockar omvärlden.</description>
             <link>https://sverigesradio.se/avsnitt/2323127</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2323127</guid>
             <pubDate>Thu, 11 Jan 2024 05:00:00 GMT</pubDate>
@@ -44,22 +53,13 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9157667-hi.m4a" length="4446" type="audio/aac" />
             </item>
             <item>
-            <title>Ny: Titanic â€“ det osÃ¤nkbara skeppet</title>
-            <description>Med pÃ¥ resan Ã¶ver Atlanten finns samhÃ¤llets rikaste personer och flera hundra emigranter. I 3e klass reser Agnes med sina tvÃ¥ smÃ¥ dÃ¶ttrar. Hon hÃ¶r skriken nÃ¤r 1500 mÃ¤nniskor dÃ¶r i det iskalla havet.</description>
+            <title>Ny: Titanic – det osänkbara skeppet</title>
+            <description>Med på resan över Atlanten finns samhällets rikaste personer och flera hundra emigranter. I 3e klass reser Agnes med sina två små döttrar. Hon hör skriken när 1500 människor dör i det iskalla havet.</description>
             <link>https://sverigesradio.se/avsnitt/2309134</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2309134</guid>
             <pubDate>Thu, 28 Dec 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/534478f6-dee1-4190-b020-6f5223edbcef.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9134985-hi.m4a" length="4558" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: BhagwanrÃ¶relsen â€“ sekten som fÃ¥ngade Ted GÃ¤rdestad</title>
-            <description>NÃ¤r gurun Bhagwan tar sina anhÃ¤ngare till en Ã¶vergiven ranch i USA Ã¤r visionerna om ett drÃ¶msamhÃ¤lle stora. Flera svenskar Ã¥ker dit. Men samhÃ¤llet kommer snart fÃ¶rgÃ¶ra sig sjÃ¤lvt inifrÃ¥n.</description>
-            <link>https://sverigesradio.se/avsnitt/2306600</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2306600</guid>
-            <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136366-hi.m4a" length="4742" type="audio/aac" />
             </item>
 </channel>
 </rss>

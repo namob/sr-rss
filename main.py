@@ -39,7 +39,7 @@ if r.status_code == 200:
     episodes = r.json()["episodes"]
     for episode in episodes:
         title = episode["title"]
-        if "Ny" in title and not "TIPS" in title:
+        if "Ny" in title and not "TIPS" in title and "broadcast" in episode:
             id = episode["id"]
             description = episode["description"]
             url = episode["url"]
