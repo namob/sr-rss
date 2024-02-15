@@ -61,5 +61,14 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/534478f6-dee1-4190-b020-6f5223edbcef.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9134985-hi.m4a" length="4558" type="audio/aac" />
             </item>
+            <item>
+            <title>Ny: Bhagwanrörelsen – sekten som fångade Ted Gärdestad</title>
+            <description>När gurun Bhagwan tar sina anhängare till en övergiven ranch i USA är visionerna om ett drömsamhälle stora. Flera svenskar åker dit. Men samhället kommer snart förgöra sig självt inifrån.</description>
+            <link>https://sverigesradio.se/avsnitt/2306600</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2306600</guid>
+            <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136366-hi.m4a" length="4742" type="audio/aac" />
+            </item>
 </channel>
 </rss>
