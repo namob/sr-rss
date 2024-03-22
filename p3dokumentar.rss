@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
+            <description>När OJ Simpsons exfru hittas mördad utanför sitt hem i Los Angeles blir fotbollsstjärnan snabbt misstänkt. Frågan om hans skuld splittrar amerikanerna och eldar på debatten om systematisk rasism.</description>
+            <link>https://sverigesradio.se/avsnitt/2343045</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2343045</guid>
+            <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9216234-hi.m4a" length="4762" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: Janne som försvann i Colombias djungel</title>
             <description>När svenske Janne Braunisch ger sig ut på sin stora vandring i Colombias djungel har han bara sandaler på fötterna. Förutom snårig mark, farliga djur och regn i mängder så finns här beväpnade grupper.</description>
             <link>https://sverigesradio.se/avsnitt/2342866</link>
@@ -51,15 +60,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 08 Feb 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9196492-hi.m4a" length="3708" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Krisen i Svenska Akademien och Sara Danius okända dagböcker</title>
-            <description>En av Sveriges mest kända kulturinstitutioner hamnar i en maktstrid som ska nå långt utanför Sveriges gränser. Det är 2018 och i stormens öga står Svenska Akademiens ständige sekreterare Sara Danius.</description>
-            <link>https://sverigesradio.se/avsnitt/2329061</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2329061</guid>
-            <pubDate>Mon, 22 Jan 2024 15:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/c1d4c93f-f4c0-4c6b-a3cf-9e3b2e5d9aad.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9175532-hi.m4a" length="5202" type="audio/aac" />
             </item>
 </channel>
 </rss>
