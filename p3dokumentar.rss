@@ -61,5 +61,14 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9196492-hi.m4a" length="3708" type="audio/aac" />
             </item>
+            <item>
+            <title>Ny: Krisen i Svenska Akademien och Sara Danius okända dagböcker</title>
+            <description>En av Sveriges mest kända kulturinstitutioner hamnar i en maktstrid som ska nå långt utanför Sveriges gränser. Det är 2018 och i stormens öga står Svenska Akademiens ständige sekreterare Sara Danius.</description>
+            <link>https://sverigesradio.se/avsnitt/2329061</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2329061</guid>
+            <pubDate>Mon, 22 Jan 2024 15:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/c1d4c93f-f4c0-4c6b-a3cf-9e3b2e5d9aad.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9175532-hi.m4a" length="5202" type="audio/aac" />
+            </item>
 </channel>
 </rss>
