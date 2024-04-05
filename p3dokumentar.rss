@@ -26,6 +26,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Masskjutningen på nattklubben i Orlando</title>
+            <description>En festkväll år 2016 på gayklubben Pulse förvandlas till en blodig massaker när en 29-årig man plötsligt börjar skjuta mitt på dansgolvet. 50 personer dödas inne på klubben.</description>
+            <link>https://sverigesradio.se/avsnitt/2367026</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2367026</guid>
+            <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9265092-hi.m4a" length="4296" type="audio/aac" />
+            </item>
+            <item>
             <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
             <description>När OJ Simpsons exfru hittas mördad utanför sitt hem i Los Angeles blir fotbollsstjärnan snabbt misstänkt. Frågan om hans skuld splittrar amerikanerna och eldar på debatten om systematisk rasism.</description>
             <link>https://sverigesradio.se/avsnitt/2343045</link>
@@ -51,15 +60,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e66974d-3852-4fcf-bb79-e0e0525c9603.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9216057-hi.m4a" length="4907" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Jakten på pedofilnätverket Lost boy</title>
-            <description>15-årige Martin Krossnes ringer polisen från en kiosk. En vuxen man försöker locka med honom till ett hotell. Det blir startskottet på en internationell pedofilutredning.</description>
-            <link>https://sverigesradio.se/avsnitt/2337319</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2337319</guid>
-            <pubDate>Thu, 08 Feb 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9196492-hi.m4a" length="3708" type="audio/aac" />
             </item>
 </channel>
 </rss>
