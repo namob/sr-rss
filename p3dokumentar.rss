@@ -61,14 +61,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/97711b9b-7418-43f6-b16f-948ef660253b.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9234636-hi.m4a" length="4382" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Massmordet på tingshuset i Söderhamn</title>
-            <description>Det börjar som en kärlekshistoria men slutar i ett blodbad. Efter flera år av rättstvister mellan Gunnar och Cecilia eskalerar allt under en pågående förhandling i tingsrätten.</description>
-            <link>https://sverigesradio.se/avsnitt/2329062</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2329062</guid>
-            <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/4e66974d-3852-4fcf-bb79-e0e0525c9603.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9216057-hi.m4a" length="4907" type="audio/aac" />
-            </item>
 </channel>
 </rss>
