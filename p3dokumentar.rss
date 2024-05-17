@@ -43,23 +43,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9265092-hi.m4a" length="4296" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
-            <description>När OJ Simpsons exfru hittas mördad utanför sitt hem i Los Angeles blir fotbollsstjärnan snabbt misstänkt. Frågan om hans skuld splittrar amerikanerna och eldar på debatten om systematisk rasism.</description>
-            <link>https://sverigesradio.se/avsnitt/2343045</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2343045</guid>
-            <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9259320-hi.m4a" length="4762" type="audio/aac" />
-            </item>
-            <item>
-            <title>Ny: Janne som försvann i Colombias djungel</title>
-            <description>När svenske Janne Braunisch ger sig ut på sin stora vandring i Colombias djungel har han bara sandaler på fötterna. Förutom snårig mark, farliga djur och regn i mängder så finns här beväpnade grupper.</description>
-            <link>https://sverigesradio.se/avsnitt/2342866</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2342866</guid>
-            <pubDate>Thu, 07 Mar 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/97711b9b-7418-43f6-b16f-948ef660253b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9234636-hi.m4a" length="4382" type="audio/aac" />
-            </item>
 </channel>
 </rss>
