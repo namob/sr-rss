@@ -34,14 +34,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9287733-hi.m4a" length="4595" type="audio/aac" />
             </item>
-            <item>
-            <title>Ny: Masskjutningen på nattklubben i Orlando</title>
-            <description>En festkväll år 2016 på gayklubben Pulse förvandlas till en blodig massaker när en 29-årig man plötsligt börjar skjuta mitt på dansgolvet. 50 personer dödas inne på klubben.</description>
-            <link>https://sverigesradio.se/avsnitt/2367026</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2367026</guid>
-            <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9265092-hi.m4a" length="4296" type="audio/aac" />
-            </item>
 </channel>
 </rss>
