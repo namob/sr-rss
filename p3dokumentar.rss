@@ -25,14 +25,5 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
-            <item>
-            <title>Ny: Barnamorden och satanistskräcken i West Memphis</title>
-            <description>När tre åttaåringar hittas mördade i ett dike i West Memphis pekas tre udda tonåringar ut som mördare. De misstänks ha offrat barnen i en satanistisk ritual men säger själva att de är oskyldiga.</description>
-            <link>https://sverigesradio.se/avsnitt/2370701</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2370701</guid>
-            <pubDate>Thu, 18 Apr 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9287733-hi.m4a" length="4595" type="audio/aac" />
-            </item>
 </channel>
 </rss>
