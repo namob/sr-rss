@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Jun 2024 08:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 08:19:52 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,60 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Katastrofen på seglingstävlingen Fastnet Race</title>
+            <description>Under en av världens största havskappseglingar bryter en kraftig storm ut. Storbritanniens största räddningsinsats sen andra världskriget drar igång men 19 liv går inte att rädda i de höga vågorna.</description>
+            <link>https://sverigesradio.se/avsnitt/2415223</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2415223</guid>
+            <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/c2eb54bc-2d63-423e-833e-ee9b136ea557.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9361179.mp3" length="3736" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Den svenska rebellrörelsen</title>
+            <description>Under några febriga veckor 1968 organiserar sig ett 100-tal unga vänsterextremister i hemliga celler i Stockholm och Uppsala. Målet är att genomföra en väpnad revolution i Sverige.</description>
+            <link>https://sverigesradio.se/avsnitt/2399643</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2399643</guid>
+            <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/5618b7fe-d48b-410a-a8c1-8aea956dfc9b.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9344367.mp3" length="4171" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 3/3</title>
+            <description>I ett parkeringsgarage i utkanten av Sao Paulo tar Magnus emot en ryggsäck som han ska ta med på flyget till Spanien. Men han stoppas i tullen i Madrid. Avsnitt 3: Luftslottet.</description>
+            <link>https://sverigesradio.se/avsnitt/2393717</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2393717</guid>
+            <pubDate>Thu, 16 May 2024 04:02:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/9db400f9-7608-4284-81e9-7258849a0b12.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9325210.mp3" length="3496" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 2/3</title>
+            <description>Magnus åker till Dubai för att träffa en shejk som ska hjälpa honom få ut arvet. För att få loss pengarna sätter han sitt hem på spel. Avsnitt 2: Huset på Ekerö.</description>
+            <link>https://sverigesradio.se/avsnitt/2393716</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2393716</guid>
+            <pubDate>Thu, 16 May 2024 04:01:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/42fc2a86-869f-4c1a-a977-3e138092b79c.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9323916.mp3" length="3317" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 1/3</title>
+            <description>Magnus Gruvén svarar på ett mejl och snart kommer hela hans värld att rasa samman. Ett av de största bedrägerierna i Sverige tar sin början. Avsnitt 1: Mejlet från Mrs William.</description>
+            <link>https://sverigesradio.se/avsnitt/2390266</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2390266</guid>
+            <pubDate>Thu, 16 May 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/5acdf465-92c4-4f95-a275-226348bf0d5b.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9322973.mp3" length="2589" type="audio/aac" />
+            </item>
+            <item>
+            <title>Ny: Högerextremisterna i Charlottesville och den svenske infiltratören</title>
+            <description>Nazister marscherar med facklor och rasistiska slagord genom Charlottesville 2017. I ledet går svenske Patrik, antirasist och infiltratör. Den helgen sker ett högerextremt attentat i den lilla staden.</description>
+            <link>https://sverigesradio.se/avsnitt/2386635</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2386635</guid>
+            <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/95393624-fa8d-4494-b193-66ca56bd6fb1.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9358381.mp3" length="4353" type="audio/aac" />
+            </item>
             <item>
             <title>Ny: Barnamorden och satanistskräcken i West Memphis</title>
             <description>När tre åttaåringar hittas mördade i ett dike i West Memphis pekas tre udda tonåringar ut som mördare. De misstänks ha offrat barnen i en satanistisk ritual men säger själva att de är oskyldiga.</description>
