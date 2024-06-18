@@ -2,12 +2,14 @@ import requests
 from datetime import date, timedelta, datetime
 import re
 
-rss = """<?xml version="1.0" encoding="UTF-8"?>
+lastBuildDate = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+
+rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/podrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 11 Sep 2023 12:47:22 GMT</lastBuildDate>
+    <lastBuildDate>{lastBuildDate}</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -31,8 +33,8 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>"""
 
 todate = date.today().isoformat()
-fromdate = (date.today() - timedelta(days=90)).isoformat()
-url = f"http://api.sr.se/api/v2/episodes/index?programid=2519&fromdate={fromdate}&todate={todate}&audioquality=hi&format=json"
+fromdate = (date.today() - timedelta(days=360)).isoformat()
+url = f"http://api.sr.se/api/v2/episodes/index?programid=2519&fromdate={fromdate}&todate={todate}&audioquality=hi&format=json&size=100"
 
 r = requests.get(url)
 if r.status_code == 200:
@@ -44,8 +46,8 @@ if r.status_code == 200:
             description = episode["description"]
             url = episode["url"]
             imageurl = episode["imageurltemplate"]
-            audiourl = episode["broadcast"]["broadcastfiles"][0]["url"]
-            audioduration = episode["broadcast"]["broadcastfiles"][0]["duration"]
+            audiourl = episode["listenpodfile"]["url"]
+            audioduration = episode["listenpodfile"]["duration"]
             audiotype = episode["audiopriority"]
             pubdate = datetime.utcfromtimestamp(
                 int(re.sub("[^0-9]", "", episode["publishdateutc"])[:-3])
