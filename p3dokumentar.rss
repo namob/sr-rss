@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 23 Jun 2024 12:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 12:24:53 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 13 Jul 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/ca137291-7510-4c73-a811-bc629f5515f9.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8903646.mp3" length="4607" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Putins svenske agent och spionskandalen på Scania</title>
-            <description>År 2019 står Säpos spanare utanför en restaurang i centrala Stockholm och följer två män. När ett vitt kuvert fyllt med pengar lämnas över gör sig Säpo reda att ingripa.</description>
-            <link>https://sverigesradio.se/avsnitt/2197723</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2197723</guid>
-            <pubDate>Thu, 29 Jun 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a9f13e69-10b8-43b7-a4b7-694a7cf2e426.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8884286.mp3" length="4455" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
