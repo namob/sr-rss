@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 27 Jun 2024 12:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:24:20 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Krogvakterna och källarvåldet på Avenyn</title>
+            <description>2008 börjar det komma in anmälningar om våld från krogvakter på två nattklubbar. Polisen lägger ner anmälningarna i samma takt som de kommer in. Tills en poliskommissarie tittar närmare på fallen.</description>
+            <link>https://sverigesradio.se/avsnitt/2415379</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2415379</guid>
+            <pubDate>Thu, 27 Jun 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/57e6611b-d94f-4dd0-b1e9-a2f359f0e7e6.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9379694.mp3" length="4239" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Katastrofen på seglingstävlingen Fastnet Race</title>
             <description>Under en av världens största havskappseglingar bryter en kraftig storm ut. Storbritanniens största räddningsinsats sen andra världskriget drar igång men 19 liv går inte att rädda i de höga vågorna.</description>
