@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 07 Jul 2024 12:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 12:25:39 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 27 Jul 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a67ac445-0776-4eac-ab91-c747f02068b4.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8928105.mp3" length="3574" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Polischefen som blev knarkbaron</title>
-            <description>En prostituerad kvinna, i Helsingfors blir ett viktigt vittne i jakten på knarkkungen Bölemannen som visar sig ha dubbla roller. Nu misstänks chefen på Helsingfors narkotikapolis för grova brott.</description>
-            <link>https://sverigesradio.se/avsnitt/2202208</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2202208</guid>
-            <pubDate>Thu, 13 Jul 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/ca137291-7510-4c73-a811-bc629f5515f9.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8903646.mp3" length="4607" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
