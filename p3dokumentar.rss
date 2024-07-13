@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 12 Jul 2024 12:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 12:21:54 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -31,7 +31,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <link>https://sverigesradio.se/avsnitt/2419819</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2419819</guid>
             <pubDate>Thu, 11 Jul 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/2605aece-f906-40b9-86fe-c5c3e253b62f.jpg?preset=api-itunes-presentation-image"/>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/e0101c02-b59d-4338-85f7-a06c7a3c3933.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9394368.mp3" length="4051" type="audio/mpeg" />
             </item>
             <item>
