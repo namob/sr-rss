@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Jul 2024 12:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:25:44 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 10 Aug 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/1400ca45-5e3e-4084-b0bc-773bd5235aa2.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8892850.mp3" length="3984" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: SAS-planet och flygkraschen i Milano</title>
-            <description>I dimman rullar ett litet jetplan ut mitt på startbanan på flygplatsen i Milano. Samtidigt rusar ett SAS-plan framåt för att lyfta. Sekunder senare tappar kontrolltornet kontakten med båda planen.</description>
-            <link>https://sverigesradio.se/avsnitt/2192092</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2192092</guid>
-            <pubDate>Thu, 27 Jul 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a67ac445-0776-4eac-ab91-c747f02068b4.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8928105.mp3" length="3574" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
