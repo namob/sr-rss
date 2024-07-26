@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 25 Jul 2024 12:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 12:24:18 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Sekten Guds barn och hämnden</title>
+            <description>En sektledare som talar om fri kärlek drar till sig anhängare över hela världen. Men sektens syn på sex tar en mörk vändning och barn drabbas. En dag slår en arvinge tillbaka.</description>
+            <link>https://sverigesradio.se/avsnitt/2410525</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2410525</guid>
+            <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/d26d65a9-736e-4fbf-bfa6-5d13cc1446d2.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9374547.mp3" length="3939" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Skogsbränderna och kampen mot eldinfernot</title>
             <description>Sommaren 2018 rasar de mest omfattande skogsbränderna i modern tid i Sverige. Bränderna hotar samhällen. Magnus fastnar mitt i eldhavet och från en camping kämpar Marco för att rädda sitt livsverk.</description>
