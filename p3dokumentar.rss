@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Aug 2024 12:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 12:26:20 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7988f9e9-fe3d-4778-bd99-523099d2db61.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9037267.mp3" length="3267" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Branden i Grenfell Tower</title>
-            <description>När det börjar brinna i 24-våningshuset i London sprider sig elden rekordsnabbt genom byggnaden. Omar lyckas ta sig ut, men kvar på 14:e våningen är hans lillebror Mohammed.</description>
-            <link>https://sverigesradio.se/avsnitt/2199793</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2199793</guid>
-            <pubDate>Thu, 10 Aug 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/1400ca45-5e3e-4084-b0bc-773bd5235aa2.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8892850.mp3" length="3984" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
