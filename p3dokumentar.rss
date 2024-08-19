@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Aug 2024 12:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 12:26:16 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 07 Sep 2023 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/df39f793-a60e-42b4-9fc2-36bd3d73e796.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/8984298.mp3" length="4786" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Knivattackerna i Vetlanda</title>
-            <description>En man knivhugger slumpvis utvalda personer under loppet av några minuter i småländska Vetlanda. Nu söker ett helt samhälle svaret på frågan: varför?</description>
-            <link>https://sverigesradio.se/avsnitt/2204517</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2204517</guid>
-            <pubDate>Thu, 24 Aug 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/7988f9e9-fe3d-4778-bd99-523099d2db61.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9037267.mp3" length="3267" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
