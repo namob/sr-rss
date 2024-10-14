@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Oct 2024 12:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 12:29:38 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061941.mp3" length="4156" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Självhjälpsgurun och döden i öknen</title>
-            <description>När ambulans larmas till öknen i Arizona möts man av en skräckscen. Över 50 människor ligger utspridda på marken, några svamlar andra är orörliga. Svetthyddan intill är tom och ledaren syns inte till.</description>
-            <link>https://sverigesradio.se/avsnitt/2270498</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2270498</guid>
-            <pubDate>Thu, 19 Oct 2023 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/ea12249e-6eb9-4e10-bf67-fa0a7942e5f5.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9042469.mp3" length="4976" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
