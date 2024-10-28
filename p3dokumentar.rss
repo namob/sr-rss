@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Oct 2024 12:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 12:30:12 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 16 Nov 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/813ce526-2a52-4e45-aa5e-482253a87070.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9080279.mp3" length="4482" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Rånarligan och skottdramat i Umeå</title>
-            <description>En vårmorgon 2009 ska fyra män spränga sig in i en värdedepå i Umeå. De vet inte att nationella insatsstyrkan redan är där. Rånförsöket urartar i Sveriges största eldstrid mellan polis och rånare.</description>
-            <link>https://sverigesradio.se/avsnitt/2280323</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2280323</guid>
-            <pubDate>Thu, 02 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/e256515c-a82a-4a6e-952d-57ceefe46df8.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9061941.mp3" length="4156" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
