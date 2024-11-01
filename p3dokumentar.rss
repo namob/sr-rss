@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 31 Oct 2024 12:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 12:28:14 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Den ryska spionaffären på Ericsson</title>
+            <description>Säpos spanare ser hur topphemliga dokument från ett av Sveriges viktigaste företag lämnas över till en rysk underrättelseofficer – dokument som kan skada rikets säkerhet om de kommer ut.</description>
+            <link>https://sverigesradio.se/avsnitt/2479195</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2479195</guid>
+            <pubDate>Thu, 31 Oct 2024 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/3c70674a-08ab-49bf-b3c3-3d331be34f04.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9535272.mp3" length="3924" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Kpistdramat i Uppsala</title>
             <description>Elisabeth och hennes fem vänner vandrar hem efter en festkväll i Uppsala. Snart hamnar de i ett inferno av kulor och en dödlig masskjutning.</description>
