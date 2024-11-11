@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 10 Nov 2024 12:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 12:28:58 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9006c718-8578-430d-9ded-87a74fa6e353.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9103076.mp3" length="4513" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Skandalkirurgen Macchiarini och de dödliga experimenten</title>
-            <description>Hyllade Dr. Macchiarini transplanterar luftstrupar av plast i levande människor. Snart anar kollegor på Karolinska att allt inte stämmer och patienter dör. Samtidigt upptäcker fästmön lögn efter lögn.</description>
-            <link>https://sverigesradio.se/avsnitt/2288436</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2288436</guid>
-            <pubDate>Thu, 16 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/813ce526-2a52-4e45-aa5e-482253a87070.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9080279.mp3" length="4482" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
