@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 24 Nov 2024 12:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 12:31:24 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136372.mp3" length="4742" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Fuskligan och kuppen mot högskoleprovet</title>
-            <description>Mattias vill ta sig in på sin drömutbildning, men betygen räcker inte och han kontaktar HP-hjälpen: en fusktjänst som fixar toppresultat till den som betalar.</description>
-            <link>https://sverigesradio.se/avsnitt/2301065</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2301065</guid>
-            <pubDate>Thu, 30 Nov 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/9006c718-8578-430d-9ded-87a74fa6e353.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9103076.mp3" length="4513" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
