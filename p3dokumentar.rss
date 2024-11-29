@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 28 Nov 2024 12:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 12:30:48 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Mordet på Tova Moberg</title>
+            <description>Det är bara några veckor kvar till studenten när 19-åriga Tova Moberg försvinner. Misstankarna riktas mot hennes 22-åriga pojkvän, men direkta bevis saknas.</description>
+            <link>https://sverigesradio.se/avsnitt/2493469</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2493469</guid>
+            <pubDate>Thu, 28 Nov 2024 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/f42fffb0-1c95-4359-856a-12ac74335802.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9572697.mp3" length="5089" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Gåtan Aung San Suu Kyi och rohingyerna</title>
             <description>Aung San Suu Kyi hyllas av en hel värld som fredsikon och hjälte. Men när minoritetsgruppen rohingyer attackeras av militären 2017 och 700 000 tvingas fly från Myanmar, är fredspristagaren tyst.</description>
