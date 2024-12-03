@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Dec 2024 12:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:31:28 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Poddtips: Ny serie från P3 ID om Matthew Perry</title>
+            <description>Ida Lundqvist tipsar om P3 IDs nya miniserie om skådespelaren Matthew Perry. I två avsnitt berättas historien om när sitcomen Vänner skapade tv-historia, om ett livslångt missbruk och om de personer som nu åtalas för att ha bidragit till hans tragiska slut. </description>
+            <link>https://sverigesradio.se/avsnitt/2512049</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2512049</guid>
+            <pubDate>Mon, 02 Dec 2024 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/8aae34a3-d376-40cc-99de-1b46dbb6d512.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9575423.mp3" length="119" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Mordet på Tova Moberg</title>
             <description>Det är bara några veckor kvar till studenten när 19-åriga Tova Moberg försvinner. Misstankarna riktas mot hennes 22-åriga pojkvän, men direkta bevis saknas.</description>
