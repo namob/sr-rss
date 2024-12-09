@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Dec 2024 12:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:33:17 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 28 Dec 2023 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/534478f6-dee1-4190-b020-6f5223edbcef.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9155597.mp3" length="4577" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Bhagwanrörelsen – sekten som fångade Ted Gärdestad</title>
-            <description>När gurun Bhagwan tar sina anhängare till en övergiven ranch i USA är visionerna om ett drömsamhälle stora. Flera svenskar åker dit. Men samhället kommer snart förgöra sig självt inifrån.</description>
-            <link>https://sverigesradio.se/avsnitt/2306600</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2306600</guid>
-            <pubDate>Thu, 14 Dec 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/3e453ea3-2028-45bd-b9d2-ac669f7527e6.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9136372.mp3" length="4742" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
