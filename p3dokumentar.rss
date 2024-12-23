@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Dec 2024 12:26:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:29:08 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 11 Jan 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e12db91a-4d83-4b23-97ec-4d57027659d2.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9157563.mp3" length="4446" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Titanic – det osänkbara skeppet</title>
-            <description>Med på resan över Atlanten finns samhällets rikaste personer och flera hundra emigranter. I 3e klass reser Agnes med sina två små döttrar. Hon hör skriken när 1500 människor dör i det iskalla havet.</description>
-            <link>https://sverigesradio.se/avsnitt/2309134</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2309134</guid>
-            <pubDate>Thu, 28 Dec 2023 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/534478f6-dee1-4190-b020-6f5223edbcef.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9155597.mp3" length="4577" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
