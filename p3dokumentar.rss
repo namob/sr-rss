@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Jan 2025 12:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 12:29:59 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Mon, 22 Jan 2024 15:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c1d4c93f-f4c0-4c6b-a3cf-9e3b2e5d9aad.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9175540.mp3" length="5202" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Ryska stormningen av Greenpeace-skeppet Arctic Sunrise</title>
-            <description>I september 2013 seglar Greenpeace till Barents Hav för att försöka stoppa rysk oljeborrning i Arktis. Men Ryssland slår tillbaka miljöprotesten med en kraft som chockar omvärlden.</description>
-            <link>https://sverigesradio.se/avsnitt/2323127</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2323127</guid>
-            <pubDate>Thu, 11 Jan 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/e12db91a-4d83-4b23-97ec-4d57027659d2.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9157563.mp3" length="4446" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
