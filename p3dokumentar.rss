@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 23 Jan 2025 12:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:28:00 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -26,13 +26,22 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
+            <title>Ny: Mordet på Adriana och gängkriget i Vårby</title>
+            <description>En Audi med beväpnade män rullar genom Stockholm en augustinatt 2020. På en gångväg går 12-åriga Adriana med sin hund och två vänner. Hon kommer bli en symbol för en ny gräns i gängvåldets Sverige.</description>
+            <link>https://sverigesradio.se/avsnitt/2519661</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2519661</guid>
+            <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/6eeacb42-3a26-408a-bba9-c783cfc49f5d.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9633218.mp3" length="3918" type="audio/mpeg" />
+            </item>
+            <item>
             <title>Ny: Ferrarimannen och pyramidspelet</title>
             <description>Han klär sig fint, kör dyra bilar och utlovar hög avkastning till sina investerare. Men när hans Ferrari sprängs i luften, nystas en av Sveriges största bedrägerihärvor upp.</description>
             <link>https://sverigesradio.se/avsnitt/2512048</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2512048</guid>
             <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/281e4d89-8fae-4e39-8f24-d75ecd5cb96f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9616987.mp3" length="4597" type="audio/mpeg" />
+            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9637337.mp3" length="4597" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Bluffjournalisten på tidningen Der Spiegel</title>
