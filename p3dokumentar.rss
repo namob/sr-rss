@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 26 Jan 2025 12:25:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:29:07 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -32,7 +32,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2519661</guid>
             <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/6eeacb42-3a26-408a-bba9-c783cfc49f5d.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9633218.mp3" length="3918" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9633218.mp3" length="3918" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Ferrarimannen och pyramidspelet</title>
@@ -41,7 +41,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2512048</guid>
             <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/281e4d89-8fae-4e39-8f24-d75ecd5cb96f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9637337.mp3" length="4597" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9637337.mp3" length="4597" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Bluffjournalisten på tidningen Der Spiegel</title>
@@ -50,7 +50,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2514112</guid>
             <pubDate>Thu, 26 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7e3af3fa-d05a-4092-b1aa-cc99aad4c993.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9601495.mp3" length="4604" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9601495.mp3" length="4604" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordet på svenska FN-experten Zaida Catalán</title>
@@ -59,7 +59,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2514111</guid>
             <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8e00bf90-c74e-47db-9be7-a1ce5dc3068f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9583956.mp3" length="4351" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9583956.mp3" length="4351" type="audio/mpeg" />
             </item>
             <item>
             <title>Poddtips: Ny serie från P3 ID om Matthew Perry</title>
@@ -68,7 +68,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2512049</guid>
             <pubDate>Mon, 02 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8aae34a3-d376-40cc-99de-1b46dbb6d512.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9575423.mp3" length="119" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9575423.mp3" length="119" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordet på Tova Moberg</title>
@@ -77,7 +77,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2493469</guid>
             <pubDate>Thu, 28 Nov 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f42fffb0-1c95-4359-856a-12ac74335802.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9572697.mp3" length="5089" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9572697.mp3" length="5089" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Gåtan Aung San Suu Kyi och rohingyerna</title>
@@ -86,7 +86,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2460608</guid>
             <pubDate>Thu, 14 Nov 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/fba8bfcc-36fa-4b54-b553-cbef57ec92b5.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9551816.mp3" length="3713" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9551816.mp3" length="3713" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Den ryska spionaffären på Ericsson</title>
@@ -95,7 +95,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2479195</guid>
             <pubDate>Thu, 31 Oct 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3c70674a-08ab-49bf-b3c3-3d331be34f04.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9535272.mp3" length="3924" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9535272.mp3" length="3924" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Kpistdramat i Uppsala</title>
@@ -104,7 +104,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2473873</guid>
             <pubDate>Thu, 17 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e101379-e7b0-4cc4-ae04-baa92a23e72f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9575297.mp3" length="4140" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9575297.mp3" length="4140" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Det svenska rabiesfallet</title>
@@ -113,7 +113,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2471765</guid>
             <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8cf1901f-2b10-49a1-a721-bb62d930473f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9500572.mp3" length="4549" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9500572.mp3" length="4549" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Dubbelmordet i Ljungsbro</title>
@@ -122,7 +122,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2460842</guid>
             <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/919cd270-b1fd-45dd-af26-9a533cc9cbfd.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9481851.mp3" length="4792" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9481851.mp3" length="4792" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Nytorgsmannen</title>
@@ -131,7 +131,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2452970</guid>
             <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/58f68900-2272-4c2e-998e-e4067a5da897.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9464531.mp3" length="4315" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9464531.mp3" length="4315" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Rymdfärjan Columbia och dödskraschen</title>
@@ -140,7 +140,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2445651</guid>
             <pubDate>Thu, 22 Aug 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c4e497e2-88d5-49b6-8b41-a31dbf78b087.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9446009.mp3" length="4150" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9446009.mp3" length="4150" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Miljonrånet och polisskjutningen i Stavanger</title>
@@ -149,7 +149,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2443669</guid>
             <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d520654d-4b22-4b59-9b84-171e5a19b49e.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9430509.mp3" length="4253" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9430509.mp3" length="4253" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Sekten Guds barn och hämnden</title>
@@ -158,7 +158,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2410525</guid>
             <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d26d65a9-736e-4fbf-bfa6-5d13cc1446d2.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9374547.mp3" length="3939" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9374547.mp3" length="3939" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Skogsbränderna och kampen mot eldinfernot</title>
@@ -167,7 +167,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2419819</guid>
             <pubDate>Thu, 11 Jul 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e0101c02-b59d-4338-85f7-a06c7a3c3933.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9394368.mp3" length="4051" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9394368.mp3" length="4051" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Krogvakterna och källarvåldet på Avenyn</title>
@@ -176,7 +176,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2415379</guid>
             <pubDate>Thu, 27 Jun 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/57e6611b-d94f-4dd0-b1e9-a2f359f0e7e6.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9379694.mp3" length="4239" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9379694.mp3" length="4239" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Katastrofen på seglingstävlingen Fastnet Race</title>
@@ -185,7 +185,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2415223</guid>
             <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c2eb54bc-2d63-423e-833e-ee9b136ea557.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9361179.mp3" length="3736" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9361179.mp3" length="3736" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Den svenska rebellrörelsen</title>
@@ -194,7 +194,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2399643</guid>
             <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5618b7fe-d48b-410a-a8c1-8aea956dfc9b.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9344367.mp3" length="4171" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9344367.mp3" length="4171" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 3/3</title>
@@ -203,7 +203,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2393717</guid>
             <pubDate>Thu, 16 May 2024 04:02:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9db400f9-7608-4284-81e9-7258849a0b12.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9325210.mp3" length="3496" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9325210.mp3" length="3496" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 2/3</title>
@@ -212,7 +212,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2393716</guid>
             <pubDate>Thu, 16 May 2024 04:01:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/42fc2a86-869f-4c1a-a977-3e138092b79c.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9323916.mp3" length="3317" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9323916.mp3" length="3317" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 1/3</title>
@@ -221,7 +221,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2390266</guid>
             <pubDate>Thu, 16 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5acdf465-92c4-4f95-a275-226348bf0d5b.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9322973.mp3" length="2589" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9322973.mp3" length="2589" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Högerextremisterna i Charlottesville och den svenske infiltratören</title>
@@ -230,7 +230,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2386635</guid>
             <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/95393624-fa8d-4494-b193-66ca56bd6fb1.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9358381.mp3" length="4353" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9358381.mp3" length="4353" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Barnamorden och satanistskräcken i West Memphis</title>
@@ -239,7 +239,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2370701</guid>
             <pubDate>Thu, 18 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9287740.mp3" length="4595" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9287740.mp3" length="4595" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Masskjutningen på nattklubben i Orlando</title>
@@ -248,7 +248,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2367026</guid>
             <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9265084.mp3" length="4296" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9265084.mp3" length="4296" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
@@ -257,7 +257,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2343045</guid>
             <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9259327.mp3" length="4762" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9259327.mp3" length="4762" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Janne som försvann i Colombias djungel</title>
@@ -266,7 +266,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2342866</guid>
             <pubDate>Thu, 07 Mar 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/97711b9b-7418-43f6-b16f-948ef660253b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9234627.mp3" length="4382" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9234627.mp3" length="4382" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Massmordet på tingshuset i Söderhamn</title>
@@ -275,7 +275,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2329062</guid>
             <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e66974d-3852-4fcf-bb79-e0e0525c9603.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9216065.mp3" length="4907" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9216065.mp3" length="4907" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Jakten på pedofilnätverket Lost boy</title>
@@ -284,7 +284,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2337319</guid>
             <pubDate>Thu, 08 Feb 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://sverigesradio.se/topsy/ljudfil/srapi/9196495.mp3" length="3708" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9196495.mp3" length="3708" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
