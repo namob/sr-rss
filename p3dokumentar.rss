@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Feb 2025 12:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 12:28:34 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e66974d-3852-4fcf-bb79-e0e0525c9603.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9216065.mp3" length="4907" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Jakten på pedofilnätverket Lost boy</title>
-            <description>15-årige Martin Krossnes ringer polisen från en kiosk. En vuxen man försöker locka med honom till ett hotell. Det blir startskottet på en internationell pedofilutredning.</description>
-            <link>https://sverigesradio.se/avsnitt/2337319</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2337319</guid>
-            <pubDate>Thu, 08 Feb 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a78209fe-f784-48e4-b793-599be0336095.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9196495.mp3" length="3708" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
