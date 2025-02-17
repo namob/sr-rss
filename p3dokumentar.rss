@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 16 Feb 2025 12:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 12:30:14 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 07 Mar 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/97711b9b-7418-43f6-b16f-948ef660253b.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9234627.mp3" length="4382" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Massmordet på tingshuset i Söderhamn</title>
-            <description>Det börjar som en kärlekshistoria men slutar i ett blodbad. Efter flera år av rättstvister mellan Gunnar och Cecilia eskalerar allt under en pågående förhandling i tingsrätten.</description>
-            <link>https://sverigesradio.se/avsnitt/2329062</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2329062</guid>
-            <pubDate>Thu, 22 Feb 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/4e66974d-3852-4fcf-bb79-e0e0525c9603.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9216065.mp3" length="4907" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
