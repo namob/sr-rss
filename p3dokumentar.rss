@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Mar 2025 12:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 12:30:30 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9259327.mp3" length="4762" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Janne som försvann i Colombias djungel</title>
-            <description>När svenske Janne Braunisch ger sig ut på sin stora vandring i Colombias djungel har han bara sandaler på fötterna. Förutom snårig mark, farliga djur och regn i mängder så finns här beväpnade grupper.</description>
-            <link>https://sverigesradio.se/avsnitt/2342866</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2342866</guid>
-            <pubDate>Thu, 07 Mar 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/97711b9b-7418-43f6-b16f-948ef660253b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9234627.mp3" length="4382" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
