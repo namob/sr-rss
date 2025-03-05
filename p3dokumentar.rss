@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 04 Mar 2025 12:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 12:30:34 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -28,7 +28,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Särskoleskandalen och fallet Robin och Rasmus</title>
             <description>Tvillingarna placeras i särskolan på oklara grunder och konsekvenserna kommer förfölja dem. Det visar sig att de inte är ensamma. </description>
-            <link>https://sverigesradio.se/avsnitt/2543062</link>
+            <link>https://www.sverigesradio.se/avsnitt/2543062</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2543062</guid>
             <pubDate>Thu, 20 Feb 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8db102e6-8ee1-40f5-9ce5-d645ea19a6ee.png?preset=api-itunes-presentation-image"/>
@@ -37,7 +37,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Gamestop och kriget mot Wall Street</title>
             <description>När hedgefonder satsar på att spelkedjan Gamestops aktie ska rasa, slår tusentals småsparare på Reddit tillbaka och utmanar finanseliten.</description>
-            <link>https://sverigesradio.se/avsnitt/2543156</link>
+            <link>https://www.sverigesradio.se/avsnitt/2543156</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2543156</guid>
             <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/cbf00b05-a31b-46ff-8af8-02dcbd13a085.png?preset=api-itunes-presentation-image"/>
@@ -46,7 +46,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Mordet på Adriana och gängkriget i Vårby</title>
             <description>En Audi med beväpnade män rullar genom Stockholm en augustinatt 2020. På en gångväg går 12-åriga Adriana med sin hund och två vänner. Hon kommer bli en symbol för en ny gräns i gängvåldets Sverige.</description>
-            <link>https://sverigesradio.se/avsnitt/2519661</link>
+            <link>https://www.sverigesradio.se/avsnitt/2519661</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2519661</guid>
             <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/6eeacb42-3a26-408a-bba9-c783cfc49f5d.png?preset=api-itunes-presentation-image"/>
@@ -55,7 +55,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Ferrarimannen och pyramidspelet</title>
             <description>Han klär sig fint, kör dyra bilar och utlovar hög avkastning till sina investerare. Men när hans Ferrari sprängs i luften, nystas en av Sveriges största bedrägerihärvor upp.</description>
-            <link>https://sverigesradio.se/avsnitt/2512048</link>
+            <link>https://www.sverigesradio.se/avsnitt/2512048</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2512048</guid>
             <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/281e4d89-8fae-4e39-8f24-d75ecd5cb96f.jpg?preset=api-itunes-presentation-image"/>
@@ -64,7 +64,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Bluffjournalisten på tidningen Der Spiegel</title>
             <description>En av historiens största medieskandaler avslöjas år 2018. Bedragaren är en av Europas mest uppburna journalister.</description>
-            <link>https://sverigesradio.se/avsnitt/2514112</link>
+            <link>https://www.sverigesradio.se/avsnitt/2514112</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2514112</guid>
             <pubDate>Thu, 26 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7e3af3fa-d05a-4092-b1aa-cc99aad4c993.jpg?preset=api-itunes-presentation-image"/>
@@ -73,7 +73,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Mordet på svenska FN-experten Zaida Catalán</title>
             <description>FN-experten Zaida Catalán tillfångatas när hon åker motorcykeltaxi med kollegan Michael Sharp på uppdrag i Kongo-Kinshasa. Men vem som ligger bakom morden förblir ett mysterium.</description>
-            <link>https://sverigesradio.se/avsnitt/2514111</link>
+            <link>https://www.sverigesradio.se/avsnitt/2514111</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2514111</guid>
             <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8e00bf90-c74e-47db-9be7-a1ce5dc3068f.jpg?preset=api-itunes-presentation-image"/>
@@ -82,7 +82,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Poddtips: Ny serie från P3 ID om Matthew Perry</title>
             <description>Ida Lundqvist tipsar om P3 IDs nya miniserie om skådespelaren Matthew Perry. I två avsnitt berättas historien om när sitcomen Vänner skapade tv-historia, om ett livslångt missbruk och om de personer som nu åtalas för att ha bidragit till hans tragiska slut. </description>
-            <link>https://sverigesradio.se/avsnitt/2512049</link>
+            <link>https://www.sverigesradio.se/avsnitt/2512049</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2512049</guid>
             <pubDate>Mon, 02 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8aae34a3-d376-40cc-99de-1b46dbb6d512.jpg?preset=api-itunes-presentation-image"/>
@@ -91,7 +91,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Mordet på Tova Moberg</title>
             <description>Det är bara några veckor kvar till studenten när 19-åriga Tova Moberg försvinner. Misstankarna riktas mot hennes 22-åriga pojkvän, men direkta bevis saknas.</description>
-            <link>https://sverigesradio.se/avsnitt/2493469</link>
+            <link>https://www.sverigesradio.se/avsnitt/2493469</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2493469</guid>
             <pubDate>Thu, 28 Nov 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f42fffb0-1c95-4359-856a-12ac74335802.jpg?preset=api-itunes-presentation-image"/>
@@ -100,7 +100,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Gåtan Aung San Suu Kyi och rohingyerna</title>
             <description>Aung San Suu Kyi hyllas av en hel värld som fredsikon och hjälte. Men när minoritetsgruppen rohingyer attackeras av militären 2017 och 700 000 tvingas fly från Myanmar, är fredspristagaren tyst.</description>
-            <link>https://sverigesradio.se/avsnitt/2460608</link>
+            <link>https://www.sverigesradio.se/avsnitt/2460608</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2460608</guid>
             <pubDate>Thu, 14 Nov 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/fba8bfcc-36fa-4b54-b553-cbef57ec92b5.jpg?preset=api-itunes-presentation-image"/>
@@ -109,7 +109,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Den ryska spionaffären på Ericsson</title>
             <description>Säpos spanare ser hur topphemliga dokument från ett av Sveriges viktigaste företag lämnas över till en rysk underrättelseofficer – dokument som kan skada rikets säkerhet om de kommer ut.</description>
-            <link>https://sverigesradio.se/avsnitt/2479195</link>
+            <link>https://www.sverigesradio.se/avsnitt/2479195</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2479195</guid>
             <pubDate>Thu, 31 Oct 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3c70674a-08ab-49bf-b3c3-3d331be34f04.jpg?preset=api-itunes-presentation-image"/>
@@ -118,7 +118,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Kpistdramat i Uppsala</title>
             <description>Elisabeth och hennes fem vänner vandrar hem efter en festkväll i Uppsala. Snart hamnar de i ett inferno av kulor och en dödlig masskjutning.</description>
-            <link>https://sverigesradio.se/avsnitt/2473873</link>
+            <link>https://www.sverigesradio.se/avsnitt/2473873</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2473873</guid>
             <pubDate>Thu, 17 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e101379-e7b0-4cc4-ae04-baa92a23e72f.jpg?preset=api-itunes-presentation-image"/>
@@ -127,7 +127,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Det svenska rabiesfallet</title>
             <description>Malin kommer in till Södersjukhuset med mystiska symtom. Snart kommer misstanken – om ett dödligt virus som varit utrotat i Sverige i 100 år.</description>
-            <link>https://sverigesradio.se/avsnitt/2471765</link>
+            <link>https://www.sverigesradio.se/avsnitt/2471765</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2471765</guid>
             <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8cf1901f-2b10-49a1-a721-bb62d930473f.jpg?preset=api-itunes-presentation-image"/>
@@ -136,7 +136,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Dubbelmordet i Ljungsbro</title>
             <description>Från altanen hör Pia Östlingh bråk ute vid vägen. Hon riskerar sitt eget liv när hon rusar ut för att stoppa misshandeln.</description>
-            <link>https://sverigesradio.se/avsnitt/2460842</link>
+            <link>https://www.sverigesradio.se/avsnitt/2460842</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2460842</guid>
             <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/919cd270-b1fd-45dd-af26-9a533cc9cbfd.jpg?preset=api-itunes-presentation-image"/>
@@ -145,7 +145,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Nytorgsmannen</title>
             <description>En gärningsman dokumenterar sina övergrepp, men upptäcks av en slump. För polisen börjar ett svårt arbete för att lista ut vilka brottsoffren är.</description>
-            <link>https://sverigesradio.se/avsnitt/2452970</link>
+            <link>https://www.sverigesradio.se/avsnitt/2452970</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2452970</guid>
             <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/58f68900-2272-4c2e-998e-e4067a5da897.jpg?preset=api-itunes-presentation-image"/>
@@ -154,7 +154,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Rymdfärjan Columbia och dödskraschen</title>
             <description>2003 sker en tragedi som förändrar NASA i grunden och blir början på slutet för det amerikanska rymdfärjeprogrammet. Ombord på Columbia finns astronauten Laurel, vars man och son väntar förgäves.</description>
-            <link>https://sverigesradio.se/avsnitt/2445651</link>
+            <link>https://www.sverigesradio.se/avsnitt/2445651</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2445651</guid>
             <pubDate>Thu, 22 Aug 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c4e497e2-88d5-49b6-8b41-a31dbf78b087.jpg?preset=api-itunes-presentation-image"/>
@@ -163,7 +163,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Miljonrånet och polisskjutningen i Stavanger</title>
             <description>Med rånarluva och vapen klättrar 7 rånare in på innergården till Nokas värdedepå. Rånet skulle bara ta 8 minuter men slutar i en vild skottlossning med polisen.</description>
-            <link>https://sverigesradio.se/avsnitt/2443669</link>
+            <link>https://www.sverigesradio.se/avsnitt/2443669</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2443669</guid>
             <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d520654d-4b22-4b59-9b84-171e5a19b49e.jpg?preset=api-itunes-presentation-image"/>
@@ -172,7 +172,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Sekten Guds barn och hämnden</title>
             <description>En sektledare som talar om fri kärlek drar till sig anhängare över hela världen. Men sektens syn på sex tar en mörk vändning och barn drabbas. En dag slår en arvinge tillbaka.</description>
-            <link>https://sverigesradio.se/avsnitt/2410525</link>
+            <link>https://www.sverigesradio.se/avsnitt/2410525</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2410525</guid>
             <pubDate>Thu, 25 Jul 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d26d65a9-736e-4fbf-bfa6-5d13cc1446d2.jpg?preset=api-itunes-presentation-image"/>
@@ -181,7 +181,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Skogsbränderna och kampen mot eldinfernot</title>
             <description>Sommaren 2018 rasar de mest omfattande skogsbränderna i modern tid i Sverige. Bränderna hotar samhällen. Magnus fastnar mitt i eldhavet och från en camping kämpar Marco för att rädda sitt livsverk.</description>
-            <link>https://sverigesradio.se/avsnitt/2419819</link>
+            <link>https://www.sverigesradio.se/avsnitt/2419819</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2419819</guid>
             <pubDate>Thu, 11 Jul 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e0101c02-b59d-4338-85f7-a06c7a3c3933.jpg?preset=api-itunes-presentation-image"/>
@@ -190,7 +190,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Krogvakterna och källarvåldet på Avenyn</title>
             <description>2008 börjar det komma in anmälningar om våld från krogvakter på två nattklubbar. Polisen lägger ner anmälningarna i samma takt som de kommer in. Tills en poliskommissarie tittar närmare på fallen.</description>
-            <link>https://sverigesradio.se/avsnitt/2415379</link>
+            <link>https://www.sverigesradio.se/avsnitt/2415379</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2415379</guid>
             <pubDate>Thu, 27 Jun 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/57e6611b-d94f-4dd0-b1e9-a2f359f0e7e6.jpg?preset=api-itunes-presentation-image"/>
@@ -199,7 +199,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Katastrofen på seglingstävlingen Fastnet Race</title>
             <description>Under en av världens största havskappseglingar bryter en kraftig storm ut. Storbritanniens största räddningsinsats sen andra världskriget drar igång men 19 liv går inte att rädda i de höga vågorna.</description>
-            <link>https://sverigesradio.se/avsnitt/2415223</link>
+            <link>https://www.sverigesradio.se/avsnitt/2415223</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2415223</guid>
             <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c2eb54bc-2d63-423e-833e-ee9b136ea557.jpg?preset=api-itunes-presentation-image"/>
@@ -208,7 +208,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Den svenska rebellrörelsen</title>
             <description>Under några febriga veckor 1968 organiserar sig ett 100-tal unga vänsterextremister i hemliga celler i Stockholm och Uppsala. Målet är att genomföra en väpnad revolution i Sverige.</description>
-            <link>https://sverigesradio.se/avsnitt/2399643</link>
+            <link>https://www.sverigesradio.se/avsnitt/2399643</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2399643</guid>
             <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5618b7fe-d48b-410a-a8c1-8aea956dfc9b.jpg?preset=api-itunes-presentation-image"/>
@@ -217,7 +217,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 3/3</title>
             <description>I ett parkeringsgarage i utkanten av Sao Paulo tar Magnus emot en ryggsäck som han ska ta med på flyget till Spanien. Men han stoppas i tullen i Madrid. Avsnitt 3: Luftslottet.</description>
-            <link>https://sverigesradio.se/avsnitt/2393717</link>
+            <link>https://www.sverigesradio.se/avsnitt/2393717</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2393717</guid>
             <pubDate>Thu, 16 May 2024 04:02:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9db400f9-7608-4284-81e9-7258849a0b12.jpg?preset=api-itunes-presentation-image"/>
@@ -226,7 +226,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 2/3</title>
             <description>Magnus åker till Dubai för att träffa en shejk som ska hjälpa honom få ut arvet. För att få loss pengarna sätter han sitt hem på spel. Avsnitt 2: Huset på Ekerö.</description>
-            <link>https://sverigesradio.se/avsnitt/2393716</link>
+            <link>https://www.sverigesradio.se/avsnitt/2393716</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2393716</guid>
             <pubDate>Thu, 16 May 2024 04:01:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/42fc2a86-869f-4c1a-a977-3e138092b79c.jpg?preset=api-itunes-presentation-image"/>
@@ -235,7 +235,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 1/3</title>
             <description>Magnus Gruvén svarar på ett mejl och snart kommer hela hans värld att rasa samman. Ett av de största bedrägerierna i Sverige tar sin början. Avsnitt 1: Mejlet från Mrs William.</description>
-            <link>https://sverigesradio.se/avsnitt/2390266</link>
+            <link>https://www.sverigesradio.se/avsnitt/2390266</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2390266</guid>
             <pubDate>Thu, 16 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5acdf465-92c4-4f95-a275-226348bf0d5b.jpg?preset=api-itunes-presentation-image"/>
@@ -244,7 +244,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Högerextremisterna i Charlottesville och den svenske infiltratören</title>
             <description>Nazister marscherar med facklor och rasistiska slagord genom Charlottesville 2017. I ledet går svenske Patrik, antirasist och infiltratör. Den helgen sker ett högerextremt attentat i den lilla staden.</description>
-            <link>https://sverigesradio.se/avsnitt/2386635</link>
+            <link>https://www.sverigesradio.se/avsnitt/2386635</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2386635</guid>
             <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/95393624-fa8d-4494-b193-66ca56bd6fb1.jpg?preset=api-itunes-presentation-image"/>
@@ -253,7 +253,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Barnamorden och satanistskräcken i West Memphis</title>
             <description>När tre åttaåringar hittas mördade i ett dike i West Memphis pekas tre udda tonåringar ut som mördare. De misstänks ha offrat barnen i en satanistisk ritual men säger själva att de är oskyldiga.</description>
-            <link>https://sverigesradio.se/avsnitt/2370701</link>
+            <link>https://www.sverigesradio.se/avsnitt/2370701</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2370701</guid>
             <pubDate>Thu, 18 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
@@ -262,7 +262,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: Masskjutningen på nattklubben i Orlando</title>
             <description>En festkväll år 2016 på gayklubben Pulse förvandlas till en blodig massaker när en 29-årig man plötsligt börjar skjuta mitt på dansgolvet. 50 personer dödas inne på klubben.</description>
-            <link>https://sverigesradio.se/avsnitt/2367026</link>
+            <link>https://www.sverigesradio.se/avsnitt/2367026</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2367026</guid>
             <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
@@ -271,7 +271,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <item>
             <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
             <description>När OJ Simpsons exfru hittas mördad utanför sitt hem i Los Angeles blir fotbollsstjärnan snabbt misstänkt. Frågan om hans skuld splittrar amerikanerna och eldar på debatten om systematisk rasism.</description>
-            <link>https://sverigesradio.se/avsnitt/2343045</link>
+            <link>https://www.sverigesradio.se/avsnitt/2343045</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2343045</guid>
             <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
