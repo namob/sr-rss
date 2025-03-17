@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 16 Mar 2025 12:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 12:32:04 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9265084.mp3" length="4296" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: OJ Simpson och mordfallet som splittrade USA</title>
-            <description>När OJ Simpsons exfru hittas mördad utanför sitt hem i Los Angeles blir fotbollsstjärnan snabbt misstänkt. Frågan om hans skuld splittrar amerikanerna och eldar på debatten om systematisk rasism.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2343045</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2343045</guid>
-            <pubDate>Thu, 21 Mar 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/f3d1c2a3-4566-4937-9e56-f810623f8e68.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9259327.mp3" length="4762" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
