@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 30 Mar 2025 12:28:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 12:32:09 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 18 Apr 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9287740.mp3" length="4595" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Masskjutningen på nattklubben i Orlando</title>
-            <description>En festkväll år 2016 på gayklubben Pulse förvandlas till en blodig massaker när en 29-årig man plötsligt börjar skjuta mitt på dansgolvet. 50 personer dödas inne på klubben.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2367026</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2367026</guid>
-            <pubDate>Thu, 04 Apr 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/637e5d90-3d10-479c-9119-a7d8d000fad5.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9265084.mp3" length="4296" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
