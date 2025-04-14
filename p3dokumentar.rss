@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Apr 2025 12:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 12:32:32 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/95393624-fa8d-4494-b193-66ca56bd6fb1.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9358381.mp3" length="4353" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Barnamorden och satanistskräcken i West Memphis</title>
-            <description>När tre åttaåringar hittas mördade i ett dike i West Memphis pekas tre udda tonåringar ut som mördare. De misstänks ha offrat barnen i en satanistisk ritual men säger själva att de är oskyldiga.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2370701</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2370701</guid>
-            <pubDate>Thu, 18 Apr 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/c696bd11-f185-4f18-8322-43b84b514970.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9287740.mp3" length="4595" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
