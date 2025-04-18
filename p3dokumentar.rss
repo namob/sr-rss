@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Apr 2025 12:32:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 12:30:58 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,33 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Vittnet i verkstaden – Privatdetektiven och de mystiska dödsfallen, del 3</title>
+            <description>Del 3 av 3. Polisen är pralinligan på spåren. I Bartoszfallet finns ingen lösning i sikte. Men hans vänner har inte gett upp hoppet.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2583922</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2583922</guid>
+            <pubDate>Thu, 17 Apr 2025 04:02:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/a3f8222c-7bf6-4b58-8f94-eff5b1985694.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736966.mp3" length="2962" type="audio/mpeg" />
+            </item>
+            <item>
+            <title>Ny: De spetsade chokladpralinerna – Privatdetektiven och de mystiska dödsfallen, del 2</title>
+            <description>Del 2 av 3. Mindre än ett år efter att Bartosz kropp påträffats, hittas en antikhandlare död i sin lägenhet i Malmö.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2583862</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2583862</guid>
+            <pubDate>Thu, 17 Apr 2025 04:01:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/fb6c92d5-ec78-4c49-b58b-32b59519d880.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736460.mp3" length="2234" type="audio/mpeg" />
+            </item>
+            <item>
+            <title>Ny: Den döde killen i bagageluckan – Privatdetektiven och de mystiska dödsfallen, del 1</title>
+            <description>Del 1 av 3. En ung man hittas död i bagageluckan i sin egen bil. Fallet blir en labyrint, med kopplingar till fler händelser i 90-talets Malmö.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2583852</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2583852</guid>
+            <pubDate>Thu, 17 Apr 2025 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/aee37ab1-1c8d-4d29-af05-3c480a94ac13.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736442.mp3" length="2165" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Mordet på åttaåriga Yara</title>
             <description>På valborgsmässoafton 2014 hittas åttaåriga Yara livlös i sitt hem. Ambulanspersonalen beskriver brutaliteten mot barnet som det värsta de sett.</description>
