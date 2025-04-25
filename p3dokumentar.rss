@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 24 Apr 2025 12:33:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 12:32:37 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -26,7 +26,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
             <item>
-            <title>Ny serie: Vittnet i verkstaden – Privatdetektiven och de mystiska dödsfallen, del 3</title>
+            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 3 – Vittnet i verkstaden</title>
             <description>Del 3 av 3. Polisen är pralinligan på spåren. I Bartoszfallet finns ingen lösning i sikte. Men hans vänner har inte gett upp hoppet.</description>
             <link>https://www.sverigesradio.se/avsnitt/2583922</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583922</guid>
@@ -35,7 +35,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736966.mp3" length="2962" type="audio/mpeg" />
             </item>
             <item>
-            <title>Ny serie: De spetsade chokladpralinerna – Privatdetektiven och de mystiska dödsfallen, del 2</title>
+            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 2 – De spetsade chokladpralinerna</title>
             <description>Del 2 av 3. Mindre än ett år efter att Bartosz kropp påträffats, hittas en antikhandlare död i sin lägenhet i Malmö.</description>
             <link>https://www.sverigesradio.se/avsnitt/2583862</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583862</guid>
@@ -44,7 +44,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736460.mp3" length="2234" type="audio/mpeg" />
             </item>
             <item>
-            <title>Ny serie: Den döde killen i bagageluckan – Privatdetektiven och de mystiska dödsfallen, del 1</title>
+            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 1 – Den döde killen i bagageluckan</title>
             <description>Del 1 av 3. En ung man hittas död i bagageluckan i sin egen bil. Fallet blir en labyrint, med kopplingar till fler händelser i 90-talets Malmö.</description>
             <link>https://www.sverigesradio.se/avsnitt/2583852</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583852</guid>
