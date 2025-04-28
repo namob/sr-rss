@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Apr 2025 12:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 12:33:49 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -294,15 +294,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 16 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5acdf465-92c4-4f95-a275-226348bf0d5b.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9322973.mp3" length="2589" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Högerextremisterna i Charlottesville och den svenske infiltratören</title>
-            <description>Nazister marscherar med facklor och rasistiska slagord genom Charlottesville 2017. I ledet går svenske Patrik, antirasist och infiltratör. Den helgen sker ett högerextremt attentat i den lilla staden.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2386635</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2386635</guid>
-            <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/95393624-fa8d-4494-b193-66ca56bd6fb1.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9358381.mp3" length="4353" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
