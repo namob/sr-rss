@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 01 May 2025 12:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 12:32:10 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Knarkbossen och den norska polisskandalen</title>
+            <description>En känd polischef grips av sina kollegor i polishusets garage i Oslo. Han misstänks för att ha levt ett dubbelliv och hjälpt en känd knarkboss i smyg.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2590336</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2590336</guid>
+            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/69b8adae-4586-4343-b517-1ff21257c72d.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9750089.mp3" length="4821" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 3 – Vittnet i verkstaden</title>
             <description>Del 3 av 3. Polisen är pralinligan på spåren. I Bartoszfallet finns ingen lösning i sikte. Men hans vänner har inte gett upp hoppet.</description>
