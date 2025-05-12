@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 11 May 2025 12:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 12:34:38 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,33 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/5618b7fe-d48b-410a-a8c1-8aea956dfc9b.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9344367.mp3" length="4171" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 3/3</title>
-            <description>I ett parkeringsgarage i utkanten av Sao Paulo tar Magnus emot en ryggsäck som han ska ta med på flyget till Spanien. Men han stoppas i tullen i Madrid. Avsnitt 3: Luftslottet.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2393717</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2393717</guid>
-            <pubDate>Thu, 16 May 2024 04:02:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/9db400f9-7608-4284-81e9-7258849a0b12.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9325210.mp3" length="3496" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 2/3</title>
-            <description>Magnus åker till Dubai för att träffa en shejk som ska hjälpa honom få ut arvet. För att få loss pengarna sätter han sitt hem på spel. Avsnitt 2: Huset på Ekerö.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2393716</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2393716</guid>
-            <pubDate>Thu, 16 May 2024 04:01:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/42fc2a86-869f-4c1a-a977-3e138092b79c.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9323916.mp3" length="3317" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Miljonbedrägeriet – mannen som svarade på ett nigeriabrev 1/3</title>
-            <description>Magnus Gruvén svarar på ett mejl och snart kommer hela hans värld att rasa samman. Ett av de största bedrägerierna i Sverige tar sin början. Avsnitt 1: Mejlet från Mrs William.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2390266</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2390266</guid>
-            <pubDate>Thu, 16 May 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/5acdf465-92c4-4f95-a275-226348bf0d5b.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9322973.mp3" length="2589" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
