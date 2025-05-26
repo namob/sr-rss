@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 May 2025 12:30:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 12:33:23 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 13 Jun 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c2eb54bc-2d63-423e-833e-ee9b136ea557.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9361179.mp3" length="3736" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Den svenska rebellrörelsen</title>
-            <description>Under några febriga veckor 1968 organiserar sig ett 100-tal unga vänsterextremister i hemliga celler i Stockholm och Uppsala. Målet är att genomföra en väpnad revolution i Sverige.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2399643</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2399643</guid>
-            <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/5618b7fe-d48b-410a-a8c1-8aea956dfc9b.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9344367.mp3" length="4171" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
