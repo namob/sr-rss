@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 05 Jun 2025 12:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 12:34:01 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -86,7 +86,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2575535</guid>
             <pubDate>Thu, 03 Apr 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d851383f-82d3-4e7f-a7e9-380c902d8b04.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9719288.mp3" length="4548" type="audio/mpeg" />
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791635.mp3" length="4548" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Vrakplundrarna på Östersjön</title>
