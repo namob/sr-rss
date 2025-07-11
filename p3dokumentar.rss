@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 10 Jul 2025 12:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 12:35:18 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Polisbombningen mot MOVE-rörelsen i Philadelphia</title>
+            <description>Den radikala rörelsen MOVE hamnar ofta i konfrontation med polisen. 1985 släpper polisen en bomb på deras hus. 11 personer dör, inklusive 5 barn.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2615283</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2615283</guid>
+            <pubDate>Thu, 10 Jul 2025 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/d9f5a754-5526-410e-8d20-2f7a5cd788c5.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9813342.mp3" length="4718" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Seriemördaren på grisfarmen</title>
             <description>Över 50 kvinnor försvinner från Vancouvers mest utsatta område, Downtown Eastside. Många av kvinnorna är drogberoende och prostituerade. Men där tar ledtrådarna slut.</description>
