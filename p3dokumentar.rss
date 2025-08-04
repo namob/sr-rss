@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 03 Aug 2025 12:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 12:39:58 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 22 Aug 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/c4e497e2-88d5-49b6-8b41-a31dbf78b087.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9446009.mp3" length="4150" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Miljonrånet och polisskjutningen i Stavanger</title>
-            <description>Med rånarluva och vapen klättrar 7 rånare in på innergården till Nokas värdedepå. Rånet skulle bara ta 8 minuter men slutar i en vild skottlossning med polisen.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2443669</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2443669</guid>
-            <pubDate>Thu, 08 Aug 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/d520654d-4b22-4b59-9b84-171e5a19b49e.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9430509.mp3" length="4253" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
