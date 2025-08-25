@@ -34,7 +34,7 @@ rss = f"""<?xml version="1.0" encoding="UTF-8"?>
 todate = date.today().isoformat()
 fromdate = (date.today() - timedelta(days=360)).isoformat()
 
-url = "http://api.sr.se/api/v2/episodes/index?programid=2399&fromdate=2003-01-01&todate=2025-08-25&audioquality=hi&format=json&size=200"
+url = f"http://api.sr.se/api/v2/episodes/index?programid=2399&fromdate=2003-01-01&todate={todate}&audioquality=hi&format=json&size=300"
 try:
   r = requests.get(url)
 except Exception as e:
