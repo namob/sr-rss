@@ -1,0 +1,1639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/po>
+  <channel>
+    <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
+    <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Mon, 25 Aug 2025 15:34:11 GMT</lastBuildDate>
+    <image>
+      <title>Mammas Nya Kille</title>
+      <link>https://www.sverigesradio.se/mammasnyakille</link>
+      <url>https://static-cdn.sr.se/images/2399/ba5436f2-ba5c-4723-b738-220396a27ff7.jpg?preset=api-itunes-presentation-image</url>
+    </image>
+    <itunes:image href="https://static-cdn.sr.se/images/2399/ba5436f2-ba5c-4723-b738-220396a27ff7.jpg?preset=api-itunes-presentation-image"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>Norrländsk humor när den är som bäst. Ansvarig utgivare: Mark Malmström Fast</itunes:summary>
+    <itunes:author>Sveriges Radio</itunes:author>
+    <itunes:category text="Comedy"/>
+    <itunes:owner>
+      <itunes:name>Mammas Nya Kille</itunes:name>
+      <itunes:email>podd@sverigesradio.se</itunes:email>
+    </itunes:owner>
+    <title>Mammas Nya Kille</title>
+    <link>https://www.sverigesradio.se/mammasnyakille</link>
+    <description>Norrländsk humor när den är som bäst. Ansvarig utgivare: Mark Malmström Fast</description>
+    <language>sv</language>
+    <copyright>Copyright Sveriges Radio 2025. All rights reserved.</copyright>
+    <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+        <item>
+        <title>Katarsis</title>
+        <description>Thunder spelar brännboll, Konstantin vänder blad och Markus Lundin vill återförena Kent en sista gång.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2648462</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2648462</guid>
+        <pubDate>Sat, 23 Aug 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f9bab18b-e09e-490c-afc4-bfbf746eba9a.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863393.mp3" length="1140" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Yippee-Ki-Yay</title>
+        <description>Livscoach Peter Nilsson botar jobbångest, Lacken och Tråden minns när de gick i kyrkan som barn och Katla bjuder på en sista begravningsplan.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2648458</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2648458</guid>
+        <pubDate>Sat, 16 Aug 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/cde5a541-b44c-4f2d-a639-64cccea5bfe3.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863342.mp3" length="1272" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Till häst genom Västerbotten</title>
+        <description>Norrländsk humor när den är som bäst.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2651279</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2651279</guid>
+        <pubDate>Fri, 15 Aug 2025 17:06:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9869871-hi.m4a" length="9240" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Resfeber</title>
+        <description>Jens ser sanningen i vitögat, Lacken & Tråden bjuder på barndomsminnen och Shanti delar med sig av ett moraliskt dilemma.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2636047</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2636047</guid>
+        <pubDate>Sat, 09 Aug 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/560cd34b-fece-44af-9ae0-8eb7ce88b915.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836838.mp3" length="1145" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Är det okej om jag röker?</title>
+        <description>Hans vill bli infrusen i en glaciär, Shanti Roney läser högt och Jens gör en chockerande upptäckt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2636046</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2636046</guid>
+        <pubDate>Sat, 02 Aug 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/90361464-a874-42ce-a828-a2701d52d6f2.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836837.mp3" length="1146" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jag vill ha en kattbegravning</title>
+        <description>Kicki Tapper bjuder på snus, Lacken och Tråden minns sin barndom och Agneta vill stoppa porr.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2636045</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2636045</guid>
+        <pubDate>Sat, 26 Jul 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/7c448aea-d0a4-49c4-bd0d-f296332f4fc5.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840442.mp3" length="1255" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Glöm aldrig Hajpojken!</title>
+        <description>Jens går till botten med Peter Jöbacks ondskefulla baklängesmeddelanden, Lacken & Tråden minns sin dagmamma och så dyker Hajpojken upp</description>
+        <link>https://www.sverigesradio.se/avsnitt/2627915</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2627915</guid>
+        <pubDate>Sat, 19 Jul 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/03e8533f-f22a-4773-8989-3dbc9520df1c.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840392.mp3" length="1191" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Förr i världen var man dum i huvudet nå djävulskt</title>
+        <description>Jens avslöjar en oväntad miljöbov, Kicki Tapper kavlar upp ärmarna och Mirjo rapporterar från den romersk-grekiska bundesligan i på måfå</description>
+        <link>https://www.sverigesradio.se/avsnitt/2621253</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2621253</guid>
+        <pubDate>Sat, 12 Jul 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/b46048a1-fd63-4a00-bd12-a23b7d456e90.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803358.mp3" length="1114" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Vi syns i marschallens skugga</title>
+        <description>Jens har hittat onda budskap i Orups låtar, Mirjo rapporterar på måfå direkt från Gargamel Parten Kirtsen och Kicki Tapper övar läsförståelse med oss.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2621252</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2621252</guid>
+        <pubDate>Sat, 05 Jul 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/1338f8dd-26ef-412e-9cbf-8239da18c19e.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803355.mp3" length="1194" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Big in Japan</title>
+        <description>Jens avslöjar en mobbare, Mirjo rapporter på måfå och Agneta vill varna förtagare som tänker expandera globalt</description>
+        <link>https://www.sverigesradio.se/avsnitt/2621251</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2621251</guid>
+        <pubDate>Sat, 28 Jun 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/5de1cdb6-72cc-41bc-b22f-d04aeeed4551.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803353.mp3" length="1158" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Helt på måfå</title>
+        <description>Mirjo rapporter från låglands VM i på måfå, Kicki Tapper har skrivit en barnbok och Job vet hur det gick till förr i tiden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2621206</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2621206</guid>
+        <pubDate>Sat, 21 Jun 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/26a7ddc9-4ed1-4413-85ba-d6caf730c874.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803190.mp3" length="1128" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Lär dig läsa annars får du stryk!</title>
+        <description>Säsong 9. Avsnitt 2 av 20. Kicki vill öka läsförståelsen hos barn och unga, Jens förfasar sig över Tommy Nilssons dolda budskap och Katla vill hyra gråterskor.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2612466</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2612466</guid>
+        <pubDate>Sat, 14 Jun 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/d22aedf7-fa97-4901-9cc8-f6bf094542f5.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786807.mp3" length="1172" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Hör du vem som viskar dig i örat?</title>
+        <description>Säsong 9. Avsnitt 1 av 20. Mirjo rapporterar på måfå, Jens har upptäckt baklängesmeddelanden och Agneta vill varna för oseriösa körskolor.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2612465</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2612465</guid>
+        <pubDate>Sat, 07 Jun 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/9ec15e75-c82e-49cb-83cf-2fde77254e09.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786806.mp3" length="1140" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Vinter – Till häst genom Västerbotten</title>
+        <description>Specialserie del 3 av 3. Om en djävulsk händelse på Lycksamyran, Lapplands första dödsklinik och att vara radiostyrd av utomjordingar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2583355</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2583355</guid>
+        <pubDate>Fri, 02 May 2025 04:02:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747714.mp3" length="1693" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Höst – Till häst genom Västerbotten</title>
+        <description>Specialseriedel 2 av 3. Ett rättegångsprotokoll med hundra procent sanningshalt och noll procent berättarglädje, ett säpouppdrag med sikte på länets oknytt och ett världsrekordförsök av en ögonläkare utan mjölksyratröskel.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2583354</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2583354</guid>
+        <pubDate>Fri, 02 May 2025 04:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747713.mp3" length="1588" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sommar – Till häst genom Västerbotten</title>
+        <description>Specialserie del 1 av 3. Om Natans fantastiska kropp, blodbadet på Stantorsvallen och powerballadens födelse.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2583353</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2583353</guid>
+        <pubDate>Fri, 02 May 2025 04:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747712.mp3" length="1708" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Grässäljaren Håkan kommer tillbaka!</title>
+        <description>Säsong 8. Avsnitt 10 av 10. Dessutom startar Lacken & Tråden en galleria och så går förhoppningsvis Agneta i mål.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1744404</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1744404</guid>
+        <pubDate>Fri, 13 Aug 2021 04:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791476.mp3" length="1877" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Lacken & Tråden smusslar musslor</title>
+        <description>Säsong 8. Avsnitt 9 av 10. Dessutom hälsar Sveriges ärligaste popartist Hokus Pokus på igen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1744405</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1744405</guid>
+        <pubDate>Fri, 06 Aug 2021 04:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7909717.mp3" length="1625" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jessicas bästa göra slut-repliker</title>
+        <description>Säsong 8. Avsnitt 8 av 10. Jessica från Sunne bjuder på sin topp-fem-lista på de bästa ”göra slut” replikerna. Dessutom hungerstrejkar Lacken & Tråden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1744385</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1744385</guid>
+        <pubDate>Fri, 30 Jul 2021 04:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908949.mp3" length="1690" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Netflix nästa: Hajpojken</title>
+        <description>Säsong 8. Avsnitt 7 av 10. Författaren bakom romanen ”Hajpojken” funderar över livet i karantän. Dessutom berättar folklivsfanatiker Job Andersson hur det gick till när Norden gick från asatro till kristendomen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1744384</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1744384</guid>
+        <pubDate>Fri, 23 Jul 2021 04:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908948.mp3" length="1601" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla sätter Peter Pan i rullstol</title>
+        <description>Säsong 8. Avsnitt 6 av 10. Nycirkusartisten Katla bjuder på världspremiär av sin egna tolkning av Peter Pan. Dessutom minns Lacken & Tråden när de startade bemanningsföretag.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1715937</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1715937</guid>
+        <pubDate>Sun, 18 Jul 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894710.mp3" length="1562" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Job gräver i småbyxorna</title>
+        <description>Säsong 8. Avsnitt 5 av 10. Dessutom pallar Lacken & Tråden frukt och Geggan vägrar vara med i vägföreningen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1744752</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1744752</guid>
+        <pubDate>Sun, 11 Jul 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894736.mp3" length="1768" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla hatar Peter Pan</title>
+        <description>Dessutom knallar Agneta Fagerwall Olsen vidare och så svarar livscoahen Peter Nilsson på lyssnarfrågor om renoveringar och andra sommarprojekt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1741902</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1741902</guid>
+        <pubDate>Sun, 04 Jul 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882169.mp3" length="1633" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Håkan säljer gräs!</title>
+        <description>Säsong 8. Avsnitt 3 av 10. Dessutom bjuder Thunder på fler av sina bästa tips och så ringer vi och kollar om Mangan har kryat på sig.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1715934</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1715934</guid>
+        <pubDate>Sun, 27 Jun 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882168.mp3" length="1691" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jan Evert vill återuppleva svältåret 1867</title>
+        <description>Säsong 8. Avsnitt 2 av 10. Dessutom bjuder livcoachen Peter Nilsson på sina bästa tips om renoveringar och andra sommarprojekt och så rapporter Kicki Tapper från Non Fighting generations summer camp i Hagfors.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1731569</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1731569</guid>
+        <pubDate>Sun, 20 Jun 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867357.mp3" length="1582" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Dinosaurierna – sömntutornas Rolls-Royce</title>
+        <description>Säsong 8. Avsnitt 1 av 10. Job Andersson berättar varför dinosaurierna dog ut. Dessutom möter vi artisten ”Hocus Pocus”, det nya hoppet på den svenska pophimlen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1731568</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1731568</guid>
+        <pubDate>Sun, 13 Jun 2021 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867290.mp3" length="1783" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katlas provocerande uppväxt</title>
+        <description>Säsong 7. Avsnitt 10 av 10. Nycirkusartisten Katla är veckans livsresenär och lättar på förlåten. Dessutom går Mangan i mål, Lacken & Tråden pratar modigt om sin skolgång och Jenny blickar framåt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597366</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597366</guid>
+        <pubDate>Fri, 18 Dec 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791544.mp3" length="2018" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Annikki – kortväxt men längst i byn</title>
+        <description>Säsong 7. Avsnitt 9 av 10. Veckans livsresenär Annikki Mäkinen förhåller sig rationell och pragmatisk till sin omvärld. Dessutom samtalar Lacken & Tråden modigt om tvåsamhet och Jenny sörjer en livskamrat.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597363</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597363</guid>
+        <pubDate>Fri, 11 Dec 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562303.mp3" length="1900" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kicki vägrar villa, Volvo och vovve</title>
+        <description>Säsong 7. Avsnitt 8 av 10. Värmlands raggardrottning Kicki Tapper delar med sig av sin livsresa. Dessutom första hjälpen tips med Jenny och nytt modigt samtal mellan Lacken & Tråden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597360</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597360</guid>
+        <pubDate>Fri, 04 Dec 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562304.mp3" length="1689" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Från Top Gun till toppnamn – Thomas Wii</title>
+        <description>Säsong 7. Avsnitt 7 av 10. Idealisten, filmtipsaren och skokännaren Tomas Wii bjuder på sin livsresa. Dessutom täljer Mangan guld, Lacken & Tråden bygger en mat-tant och Jenny pratar fobier.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597330</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597330</guid>
+        <pubDate>Fri, 27 Nov 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562305.mp3" length="1788" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Dansa med kalvar” starring ”Geggan”</title>
+        <description>Säsong 7. Avsnitt 6 av 10. Skolvaktmästaren Lars-Erik ”Geggan” Nordin bjuder på sin livsresa. Dessutom har Mangan äntligen fått sitt genombrott som begravningssolist och Lacken & Tråden minns sin gäddfarm.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597296</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597296</guid>
+        <pubDate>Fri, 20 Nov 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562306.mp3" length="1706" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>105 % Peter Nilsson</title>
+        <description>Säsong 7. Avsnitt 5 av 10. Livscoachen Peter Nilsson bjuder på sin livsresa. Dessutom fortsätter Mangan klättra på karriärstegen som begravningssolist och Jenny har koll på olika missbrukstyper.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597293</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597293</guid>
+        <pubDate>Fri, 13 Nov 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562308.mp3" length="1839" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jessicas inre FlumeRide</title>
+        <description>Säsong 7. Avsnitt 4 av 10. Veckans livsresenär Jessica från Sunne har brutit upp och återförenat så många gånger med sin kille att hon själv har tappat räkningen. Dessutom tipsar Jenny om lugnande ljud.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597291</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597291</guid>
+        <pubDate>Fri, 06 Nov 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562307.mp3" length="1707" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Lars Stenberg jävlas med stil</title>
+        <description>Säsong 7. Avsnitt 3 av 10. Veckans livsresenär Lars Stenberg bejakar vackra anletsdrag, men säger samtidigt nej, nej, nej till det mesta. Dessutom talar Lacken & Tråden lumparminnen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597290</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597290</guid>
+        <pubDate>Fri, 30 Oct 2020 06:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562301.mp3" length="1639" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gången då världens snällaste Jens blev arg</title>
+        <description>Säsong 7. Avsnitt 2 av 10. Världens snällaste Jens delar med sig av sin livsresa. Dessutom utforskar Lacken & Tråden ett mysterium, Mangan vill röra folk till tårar och Jenny pratar smink.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597289</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597289</guid>
+        <pubDate>Fri, 23 Oct 2020 05:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562299.mp3" length="1688" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Thunder – the king of the animals</title>
+        <description>Säsong 5. Avsnitt 1 av 10. Thunder delar med sig av lin livsresa, från bäbis-ninja till vardagshjälte. Dessutom har Mangan hittat ett nytt levebröd, Jenny ska starta en podd och Lacken & Tråden pratar allvar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1597273</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1597273</guid>
+        <pubDate>Fri, 16 Oct 2020 05:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7549956.mp3" length="1828" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangans Jordbrukspodd</title>
+        <description>Säsong 6. Avsnitt 21 av 21. Specialavsnitt: Efter ett fildelningsbrott har Mangan dömts till samhällstjänst hos storbonden Johan på Västgötaslätten. I den här jordbrukspodden får vi följa Mangans öden och äventyr på bondgården.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1203906</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1203906</guid>
+        <pubDate>Tue, 25 Dec 2018 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/d3d76492-7eef-47a2-9265-776c1d3ec9d9.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791551.mp3" length="3231" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangans första puss</title>
+        <description>Säsong 6. Avsnitt 20 av 21. Mangan tar farväl. Dessutom kommer Agneta hem och Katla bjuder på sitt sista kulturtips.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097759</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097759</guid>
+        <pubDate>Fri, 17 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791560.mp3" length="394" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>En oväntad arvtagare</title>
+        <description>Säsong 6. Avsnitt 19 av 21. Dessutom ringer Agneta från akuten och Mangan får säga till på skarpen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097757</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097757</guid>
+        <pubDate>Thu, 16 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517945.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Ett stängt Kolmården är också ett Kolmården</title>
+        <description>Säsong 6. Avsnitt 18 av 21. Annikki vänder på dygnet. Dessutom gör Mangan en oväntad upptäckt och Jens söker kontakt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097756</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097756</guid>
+        <pubDate>Fri, 10 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517943.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>En avdomnad snopp</title>
+        <description>Säsong 6. Avsnitt 17 av 21. Dessutom kan Thunder hjula, Annikki väljer bort porslinet och Mangan inspekterar staketet.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097755</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097755</guid>
+        <pubDate>Thu, 09 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517942.mp3" length="365" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan rullar havreboll</title>
+        <description>Säsong 6. Avsnitt 16 av 21. Dessutom bjuder Kicki på en tankenöt och Agneta tröstäter.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097754</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097754</guid>
+        <pubDate>Fri, 03 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517941.mp3" length="365" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sveriges första mänskliga badboll</title>
+        <description>Säsong 6. Avsnitt 15 av 21. Dessutom läser Mangan bondepraktikan och Katla tipsar om ännu ett kulturevent du inte få missa.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097753</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097753</guid>
+        <pubDate>Thu, 02 Aug 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517940.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Bara snuskpellar plockar blåbär”</title>
+        <description>Säsong 6. Avsnitt 14 av 21. Dessutom ska Agneta tatuera svanken och Mangan står inför ett svårt val.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097752</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097752</guid>
+        <pubDate>Fri, 27 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517938.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Världens snabbaste vattenrutschbana</title>
+        <description>Säsong 6. Avsnitt 13 av 21. Dessutom är Mangan ensam på gården och Jens saknar ett viktigt livsmedel.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097751</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097751</guid>
+        <pubDate>Thu, 26 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517937.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Tre brinnande raggare</title>
+        <description>Säsong 6. Avsnitt 12 av 21. Dessutom testar Agneta Lucia-metoden, Thunder hanterar samurajsvärd och Mangan ringer giftcentralen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097750</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097750</guid>
+        <pubDate>Fri, 20 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517935.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan – flugornas herre</title>
+        <description>Säsong 6. Avsnitt 11 av 21. Dessutom berättar Job om jakten på det perfekta blandbandet och Jens funderar på att skaffa ett husdjur.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097749</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097749</guid>
+        <pubDate>Thu, 19 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517934.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katlas skendräktsnatt</title>
+        <description>Säsong 6. Avsnitt 10 av 21. Dessutom spelar Mangan hemmamatch och Agneta har förköpt sig i Palermo.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097746</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097746</guid>
+        <pubDate>Fri, 13 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517933.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Annikkis bottennapp</title>
+        <description>Säsong 6. Avsnitt 9 av 21. Dessutom är Jenny förvirrad, Mangan försvarar jordgubbarna och Annikki ger tips till den som skall gifta sig i sommar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097745</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097745</guid>
+        <pubDate>Thu, 12 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517932.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Thunders ollon ser allt</title>
+        <description>Säsong 6. Avsnitt 8 av 21. Dessutom blir Agneta portad från Polen och Mangan rensar ogräs.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097744</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097744</guid>
+        <pubDate>Fri, 06 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519273.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>När tacon kom till Jämtland</title>
+        <description>Säsong 6. Avsnitt 7 av 21. Job berättar om när Jämtland förvandlades under 80-talet. Dessutom målar Mangan och Jens behöver massage.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097728</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097728</guid>
+        <pubDate>Thu, 05 Jul 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519271.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Patriks spolarvätsketips</title>
+        <description>Säsong 6. Avsnitt 6 av 21. Dessutom bjuder Kicki på hjärngympa, Mangan döper ett föl och Agneta har landat på Sicilien.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097727</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097727</guid>
+        <pubDate>Fri, 29 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517927.mp3" length="365" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan förlöser Lady Gaga</title>
+        <description>Säsong 6. Avsnitt 5 av 21. Dessutom är Jenny förvirrad, Jens får ett nytt intresse och Mangan är med om något fantastiskt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1097726</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1097726</guid>
+        <pubDate>Thu, 28 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517926.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Agneta flyger med ”Joakim Boy”</title>
+        <description>Säsong 6. Avsnitt 4 av 21. Dessutom tjuvröker hon, Mangan vallar en ko och Katla tipsar om ett kulturevent du inte få missa i sommar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1103384</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1103384</guid>
+        <pubDate>Fri, 22 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517925.mp3" length="366" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan gör bajsjobbet</title>
+        <description>Säsong 6. Avsnitt 3 av 21. Dessutom bjuder Annikki på husmorstips och Job vet varför sommarloppisarna på 60-talet fick sånt uppsving.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1103383</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1103383</guid>
+        <pubDate>Thu, 21 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517924.mp3" length="367" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katlas nakenfisvecka i Visby</title>
+        <description>Säsong 6. Avsnitt 2 av 21. Dessutom blir det hjärngympa med Kicki Tapper, Mangan hamnar i krig på bondgården och Agneta ringer hem.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1103382</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1103382</guid>
+        <pubDate>Fri, 15 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517923.mp3" length="365" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan torrmjölkar en katt</title>
+        <description>Säsong 6. Avsnitt 1 av 21. Dessutom stryker Jens sina kalsonger, Jenny är förvirrad och Job Andersson berättar hur man semestrade förr i tiden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/1103381</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/1103381</guid>
+        <pubDate>Thu, 14 Jun 2018 08:50:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517922.mp3" length="365" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mikal bjuder på en riktig skräll</title>
+        <description>Säsong 5. Avsnitt 15 av 15. Dessutom har Kicki en oväntad själsfrände och Job berättar om gamla hantverkartraditioner.</description>
+        <link>https://www.sverigesradio.se/avsnitt/642094</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/642094</guid>
+        <pubDate>Sun, 06 Dec 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511147.mp3" length="3227" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla har ett eget paradis</title>
+        <description>Säsong 5. Avsnitt 14 av 15. Dessutom lämnar Agneta landet och Thunder slåss mot elektriska ålar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/638582</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/638582</guid>
+        <pubDate>Sun, 29 Nov 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511141.mp3" length="3063" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan letar efter Rolf</title>
+        <description>Säsong 5. Avsnitt 13 av 15. Dessutom doftmarkerar Agneta och Mikal tappar hatten.</description>
+        <link>https://www.sverigesradio.se/avsnitt/649385</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/649385</guid>
+        <pubDate>Sun, 22 Nov 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496485.mp3" length="3222" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Agneta sitter i Brolles badtunna</title>
+        <description>Säsong 5. Avsnitt 12 av 15. Dessutom vill Katla bli helgonförklarad och Thunder slåss i en myrstack.</description>
+        <link>https://www.sverigesradio.se/avsnitt/628117</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/628117</guid>
+        <pubDate>Sun, 08 Nov 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496481.mp3" length="3089" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Agneta äter för mycket Japanmix</title>
+        <description>Säsong 5. Avsnitt 11 av 15. Dessutom biktar sig Katla och Mangan är ett med naturen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/624648</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/624648</guid>
+        <pubDate>Sun, 01 Nov 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5480879.mp3" length="3097" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Hans vill bli fuktskadad</title>
+        <description>Säsong 5. Avsnitt 10 av 15. Dessutom måste Katla flytta och Thunder slåss i en vulkan.</description>
+        <link>https://www.sverigesradio.se/avsnitt/620612</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/620612</guid>
+        <pubDate>Sun, 25 Oct 2015 15:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5472867.mp3" length="3230" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Hemligheten bakom ett lyckat slagsmål</title>
+        <description>Säsong 5. Avsnitt 9 av 15. Dessutom väcker Peter skoltrötta barn ur sin dvala och Mikal väcker moderskänslor.</description>
+        <link>https://www.sverigesradio.se/avsnitt/617907</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/617907</guid>
+        <pubDate>Sun, 18 Oct 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5467660.mp3" length="2921" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Thunder slåss mot militanta lämlar</title>
+        <description>Säsong 5. Avsnitt 8 av 15. Dessutom vill Hans bli en faun och Katla går på maskerad.</description>
+        <link>https://www.sverigesradio.se/avsnitt/614248</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/614248</guid>
+        <pubDate>Sun, 11 Oct 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5458882.mp3" length="3141" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Hans vill bli offrad till gudarna</title>
+        <description>Säsong 5. Avsnitt 7 av 15. Dessutom badar Katla och Mangan tar ett återfall.</description>
+        <link>https://www.sverigesradio.se/avsnitt/611074</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/611074</guid>
+        <pubDate>Sun, 04 Oct 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5479076.mp3" length="3240" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jessica har bokat tid hos veterinären</title>
+        <description>Säsong 5. Avsnitt 6 av 15. Dessutom hamnar Katla på akuten och Lars Stenberg älskar tennsoldater.</description>
+        <link>https://www.sverigesradio.se/avsnitt/607964</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/607964</guid>
+        <pubDate>Sun, 27 Sep 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441836.mp3" length="3346" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kicki har fått lepra</title>
+        <description>Säsong 5. Avsnitt 5 av 15. Dessutom slåss Thunder mot digerdöden och Lars Stenberg hatar asfalt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/604575</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/604575</guid>
+        <pubDate>Sun, 20 Sep 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441820.mp3" length="3468" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla har en grisfri weekend</title>
+        <description>Säsong 5. Avsnitt 4 av 15. Dessutom äter Mangan för många blåbär och Job Andersson formar munnen som en strut.</description>
+        <link>https://www.sverigesradio.se/avsnitt/603140</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/603140</guid>
+        <pubDate>Sun, 13 Sep 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431975.mp3" length="3272" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mikal går på date</title>
+        <description>Säsong 5. Avsnitt 3 av 15. Dessutom blir Mangan biten, Thunder försvarar det moderna samhället och Peter Nilsson hjälper en orolig pappa i Sundsvall.</description>
+        <link>https://www.sverigesradio.se/avsnitt/603139</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/603139</guid>
+        <pubDate>Sun, 06 Sep 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431954.mp3" length="3322" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Skärmfritt i Lappland</title>
+        <description>Säsong 5. Avsnitt 2 av 15. Dessutom har Agneta plockat med sig vimmelbilder och livscoachen Peter Nilsson svarar på frågor från oroliga föräldrar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/603138</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/603138</guid>
+        <pubDate>Sun, 30 Aug 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422874.mp3" length="3270" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla har skaffat barn</title>
+        <description>Säsong 5. Avsnitt 1 av 15. Dessutom skvallrar Agneta, Mangan vill leva ett liv utan skärmar och Thunder sliter loss huvudet från kroppen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/603137</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/603137</guid>
+        <pubDate>Sun, 23 Aug 2015 14:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422872.mp3" length="3370" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sanitetsbindor och livslögner</title>
+        <description>Säsong 4. Avsnitt 19 av 19. Mangan spurtar genom Europa. Dessutom vet syon vart man skriker efter folk och Lars Stenberg tar trappan till vinden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/64727</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/64727</guid>
+        <pubDate>Wed, 05 Jan 2011 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2797763.mp3" length="2580" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Lobotomi är lösningen</title>
+        <description>Säsong 4. Avsnitt 18 av 19. Peter Nilsson biktar sig för pojkar -12. Dessutom galopperar Mangan vidare mot horisonten och Kaj Morenius möter ett nytt spöke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/64570</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/64570</guid>
+        <pubDate>Wed, 29 Dec 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2807460.mp3" length="2626" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jordgubbar, bajs och sommarjobb</title>
+        <description>Säsong 4. Avsnitt 17 av 19. Patrik listar subkulturer man skäms över att ha hackat på. Dessutom försöker Peter Nilsson locka ut pojkar -12 ur passningsskuggan och Mangan tar sig an en ny kontinent.</description>
+        <link>https://www.sverigesradio.se/avsnitt/65261</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/65261</guid>
+        <pubDate>Wed, 22 Dec 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2769314.mp3" length="2655" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jakten på det vita lejonet</title>
+        <description>Säsong 4. Avsnitt 16 av 19. Peter Nilsson har hjärtproblem. Dessutom betar Mangan av en ny världsdel och Kaj Morenius har stämt möte med ännu ett spöke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/65073</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/65073</guid>
+        <pubDate>Wed, 08 Dec 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2778566.mp3" length="2414" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gladiatorns oväntade berättelse</title>
+        <description>Säsong 4. Avsnitt 15 av 19. Patrik listar sämsta kompisarna som han haft. Dessutom är Peter Nilsson besviken på pojkar -12 och Mangan har en fin löpteknik i nedförsbackarna.</description>
+        <link>https://www.sverigesradio.se/avsnitt/65902</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/65902</guid>
+        <pubDate>Wed, 01 Dec 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2732964.mp3" length="2574" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Dolly Parton och den förlorade konserten</title>
+        <description>Säsong 4. Avsnitt 14 av 19. Patrik listar sina favorit-myndigheter. Dessutom försöker Peter Nilsson få in pojkar -12 in i boxen och syon garanterar jobb efter praktiken.</description>
+        <link>https://www.sverigesradio.se/avsnitt/66050</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/66050</guid>
+        <pubDate>Wed, 24 Nov 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2724732.mp3" length="2503" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Haschkakor i Abu Dhabi</title>
+        <description>Säsong 4. Avsnitt 13 av 19. Patrik listar värsta klottret som finns om honom i Piteå. Dessutom kämpar Mangan mot jordens uppförsbackar och Peter Nilsson läser lusen av pojkar -12.</description>
+        <link>https://www.sverigesradio.se/avsnitt/66590</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/66590</guid>
+        <pubDate>Wed, 17 Nov 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2695267.mp3" length="2524" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kejsare över dinosauriernas bajsberg</title>
+        <description>Säsong 4. Avsnitt 12 av 19. Petter Nilsson dribblar vidare med pojkar -12. Dessutom visar Mangan löpvilja och syon vet varför man skriker efter folk.</description>
+        <link>https://www.sverigesradio.se/avsnitt/66839</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/66839</guid>
+        <pubDate>Wed, 10 Nov 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2683129.mp3" length="2556" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Korta människor, stora upplevelser</title>
+        <description>Säsong 4. Avsnitt 11 av 19. Patrik listar sitt livs största ögonblick. Dessutom hyvlar Peter Nilsson av pojkar -12 och Kaj Morenius möter ett nytt spöke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/66977</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/66977</guid>
+        <pubDate>Wed, 03 Nov 2010 15:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2673907.mp3" length="2462" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Snorvalpen – en karriärmöjlighet</title>
+        <description>Säsong 4. Avsnitt 10 av 19. Lars slår upp ett nytt ord i sin bok. Dessutom rundar Mangan ännu en kontinent och Peter Nilsson pratar matchbild med pojkar -12.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67290</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67290</guid>
+        <pubDate>Wed, 27 Oct 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655832.mp3" length="2429" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan vs mördarbacken</title>
+        <description>Säsong 4. Avsnitt 9 av 19. Peter Nilsson kör mental träning med pojkar -12. Dessutom ringer Jessica sin farsa och Patrik listar programledarpar som han och Bengt är bättre än.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67301</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67301</guid>
+        <pubDate>Wed, 20 Oct 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655678.mp3" length="2425" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mahogny & träpenisar</title>
+        <description>Säsong 4. Avsnitt 8 av 19. Patrik listar de mest trovärdiga rykten som florerat i Piteå. Dessutom fortsätter Peter Nilsson att styra upp anfallet hos pojkar -12 och Mangan är som en liten prick i horisonten.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67754</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67754</guid>
+        <pubDate>Wed, 13 Oct 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2628962.mp3" length="2513" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Bingoberra Marklund</title>
+        <description>Säsong 4. Avsnitt 7 av 19. Peter Nilsson domderar i killarnas omklädningsrum. Dessutom är Thunder, the savior of humanity och Jessica bubblar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67914</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67914</guid>
+        <pubDate>Wed, 06 Oct 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2617326.mp3" length="2539" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gladporr i New York</title>
+        <description>Säsong 4. Avsnitt 6 av 19. Mangan tänjer på löpstegen. Dessutom avhandlar Patrik & Stefan Norell vad som hände igår och Kaj Morenius träffar en marmeladnazist.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67929</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67929</guid>
+        <pubDate>Wed, 29 Sep 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2615527.mp3" length="2482" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mammas gamla kille</title>
+        <description>Säsong 4. Avsnitt 5 av 19. Peter Nilsson som ställer pojkar -12 mot mot vägen. Dessutom rundar Mangan jordklotet och Patrik & Stefan Norell står för spriten.</description>
+        <link>https://www.sverigesradio.se/avsnitt/67824</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/67824</guid>
+        <pubDate>Wed, 22 Sep 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2625949.mp3" length="2382" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Runka bulle med Molgan och ET</title>
+        <description>Säsong 4. Avsnitt 4 av 19. Syon tipsar om en ny karriär. Dessutom tar saftmajan på sig skulden för allt och Kaj Morenius kör en ny seans.</description>
+        <link>https://www.sverigesradio.se/avsnitt/68289</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/68289</guid>
+        <pubDate>Wed, 15 Sep 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2586796.mp3" length="2387" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Thunder får grizzlybjörnar att gråta</title>
+        <description>Säsong 4. Avsnitt 3 av 19. Jessica sminkar Krille. Dessutom möter Kaj Morenius ett spöke och så får vi höra vars Mangan befinner sig på sin joggingtur runt jorden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/68459</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/68459</guid>
+        <pubDate>Wed, 08 Sep 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2575752.mp3" length="2381" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kast med liten järv</title>
+        <description>Säsong 4. Avsnitt 2 av 19. Katla är tillbaka med ny dagbok. Dessutom visar Lars Stenberg sin Audi S8 och Kaj intervjuar ett cowboy-spöke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/68693</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/68693</guid>
+        <pubDate>Wed, 01 Sep 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2556360.mp3" length="2431" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>En hyllning till Ghostbusters</title>
+        <description>Säsong 4. Avsnitt 1 av 19. Hans vill bli smutskastad. Dessutom kör Thunder fyra motorcyklar och syokonsulenten tipsar om gravskändaryrket.</description>
+        <link>https://www.sverigesradio.se/avsnitt/68753</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/68753</guid>
+        <pubDate>Wed, 25 Aug 2010 14:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2551743.mp3" length="2505" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Passet, pengarna och pulsmätaren</title>
+        <description>Säsong 3. Avsnitt 17 av 17. Thunder vågsurfar. Dessutom löser livscoachen det globala miljöhotet och Hans Melange tänker innanför boxen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/81735</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/81735</guid>
+        <pubDate>Thu, 28 May 2009 10:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1770212.mp3" length="2870" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla tvättar förhuden</title>
+        <description>Säsong 3. Avsnitt 16 av 17. Hans Melage vill bli lejonmat. Dessutom köper Katla majblommor och livscoachen Peter Nilsson förespråkar färre kalorier.</description>
+        <link>https://www.sverigesradio.se/avsnitt/81939</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/81939</guid>
+        <pubDate>Wed, 20 May 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1758368.mp3" length="3146" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Piteås Bermudatriangel</title>
+        <description>Säsong 3. Avsnitt 15 av 17. Hans Melange vill bli vanskött. Dessutom visar Katla upp sig för grannarna och livscoachen ger sig på feng shui.</description>
+        <link>https://www.sverigesradio.se/avsnitt/82145</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/82145</guid>
+        <pubDate>Wed, 13 May 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1746498.mp3" length="3175" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Norrländsk version av ”Inte utan min dotter”</title>
+        <description>Säsong 3. Avsnitt 14 av 17. Katla duschar i grupp. Dessutom förenas Gotte med sitt livs kärlek och Job Andersson tar farväl.</description>
+        <link>https://www.sverigesradio.se/avsnitt/82354</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/82354</guid>
+        <pubDate>Wed, 06 May 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1734649.mp3" length="3108" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Tänd mig Bengt!”</title>
+        <description>Säsong 3. Avsnitt 13 av 17. Agneta Fagerwall-Olsen känner sig kränkt. Dessutom grillar Mangan sig själv och Johan Lindgren läser en ny porrnovell.</description>
+        <link>https://www.sverigesradio.se/avsnitt/82535</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/82535</guid>
+        <pubDate>Wed, 29 Apr 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1723813.mp3" length="3389" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Det luktar i vab-missbrukare”</title>
+        <description>Säsong 3. Avsnitt 12 av 17. Livscoachen Peter Nilsson får polletten att trilla ner. Dessutom är Mangan ångerfull och så kommer porrförfattaren Johan Lindgren tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/82729</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/82729</guid>
+        <pubDate>Wed, 22 Apr 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1711844.mp3" length="3085" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gay-rörelsen från Narnia</title>
+        <description>Säsong 3. Avsnitt 11 av 17. Livscoachen Peter Nilsson ger råd till en blivande pensionär. Dessutom vet Job hur det gick till förr och Katla konfronterar sina grannar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/82974</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/82974</guid>
+        <pubDate>Wed, 15 Apr 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1699734.mp3" length="3063" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Job tömmer kärleksblåsan</title>
+        <description>Säsong 3. Avsnitt 10 av 17. Gotte fejkar sin egen kidnappning. Dessutom bjuder Katla på middag och livscoachen vet hur det är att vara kär på jobbet.</description>
+        <link>https://www.sverigesradio.se/avsnitt/83123</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/83123</guid>
+        <pubDate>Wed, 08 Apr 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1690255.mp3" length="3135" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Staffan ligger med Stockholm</title>
+        <description>Säsong 3. Avsnitt 9 av 17. Gotte tar hjälp av en kollega. Dessutom avhandlar livscoachen personalfester och så kommer Katla tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/83321</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/83321</guid>
+        <pubDate>Wed, 01 Apr 2009 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1677924.mp3" length="3061" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Den ammande 8-åringen</title>
+        <description>Säsong 3. Avsnitt 8 av 17. Hans Melange vill bli kentaur. Dessutom lyfter Mangan skrot på gymmet och Ritarn ritar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/83502</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/83502</guid>
+        <pubDate>Wed, 25 Mar 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1666202.mp3" length="2996" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sassy Lady-sagan</title>
+        <description>Säsong 3. Avsnitt 7 av 17. Gotte visar upp sin allra mest uppfinningsrika sida. Dessutom läser Shanti högt och livscoachen är en människokännare.</description>
+        <link>https://www.sverigesradio.se/avsnitt/83690</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/83690</guid>
+        <pubDate>Wed, 18 Mar 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1654635.mp3" length="3114" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Förfestens farliga lek</title>
+        <description>Säsong 3. Avsnitt 6 av 17. Hans Melange vill bli omyndigförklarad. Dessutom tränar Mangan stavgång och Kaj Morenius avslöjar vad spöken jobbar med.</description>
+        <link>https://www.sverigesradio.se/avsnitt/83881</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/83881</guid>
+        <pubDate>Wed, 11 Mar 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1642799.mp3" length="3014" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Agnetas nakenvapenfilm</title>
+        <description>Säsong 3. Avsnitt 5 av 17. Hans Melange bli kölhalad. Dessutom läser livscoachen en saga och så kommer Shanti tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/84081</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/84081</guid>
+        <pubDate>Wed, 04 Mar 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1631041.mp3" length="2894" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Experimentera med mig!</title>
+        <description>Säsong 3. Avsnitt 4 av 17. Hans Melange vill bli ett försöksdjur. Dessutom hatar livscoachen kontorslandskap och Katla är en mammas pojke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/84258</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/84258</guid>
+        <pubDate>Wed, 25 Feb 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1619133.mp3" length="3073" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Vildkatten i Minsk</title>
+        <description>Säsong 3. Avsnitt 3 av 17. Hans Melange vill bli vanställd. Dessutom känner sig Katla oskyldigt anklagad och Gotte gömmer sig.</description>
+        <link>https://www.sverigesradio.se/avsnitt/84425</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/84425</guid>
+        <pubDate>Thu, 19 Feb 2009 10:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1607977.mp3" length="2921" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Det inre spagatmonstret</title>
+        <description>Säsong 3. Avsnitt 2 av 17. Hans Melange vill bli spelberoende. Dessutom läser Katla ur sin dagbok och livscoachen Peter Nilsson har varit i slagsmål.</description>
+        <link>https://www.sverigesradio.se/avsnitt/84630</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/84630</guid>
+        <pubDate>Wed, 11 Feb 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1594961.mp3" length="2932" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Besatt av en demon</title>
+        <description>Säsong 3. Avsnitt 1 av 17. Hans Melange vill bli ett ondskefullt litet köttstycke. Dessutom är Henrik Starring stor i öst och Peter Nilsson ger svar på tal.</description>
+        <link>https://www.sverigesradio.se/avsnitt/84804</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/84804</guid>
+        <pubDate>Wed, 04 Feb 2009 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1583216.mp3" length="2846" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Schimpansgris-tomte</title>
+        <description>Säsong 2. Avsnitt 41 av 41. Jessika, Thunder, frisören, Jenny och Hajpojken firar julafton. Dessutom listar Patrik historiska repliker som man inte kan säga emot.</description>
+        <link>https://www.sverigesradio.se/avsnitt/85721</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/85721</guid>
+        <pubDate>Wed, 24 Dec 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1519337.mp3" length="2851" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Triangeldrama i Antnäs</title>
+        <description>Säsong 2. Avsnitt 40 av 41. Gotte tittar på Kalle. Dessutom får vi äntligen veta var Katla har varit hela hösten och frisören klipper till igen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/85849</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/85849</guid>
+        <pubDate>Wed, 17 Dec 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1508379.mp3" length="2971" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Dinosauriekrig utan armar eller ben</title>
+        <description>Säsong 2. Avsnitt 39 av 41. Hans Melange vill bli kidnappad. Dessutom väljer Marko glädjen och livscoachen Peter Nilsson vet vilka knappar han skall trycka på.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86002</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86002</guid>
+        <pubDate>Wed, 10 Dec 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1496671.mp3" length="2879" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Myrstackens hemligheter</title>
+        <description>Säsong 2. Avsnitt 38 av 41. Hans Melange vill bli en Zombie. Dessutom är Thunder tillbaka och Job vet hur man klädde sig förr.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86155</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86155</guid>
+        <pubDate>Wed, 03 Dec 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1484930.mp3" length="2690" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan ringer kungahuset</title>
+        <description>Säsong 2. Avsnitt 37 av 41. Hans Melange vill dopa sig. Dessutom tittar Gotte på illern och Patrik listar ex han hade velat ha.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86329</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86329</guid>
+        <pubDate>Wed, 26 Nov 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1473125.mp3" length="2720" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Tandtrollens nattblod</title>
+        <description>Säsong 2. Avsnitt 36 av 41. Hans Melange vill bli hjärntvättad. Dessutom ringer Mangan Ringhals och Jessika ställer sin pappa mot väggen igen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86483</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86483</guid>
+        <pubDate>Wed, 19 Nov 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1461202.mp3" length="2790" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Solskenshistoria från SJ</title>
+        <description>Säsong 2. Avsnitt 35 av 41. Veckans gäst Hasse bär på ett levnadsöde som inte liknar någon annans. Dessutom har Job svårt att håll sig trogen och Jessika ställer sin pappa mot väggen igen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86638</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86638</guid>
+        <pubDate>Wed, 12 Nov 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1449574.mp3" length="2590" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Grodmamman protesterar</title>
+        <description>Säsong 2. Avsnitt 34 av 41. Mangan demonstrerar sitt nya reportertänk. Dessutom vägrar Markus ge upp och Jessika kommer tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86790</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86790</guid>
+        <pubDate>Wed, 05 Nov 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1438065.mp3" length="2911" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Fylla på kristen camping</title>
+        <description>Säsong 2. Avsnitt 33 av 41. Mangan ringer polisen. Dessutom vet Gotte allt om rådjuret och Markus Lundin tänker kuppa sig in i Kent.</description>
+        <link>https://www.sverigesradio.se/avsnitt/86945</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/86945</guid>
+        <pubDate>Thu, 30 Oct 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1428331.mp3" length="2728" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Blod är tjockare än hyran</title>
+        <description>Säsong 2. Avsnitt 32 av 41. Job avslöjar en hemlighet. Dessutom är Markus indie och Mangan sätter fast piratkopierare.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87146</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87146</guid>
+        <pubDate>Wed, 22 Oct 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1414462.mp3" length="2778" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Näbbmusen – skogens sexmissbrukare</title>
+        <description>Säsong 2. Avsnitt 31 av 41. Mangan minns sin mönstring. Dessutom tänder Jenny doftljus och Kents första gitarrist kommer tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87342</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87342</guid>
+        <pubDate>Wed, 15 Oct 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1402665.mp3" length="2536" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Tunnhårig i aulan</title>
+        <description>Säsong 2. Avsnitt 30 av 41. Looney Soffe vill starta ett barnhem. Dessutom kastar Thunder bumerang och K.O.M.P.A.S.S handskas med spökpirater.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87522</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87522</guid>
+        <pubDate>Wed, 08 Oct 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1390960.mp3" length="2622" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Rökning dödar – Ester lever</title>
+        <description>Säsong 2. Avsnitt 29 av 41. Mangan är upprörd. Dessutom klär Håkan ut sig till döden och Patrik har plockat med sig en hemlig gäst.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87688</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87688</guid>
+        <pubDate>Wed, 01 Oct 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1379269.mp3" length="2870" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Samlagsmaskinen från Tyskland</title>
+        <description>Säsong 2. Avsnitt 28 av 41. Mangan är slutkörd. Dessutom räddar Thunder alla världens barn och K.O.M.P.A.S.S jagar spöken på 70-talsvis.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87830</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87830</guid>
+        <pubDate>Wed, 24 Sep 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1367499.mp3" length="2791" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Tjejkväll mot självtvivel</title>
+        <description>Säsong 2. Avsnitt 27 av 41. Mangan gör sig inte på bild. Dessutom spanar Gotte in fåglar och Kompass tampas med en Spökbjörn.</description>
+        <link>https://www.sverigesradio.se/avsnitt/87970</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/87970</guid>
+        <pubDate>Thu, 18 Sep 2008 09:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1356796.mp3" length="2799" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jämtländska kanelkransar</title>
+        <description>Säsong 2. Avsnitt 26 av 41. Thunder stämmer upp i sång. Dessutom berättar Johan Lindgren om odjuret från Malå och Gotte vet allt om Pingvinen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/88117</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/88117</guid>
+        <pubDate>Wed, 10 Sep 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1344237.mp3" length="2654" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Delfinpiercingen</title>
+        <description>Säsong 2. Avsnitt 25 av 41. Thunder strider mot onda oljesoldater. Dessutom är Jenny förvirrad och Mangan kan inte längre hålla tungan rätt i mun.</description>
+        <link>https://www.sverigesradio.se/avsnitt/88239</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/88239</guid>
+        <pubDate>Wed, 03 Sep 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1332882.mp3" length="2669" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Smygbusets hemliga ursprung</title>
+        <description>Säsong 2. Avsnitt 24 av 41. Mangan ringer Kronofogden. Dessutom jagar K.O.M.P.A.S.S riddarspöken och Johan Lindgren läser mer västerbottnisk hårdporr.</description>
+        <link>https://www.sverigesradio.se/avsnitt/88373</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/88373</guid>
+        <pubDate>Wed, 27 Aug 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1321733.mp3" length="2800" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Ormgropen i Ånäset</title>
+        <description>Säsong 2. Avsnitt 23 av 41. Stefan Norell är en gåta. Dessutom är Gotte omplacerad och K.O.M.P.A.S.S jagar spöken.</description>
+        <link>https://www.sverigesradio.se/avsnitt/88515</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/88515</guid>
+        <pubDate>Wed, 20 Aug 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1310892.mp3" length="2941" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Från fylla till föreställning</title>
+        <description>Säsong 2. Avsnitt 22 av 41. Lacken inspirerar. Dessutom spelar Manne Maiden funkbas och Katla avslöjar en stor hemlighet.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90008</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90008</guid>
+        <pubDate>Wed, 04 Jun 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1192081.mp3" length="2675" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Döden i baksätet</title>
+        <description>Säsong 2. Avsnitt 21 av 41. Katla har bråkat med Hamlet. Dessutom ska Alf flytta till Afrika och Hajpojken dyker åter upp på nytt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90158</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90158</guid>
+        <pubDate>Wed, 28 May 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1180991.mp3" length="2678" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sugmärken & yxkärlek</title>
+        <description>Säsong 2. Avsnitt 20 av 41. Mangan klipper navelsträngen. Dessutom har Katla en egen Bibel och Veckans Par vill skapa en egen diktatur.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90300</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90300</guid>
+        <pubDate>Wed, 21 May 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1169587.mp3" length="2792" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Jakten på Lill-Babs</title>
+        <description>Säsong 2. Avsnitt 19 av 41. Mangan har kärat ner sig. Dessutom är Katl fotoskön och veckans gäst Harry Sedin ger vanans makt ett ansikte.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90430</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90430</guid>
+        <pubDate>Wed, 14 May 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1158136.mp3" length="2780" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>365 förlåt</title>
+        <description>Säsong 2. Avsnitt 18 av 41. Petter är vidskeplig. Dessutom krossar Mangan rutor och Katla visar upp sin allra vänligaste sida.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90557</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90557</guid>
+        <pubDate>Wed, 07 May 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1146954.mp3" length="2820" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Raka en domherre?</title>
+        <description>Säsong 2. Avsnitt 17 av 41. Bolibompa Hjalle är mobbad. Dessutom leker Mangan Parlamentet och Tomas Tomas Wii ser sig själv som arbetarklassens Imelda Marcos.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90686</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90686</guid>
+        <pubDate>Wed, 30 Apr 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1136687.mp3" length="2668" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Krissamtal på halkbanan</title>
+        <description>Säsong 2. Avsnitt 16 av 41. Veckans gäst Lars Stenberg känner sig fulsnygg. Dessutom brister Katla ut i sång och Tomas Wii är en eldsjäl.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90823</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90823</guid>
+        <pubDate>Wed, 23 Apr 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1125280.mp3" length="2648" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla – tandläkarnas skräck</title>
+        <description>Säsong 2. Avsnitt 15 av 41. Skogshuggaren Håkan är orolig. Dessutom spelar livscoachen Peter Nilsson med öppna kort och Thomas Wii avslöjar inte för mycket.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90965</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90965</guid>
+        <pubDate>Wed, 16 Apr 2008 16:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1113715.mp3" length="2827" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kriminell, men med högt EQ</title>
+        <description>Säsong 2. Avsnitt 14 av 41. Veckans lördagsgäst är den charmiga tjuven Jögga. Dessutom är Katla nöjd med sina ögon och livscoachen Peter Nilsson ger svar på tal.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91404</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91404</guid>
+        <pubDate>Wed, 09 Apr 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111630.mp3" length="2653" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mumintrollet under isen</title>
+        <description>Säsong 2. Avsnitt 13 av 41. Sussie väcker minnen till liv. Dessutom har Katla svårt att skilja dikt från fantasi och livscoachen Peter Nilsson avhandlar insomnia.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91407</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91407</guid>
+        <pubDate>Wed, 02 Apr 2008 10:47:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111627.mp3" length="2713" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan planerar sin begravning</title>
+        <description>Säsong 2. Avsnitt 12 av 41. Mangan hänger på en kyrkogård. Dessutom har Katla skrivit en kontaktannons och Shanty Rooney blåser liv i berättelsen om ett axfält.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91073</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91073</guid>
+        <pubDate>Wed, 26 Mar 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111976.mp3" length="2510" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Psycho-Patrick is born</title>
+        <description>Säsong 2. Avsnitt 11 av 41. Livscoachen tröstar sig själv på högsta volym. Dessutom har veckans gäst en dold agenda och Katla är inte död.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91113</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91113</guid>
+        <pubDate>Wed, 19 Mar 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111933.mp3" length="2588" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Den sjungande Jerry</title>
+        <description>Säsong 2. Avsnitt 10 av 41. Hans vill vara med i ett våldsamt gäng. Dessutom leker Katla med ord och Patrik har varit hos sin gamla högstadielärare.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91264</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91264</guid>
+        <pubDate>Wed, 12 Mar 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111776.mp3" length="2806" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mamma Agneta törstar efter kärlek</title>
+        <description>Säsong 2. Avsnitt 9 av 41. Mamma Agneta vill ha en ny kille. Dessutom gråter Katla och Hajpojken dyker upp på nytt.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91190</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91190</guid>
+        <pubDate>Wed, 05 Mar 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111852.mp3" length="2694" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mannen bakom klamydiaepidemin</title>
+        <description>Säsong 2. Avsnitt 8 av 41. Publicerat 2008.Veckans gäst Ola är förföljd. Dessutom delar Kicki Tapper ut en Elvis-haka och Katla är en grå liten mus.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91169</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91169</guid>
+        <pubDate>Wed, 27 Feb 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111873.mp3" length="2495" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>SM-mästaren i tomprat</title>
+        <description>Säsong 2. Avsnitt 7 av 41. Patrik har hjälpt till i kiosken i Öjebyn. Dessutom ber Jessica om ursäkt och Katla säljer sig.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91235</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91235</guid>
+        <pubDate>Wed, 20 Feb 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111805.mp3" length="2449" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Patriks fem-i-topp-lista: Vuxenleksaker</title>
+        <description>Säsong 2. Avsnitt 6 av 41. Veckans gäst Perra erbjuder hushållsnära tjänster på en varm och kärleksfull nivå. Dessutom fiskar Kicki Tapper kräftor och Katla är okysst.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91428</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91428</guid>
+        <pubDate>Wed, 13 Feb 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111604.mp3" length="2493" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Sex saxar i en saxask</title>
+        <description>Säsong 2. Avsnitt 5 av 41. Veckans gäst Lena har världens roligaste jobb. Dessutom lägger Katla korten på bordet och livscoachen Peter Nilsson klipper till.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91028</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91028</guid>
+        <pubDate>Wed, 06 Feb 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112026.mp3" length="2498" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Push it and you die”</title>
+        <description>Säsong 2. Avsnitt 4 av 41. Veckans gäst Markko Hyväniemi är en riktig snyltare. Dessutom letar Mangan platta stenar och Katla berättar om när hon var svart lucia.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91385</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91385</guid>
+        <pubDate>Wed, 30 Jan 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111651.mp3" length="2491" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Svenne Banans svensexa</title>
+        <description>Säsong 2. Avsnitt 3 av 41. Svenne Banan vill varna allmänheten. Dessutom är Mangan ute och cyklar – själsligt och Katla provocerar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/90990</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/90990</guid>
+        <pubDate>Wed, 23 Jan 2008 17:00:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112070.mp3" length="2515" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla blir portad från akuten</title>
+        <description>Säsong 2. Avsnitt 2 av 41. Veckans gäst Spartakus har uppfunnit en ny jordglob. Dessutom har Mangan startar sin inre resa och Kicki Tapper kommer tillbaka.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91209</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91209</guid>
+        <pubDate>Wed, 16 Jan 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111833.mp3" length="2456" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Markus – Kents första gitarrist</title>
+        <description>Säsong 2. Avsnitt 1 av 41. Veckans gäst Markus Lundin berättar om den första tiden med Kent. Dessutom känner sig Mangan osvensk och Katla viskar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/91435</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/91435</guid>
+        <pubDate>Wed, 09 Jan 2008 18:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111597.mp3" length="2445" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangans rekordförsök</title>
+        <description>Säsong 1. Avsnitt 30 av 30. Specialavsnitt: Umeåstudentens hissnande rekordförsök: Magnus ”Mangan” Nilsson reser mellan Treriksröset och Smygehuk på rollerblades – utan att stanna.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543050</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543050</guid>
+        <pubDate>Sat, 18 Jun 2005 16:30:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/ecabed41-3e61-4d64-aa5e-6528bf558040.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645162.mp3" length="5891" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangans nyårslöfte</title>
+        <description>Säsong 1. Avsnitt 29 av 30. Vi blickar tillbaka och gästas på nytt av inlinesmästaren Mangan. Dessutom gästas vi av Katla och Kid 3.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543046</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543046</guid>
+        <pubDate>Sat, 18 Jun 2005 16:29:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645133.mp3" length="3006" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Forma handen som en liten pil</title>
+        <description>Säsong 1. Avsnitt 28 av 30. Veckans gäst är världens snällaste Jens. Dessutom vill inte Konstantin kännas vid Hajpojken och trubaduren Ruben älskar alla kvinnor .</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543043</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543043</guid>
+        <pubDate>Sat, 18 Jun 2005 16:28:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645081.mp3" length="1944" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>”Jag har legat med era mammor”</title>
+        <description>Säsong 1. Avsnitt 27 av 30. Veckans gäst Alf drömmer om ett bättre liv i Afrika. Dessutom är Patrik flygvärdinna och Mangan kan inte hålla tårarna borta.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543042</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543042</guid>
+        <pubDate>Sat, 18 Jun 2005 16:27:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645060.mp3" length="2577" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Golvad av gomsegel</title>
+        <description>Säsong 1. Avsnitt 26 av 30. Veckans gäst Ankrr har fler stämplar i passet än någon annan. Dessutom närmar sig Mangan målet och livscoachen Peter Nilsson tar farväl.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543039</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543039</guid>
+        <pubDate>Sat, 18 Jun 2005 16:26:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645048.mp3" length="2624" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Hetsät en ost</title>
+        <description>Säsong 1. Avsnitt 25 av 30. Veckans gäst, keyboardisten Marko Hyväniemi dansar Dirty Dancing. Dessutom har Katla bestämt sig för att adoptera och Gotte är understimulerad.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543038</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543038</guid>
+        <pubDate>Sat, 18 Jun 2005 16:25:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645044.mp3" length="2609" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Kicki Tapper lagar nattamat</title>
+        <description>Säsong 1. Avsnitt 24 av 30. Veckans gäst Kicki Tapper är språkrör för Non Fighting Generation i Hagfors. Dessutom skiljer Peter Nilsson på idioter och smarta idioter och Katla har gått in i väggen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543034</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543034</guid>
+        <pubDate>Sat, 18 Jun 2005 16:24:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644998.mp3" length="2548" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Viskande kvinna sökes</title>
+        <description>Säsong 1. Avsnitt 23 av 30. Veckans gäst Hasse pratar med mycket små bokstäver. Dessutom blir Gotte tagen på bar gärning och Mangan misströstar inte.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543033</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543033</guid>
+        <pubDate>Sat, 18 Jun 2005 16:23:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644993.mp3" length="2199" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangans blåsa i munnen läcker</title>
+        <description>Säsong 1. Avsnitt 22 av 30. Veckans gäst är bookmakern Bobby Hjort. Dessutom luktar Patrik grädde och Gotte hänger på spraydate.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543031</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543031</guid>
+        <pubDate>Sat, 18 Jun 2005 16:22:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644984.mp3" length="2432" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Total makeover – kentaur-edition</title>
+        <description>Säsong 1. Avsnitt 21 av 30. Veckans gäst Morjärv drömmer om ett liv som kentaur. Dessutom spräcker Gotte budgettaket och Patrick har undersökt hur SVT:s hallåor rekryteras.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543024</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543024</guid>
+        <pubDate>Sat, 18 Jun 2005 16:21:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644973.mp3" length="2258" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Västerbottnisk hårdporr utan bilder</title>
+        <description>Säsong 1. Avsnitt 20 av 30. Veckans gäst är författaren Johan Lindgren. Dessutom slår Mangan riktigt höga bollar och Patrik känner sig som Sabrina tonårshäxan.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543018</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543018</guid>
+        <pubDate>Sat, 18 Jun 2005 16:20:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644934.mp3" length="2470" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gränsen mellan kittel och klös</title>
+        <description>Säsong 1. Avsnitt 19 av 30. Veckans gäst är en mästare på fantombilder. Dessutom åker Mangan vilse och Gottes drog heter positiv feedback.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543015</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543015</guid>
+        <pubDate>Sat, 18 Jun 2005 16:19:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644924.mp3" length="2020" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla tar till spriten</title>
+        <description>Säsong 1. Avsnitt 18 av 30. Veckans gäst är Bengts hemliga crush från högstadiet. Dessutom introducerar Mangan en ny trafiklek och Gotte spelar historiens mest uttjatade låtar.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543014</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543014</guid>
+        <pubDate>Sat, 18 Jun 2005 16:18:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644921.mp3" length="2303" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan är kroppsfixerad</title>
+        <description>Säsong 1. Avsnitt 17 av 30. Lacken lockar fram teaterapan i Bengt. Dessutom lär Patrik ut hur det går till i ett stall och Folklivsfanatiker Job Andersson pratar katthår.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543010</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543010</guid>
+        <pubDate>Sat, 18 Jun 2005 16:17:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644871.mp3" length="1874" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Inlinespojken och skatetjejen</title>
+        <description>Säsong 1. Avsnitt 16 av 30. Mangan inleder en sms-romans. Dessutom vill livscoachen Peter Nilsson spela med öppna kort och i veckans gäst Håkan oroar sig i skogen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2543004</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2543004</guid>
+        <pubDate>Sat, 18 Jun 2005 16:16:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644857.mp3" length="2553" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Livscoachen Peter botar dålig självkänsla</title>
+        <description>Säsong 1. Avsnitt 15 av 30. Mangan saknar attraktioner i Foppa-land. Dessutom bygger Gotte en koja av pärmar och veckans gäst måste mobba andra för att vinna finnkampen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542997</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542997</guid>
+        <pubDate>Sat, 18 Jun 2005 16:15:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644751.mp3" length="2212" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan får en kärringstöt</title>
+        <description>Säsong 1. Avsnitt 14 av 30. Veckans gäst Harry Sedin är en udda entusiast. Dessutom har Patrik varit hos brandkåren och Gotte strör aska för vinden.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542996</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542996</guid>
+        <pubDate>Sat, 18 Jun 2005 16:14:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644741.mp3" length="2428" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Bolibompa-Jalle känner sig mobbad</title>
+        <description>Säsong 1. Avsnitt 13 av 30. Veckans gäst Bolibompa-Jalle. Dessutom mister Gotte sin hund och Mangan demonstrerar sin komiska ådra.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542994</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542994</guid>
+        <pubDate>Sat, 18 Jun 2005 16:13:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644727.mp3" length="2505" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Död kattpojke bortskänkes</title>
+        <description>Säsong 1. Avsnitt 12 av 30. Franz Klas ger tips på hur man blir framgångsrik. Dessutom hatar Mangan EU -moppar och Katla firar mångkulturåret i Västerbottens inland.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542992</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542992</guid>
+        <pubDate>Sat, 18 Jun 2005 16:12:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644700.mp3" length="2295" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Lars ger uttrycket ”fulsnygg” ett ansikte</title>
+        <description>Säsong 1. Avsnitt 11 av 30. Veckans gäst är Lars Stenberg. Dessutom formar Mangan handen som ett litet nät och Gotte skaffar hund.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542987</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542987</guid>
+        <pubDate>Sat, 18 Jun 2005 16:11:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644648.mp3" length="2255" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Big trouble in little China</title>
+        <description>Säsong 1. Avsnitt 10 av 30. Gotte avslöjar sin stora kärlek. Dessutom drabbas Mangan av vredesmod och världens vänligaste Jens avslöjar en dold agenda.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542986</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542986</guid>
+        <pubDate>Sat, 18 Jun 2005 16:10:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644642.mp3" length="2535" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gotte får samtalsterapi</title>
+        <description>Säsong 1. Avsnitt 9 av 30. Veckans gäst Mirjo väver in sig i en väv av lögner. Dessutom har Patrik hälsat på i ett fängelse och Mangan ogillar Umeå.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542844</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542844</guid>
+        <pubDate>Sat, 18 Jun 2005 16:09:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645974.mp3" length="2051" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Bungy Jump från Patriks bil</title>
+        <description>Säsong 1. Avsnitt 8 av 30. Bengts okände kusin Jan är veckans gäst. Dessutom är Mangans rekordförsök i fara och Gotte besvarar alla frågor med reklamslogan.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542985</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542985</guid>
+        <pubDate>Sat, 18 Jun 2005 16:08:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644641.mp3" length="1723" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Gotte vaknar naken i kontorsförrådet</title>
+        <description>Säsong 1. Avsnitt 7 av 30. Jögga visar upp sina charmigaste sidor. Dessutom har Mangan fått en idé och Shanti Roney berättar en historia om Liemannen.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542982</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542982</guid>
+        <pubDate>Sat, 18 Jun 2005 16:07:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644606.mp3" length="1973" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan är mjuk, bilar är hårda</title>
+        <description>Säsong 1. Avsnitt 6 av 30. Mangan har svårt att hålla sig till sanningen. Dessutom har Patrik varit hos tandläkaren och Huckleberry Nicklas dödar ett svin.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542981</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542981</guid>
+        <pubDate>Sat, 18 Jun 2005 16:06:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644594.mp3" length="1968" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Den osminkade sanningen om stuntmän</title>
+        <description>Säsong 1. Avsnitt 5 av 30. Mangans rekordförsök ifrågasätts. Dessutom svänger Gotte sig med ord som humankapital och kulturdebattören Kaj Morenius driver Bengt till vansinne.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542974</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542974</guid>
+        <pubDate>Sat, 18 Jun 2005 16:05:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644590.mp3" length="1932" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Katla bjuder på sju sorters apa</title>
+        <description>Säsong 1. Avsnitt 4 av 30. Nycirkusartisten Katla charmar och skrämmer. Dessutom filosoferar Mangan runt sitt nyvunna kändisskap och Gotte på A-Ekonomi skickar PM.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542971</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542971</guid>
+        <pubDate>Sat, 18 Jun 2005 16:04:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644506.mp3" length="2021" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Thunders powerdrink</title>
+        <description>Säsong 1. Avsnitt 3 av 30. Thunder avslöjar hur det är att vara en vardagshjälte. Dessutom råkar Mangan skada en fågel och nyhetsankaret Gotte slingrar sig.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542856</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542856</guid>
+        <pubDate>Sat, 18 Jun 2005 16:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643965.mp3" length="2049" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Patrik lär sig Google – på ett nytt sätt</title>
+        <description>Säsong 1. Avsnitt 2 av 30. Mangan sig ut på rullskridskor. Dessutom lär sig Patrik Google och Gotte på A-Ekonomi vet hur man ska göra för att se upptagen ut.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542835</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542835</guid>
+        <pubDate>Sat, 18 Jun 2005 16:02:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643750.mp3" length="1988" type="audio/mpeg" />
+        </item>
+        <item>
+        <title>Mangan åker inlines – utan stopp!</title>
+        <description>Säsong 1. Avsnitt 1 av 30. Patrik har varit i Kroatien. Dessutom gör Shanti Roney en egen version av Sagan om Ringen och Konstantin har skrivit en bok om en hajpojke.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2542832</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2542832</guid>
+        <pubDate>Sat, 18 Jun 2005 16:01:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643740.mp3" length="1499" type="audio/mpeg" />
+        </item>
+</channel>
+</rss>
