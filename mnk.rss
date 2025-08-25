@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 25 Aug 2025 15:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 19:56:42 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -31,7 +31,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648462</guid>
         <pubDate>Sat, 23 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f9bab18b-e09e-490c-afc4-bfbf746eba9a.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863393.mp3" length="1140" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863393.mp3" length="18264789" type="audio/mpeg" />
         </item>
         <item>
         <title>Yippee-Ki-Yay</title>
@@ -40,7 +40,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648458</guid>
         <pubDate>Sat, 16 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/cde5a541-b44c-4f2d-a639-64cccea5bfe3.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863342.mp3" length="1272" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863342.mp3" length="20376021" type="audio/mpeg" />
         </item>
         <item>
         <title>Till häst genom Västerbotten</title>
@@ -53,12 +53,12 @@
         </item>
         <item>
         <title>Resfeber</title>
-        <description>Jens ser sanningen i vitögat, Lacken & Tråden bjuder på barndomsminnen och Shanti delar med sig av ett moraliskt dilemma.</description>
+        <description>Jens ser sanningen i vitögat, Lacken och Tråden bjuder på barndomsminnen och Shanti delar med sig av ett moraliskt dilemma.</description>
         <link>https://www.sverigesradio.se/avsnitt/2636047</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636047</guid>
         <pubDate>Sat, 09 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/560cd34b-fece-44af-9ae0-8eb7ce88b915.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836838.mp3" length="1145" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836838.mp3" length="18346581" type="audio/mpeg" />
         </item>
         <item>
         <title>Är det okej om jag röker?</title>
@@ -67,7 +67,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636046</guid>
         <pubDate>Sat, 02 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/90361464-a874-42ce-a828-a2701d52d6f2.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836837.mp3" length="1146" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836837.mp3" length="18358101" type="audio/mpeg" />
         </item>
         <item>
         <title>Jag vill ha en kattbegravning</title>
@@ -76,16 +76,16 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636045</guid>
         <pubDate>Sat, 26 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/7c448aea-d0a4-49c4-bd0d-f296332f4fc5.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840442.mp3" length="1255" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840442.mp3" length="20106070" type="audio/mpeg" />
         </item>
         <item>
         <title>Glöm aldrig Hajpojken!</title>
-        <description>Jens går till botten med Peter Jöbacks ondskefulla baklängesmeddelanden, Lacken & Tråden minns sin dagmamma och så dyker Hajpojken upp</description>
+        <description>Jens går till botten med Peter Jöbacks ondskefulla baklängesmeddelanden, Lacken och Tråden minns sin dagmamma och så dyker Hajpojken upp</description>
         <link>https://www.sverigesradio.se/avsnitt/2627915</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2627915</guid>
         <pubDate>Sat, 19 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/03e8533f-f22a-4773-8989-3dbc9520df1c.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840392.mp3" length="1191" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840392.mp3" length="19075194" type="audio/mpeg" />
         </item>
         <item>
         <title>Förr i världen var man dum i huvudet nå djävulskt</title>
@@ -94,7 +94,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621253</guid>
         <pubDate>Sat, 12 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/b46048a1-fd63-4a00-bd12-a23b7d456e90.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803358.mp3" length="1114" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803358.mp3" length="17851989" type="audio/mpeg" />
         </item>
         <item>
         <title>Vi syns i marschallens skugga</title>
@@ -103,7 +103,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621252</guid>
         <pubDate>Sat, 05 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/1338f8dd-26ef-412e-9cbf-8239da18c19e.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803355.mp3" length="1194" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803355.mp3" length="19123797" type="audio/mpeg" />
         </item>
         <item>
         <title>Big in Japan</title>
@@ -112,7 +112,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621251</guid>
         <pubDate>Sat, 28 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/5de1cdb6-72cc-41bc-b22f-d04aeeed4551.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803353.mp3" length="1158" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803353.mp3" length="18551253" type="audio/mpeg" />
         </item>
         <item>
         <title>Helt på måfå</title>
@@ -121,7 +121,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621206</guid>
         <pubDate>Sat, 21 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/26a7ddc9-4ed1-4413-85ba-d6caf730c874.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803190.mp3" length="1128" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803190.mp3" length="18075630" type="audio/mpeg" />
         </item>
         <item>
         <title>Lär dig läsa annars får du stryk!</title>
@@ -130,7 +130,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2612466</guid>
         <pubDate>Sat, 14 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/d22aedf7-fa97-4901-9cc8-f6bf094542f5.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786807.mp3" length="1172" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786807.mp3" length="18775509" type="audio/mpeg" />
         </item>
         <item>
         <title>Hör du vem som viskar dig i örat?</title>
@@ -139,7 +139,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2612465</guid>
         <pubDate>Sat, 07 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/9ec15e75-c82e-49cb-83cf-2fde77254e09.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786806.mp3" length="1140" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786806.mp3" length="18361058" type="audio/mpeg" />
         </item>
         <item>
         <title>Vinter – Till häst genom Västerbotten</title>
@@ -148,7 +148,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583355</guid>
         <pubDate>Fri, 02 May 2025 04:02:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747714.mp3" length="1693" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747714.mp3" length="27213205" type="audio/mpeg" />
         </item>
         <item>
         <title>Höst – Till häst genom Västerbotten</title>
@@ -157,7 +157,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583354</guid>
         <pubDate>Fri, 02 May 2025 04:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747713.mp3" length="1588" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747713.mp3" length="25539063" type="audio/mpeg" />
         </item>
         <item>
         <title>Sommar – Till häst genom Västerbotten</title>
@@ -166,34 +166,34 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583353</guid>
         <pubDate>Fri, 02 May 2025 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747712.mp3" length="1708" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747712.mp3" length="27453945" type="audio/mpeg" />
         </item>
         <item>
         <title>Grässäljaren Håkan kommer tillbaka!</title>
-        <description>Säsong 8. Avsnitt 10 av 10. Dessutom startar Lacken & Tråden en galleria och så går förhoppningsvis Agneta i mål.</description>
+        <description>Säsong 8. Avsnitt 10 av 10. Dessutom startar Lacken och Tråden en galleria och så går förhoppningsvis Agneta i mål.</description>
         <link>https://www.sverigesradio.se/avsnitt/1744404</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744404</guid>
         <pubDate>Fri, 13 Aug 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791476.mp3" length="1877" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791476.mp3" length="30069844" type="audio/mpeg" />
         </item>
         <item>
-        <title>Lacken & Tråden smusslar musslor</title>
+        <title>Lacken och Tråden smusslar musslor</title>
         <description>Säsong 8. Avsnitt 9 av 10. Dessutom hälsar Sveriges ärligaste popartist Hokus Pokus på igen.</description>
         <link>https://www.sverigesradio.se/avsnitt/1744405</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744405</guid>
         <pubDate>Fri, 06 Aug 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7909717.mp3" length="1625" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7909717.mp3" length="26129547" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessicas bästa göra slut-repliker</title>
-        <description>Säsong 8. Avsnitt 8 av 10. Jessica från Sunne bjuder på sin topp-fem-lista på de bästa ”göra slut” replikerna. Dessutom hungerstrejkar Lacken & Tråden.</description>
+        <description>Säsong 8. Avsnitt 8 av 10. Jessica från Sunne bjuder på sin topp-fem-lista på de bästa ”göra slut” replikerna. Dessutom hungerstrejkar Lacken och Tråden.</description>
         <link>https://www.sverigesradio.se/avsnitt/1744385</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744385</guid>
         <pubDate>Fri, 30 Jul 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908949.mp3" length="1690" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908949.mp3" length="27176596" type="audio/mpeg" />
         </item>
         <item>
         <title>Netflix nästa: Hajpojken</title>
@@ -202,25 +202,25 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744384</guid>
         <pubDate>Fri, 23 Jul 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908948.mp3" length="1601" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908948.mp3" length="25738842" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla sätter Peter Pan i rullstol</title>
-        <description>Säsong 8. Avsnitt 6 av 10. Nycirkusartisten Katla bjuder på världspremiär av sin egna tolkning av Peter Pan. Dessutom minns Lacken & Tråden när de startade bemanningsföretag.</description>
+        <description>Säsong 8. Avsnitt 6 av 10. Nycirkusartisten Katla bjuder på världspremiär av sin egna tolkning av Peter Pan. Dessutom minns Lacken och Tråden när de startade bemanningsföretag.</description>
         <link>https://www.sverigesradio.se/avsnitt/1715937</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1715937</guid>
         <pubDate>Sun, 18 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894710.mp3" length="1562" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894710.mp3" length="25123616" type="audio/mpeg" />
         </item>
         <item>
         <title>Job gräver i småbyxorna</title>
-        <description>Säsong 8. Avsnitt 5 av 10. Dessutom pallar Lacken & Tråden frukt och Geggan vägrar vara med i vägföreningen.</description>
+        <description>Säsong 8. Avsnitt 5 av 10. Dessutom pallar Lacken och Tråden frukt och Geggan vägrar vara med i vägföreningen.</description>
         <link>https://www.sverigesradio.se/avsnitt/1744752</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744752</guid>
         <pubDate>Sun, 11 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894736.mp3" length="1768" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894736.mp3" length="28419562" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla hatar Peter Pan</title>
@@ -229,7 +229,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1741902</guid>
         <pubDate>Sun, 04 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882169.mp3" length="1633" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882169.mp3" length="26261629" type="audio/mpeg" />
         </item>
         <item>
         <title>Håkan säljer gräs!</title>
@@ -238,7 +238,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1715934</guid>
         <pubDate>Sun, 27 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882168.mp3" length="1691" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882168.mp3" length="27186118" type="audio/mpeg" />
         </item>
         <item>
         <title>Jan Evert vill återuppleva svältåret 1867</title>
@@ -247,7 +247,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1731569</guid>
         <pubDate>Sun, 20 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867357.mp3" length="1582" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867357.mp3" length="25433663" type="audio/mpeg" />
         </item>
         <item>
         <title>Dinosaurierna – sömntutornas Rolls-Royce</title>
@@ -256,52 +256,52 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1731568</guid>
         <pubDate>Sun, 13 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867290.mp3" length="1783" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867290.mp3" length="28650307" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas provocerande uppväxt</title>
-        <description>Säsong 7. Avsnitt 10 av 10. Nycirkusartisten Katla är veckans livsresenär och lättar på förlåten. Dessutom går Mangan i mål, Lacken & Tråden pratar modigt om sin skolgång och Jenny blickar framåt.</description>
+        <description>Säsong 7. Avsnitt 10 av 10. Nycirkusartisten Katla är veckans livsresenär och lättar på förlåten. Dessutom går Mangan i mål, Lacken och Tråden pratar modigt om sin skolgång och Jenny blickar framåt.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597366</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597366</guid>
         <pubDate>Fri, 18 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791544.mp3" length="2018" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791544.mp3" length="32314019" type="audio/mpeg" />
         </item>
         <item>
         <title>Annikki – kortväxt men längst i byn</title>
-        <description>Säsong 7. Avsnitt 9 av 10. Veckans livsresenär Annikki Mäkinen förhåller sig rationell och pragmatisk till sin omvärld. Dessutom samtalar Lacken & Tråden modigt om tvåsamhet och Jenny sörjer en livskamrat.</description>
+        <description>Säsong 7. Avsnitt 9 av 10. Veckans livsresenär Annikki Mäkinen förhåller sig rationell och pragmatisk till sin omvärld. Dessutom samtalar Lacken och Tråden modigt om tvåsamhet och Jenny sörjer en livskamrat.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597363</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597363</guid>
         <pubDate>Fri, 11 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562303.mp3" length="1900" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562303.mp3" length="30525764" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki vägrar villa, Volvo och vovve</title>
-        <description>Säsong 7. Avsnitt 8 av 10. Värmlands raggardrottning Kicki Tapper delar med sig av sin livsresa. Dessutom första hjälpen tips med Jenny och nytt modigt samtal mellan Lacken & Tråden.</description>
+        <description>Säsong 7. Avsnitt 8 av 10. Värmlands raggardrottning Kicki Tapper delar med sig av sin livsresa. Dessutom första hjälpen tips med Jenny och nytt modigt samtal mellan Lacken och Tråden.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597360</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597360</guid>
         <pubDate>Fri, 04 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562304.mp3" length="1689" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562304.mp3" length="27155356" type="audio/mpeg" />
         </item>
         <item>
         <title>Från Top Gun till toppnamn – Thomas Wii</title>
-        <description>Säsong 7. Avsnitt 7 av 10. Idealisten, filmtipsaren och skokännaren Tomas Wii bjuder på sin livsresa. Dessutom täljer Mangan guld, Lacken & Tråden bygger en mat-tant och Jenny pratar fobier.</description>
+        <description>Säsong 7. Avsnitt 7 av 10. Idealisten, filmtipsaren och skokännaren Tomas Wii bjuder på sin livsresa. Dessutom täljer Mangan guld, Lacken och Tråden bygger en mat-tant och Jenny pratar fobier.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597330</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597330</guid>
         <pubDate>Fri, 27 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562305.mp3" length="1788" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562305.mp3" length="28734767" type="audio/mpeg" />
         </item>
         <item>
         <title>”Dansa med kalvar” starring ”Geggan”</title>
-        <description>Säsong 7. Avsnitt 6 av 10. Skolvaktmästaren Lars-Erik ”Geggan” Nordin bjuder på sin livsresa. Dessutom har Mangan äntligen fått sitt genombrott som begravningssolist och Lacken & Tråden minns sin gäddfarm.</description>
+        <description>Säsong 7. Avsnitt 6 av 10. Skolvaktmästaren Lars-Erik ”Geggan” Nordin bjuder på sin livsresa. Dessutom har Mangan äntligen fått sitt genombrott som begravningssolist och Lacken och Tråden minns sin gäddfarm.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597296</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597296</guid>
         <pubDate>Fri, 20 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562306.mp3" length="1706" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562306.mp3" length="27418602" type="audio/mpeg" />
         </item>
         <item>
         <title>105 % Peter Nilsson</title>
@@ -310,7 +310,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597293</guid>
         <pubDate>Fri, 13 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562308.mp3" length="1839" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562308.mp3" length="29551090" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessicas inre FlumeRide</title>
@@ -319,34 +319,34 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597291</guid>
         <pubDate>Fri, 06 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562307.mp3" length="1707" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562307.mp3" length="27440107" type="audio/mpeg" />
         </item>
         <item>
         <title>Lars Stenberg jävlas med stil</title>
-        <description>Säsong 7. Avsnitt 3 av 10. Veckans livsresenär Lars Stenberg bejakar vackra anletsdrag, men säger samtidigt nej, nej, nej till det mesta. Dessutom talar Lacken & Tråden lumparminnen.</description>
+        <description>Säsong 7. Avsnitt 3 av 10. Veckans livsresenär Lars Stenberg bejakar vackra anletsdrag, men säger samtidigt nej, nej, nej till det mesta. Dessutom talar Lacken och Tråden lumparminnen.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597290</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597290</guid>
         <pubDate>Fri, 30 Oct 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562301.mp3" length="1639" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562301.mp3" length="26358250" type="audio/mpeg" />
         </item>
         <item>
         <title>Gången då världens snällaste Jens blev arg</title>
-        <description>Säsong 7. Avsnitt 2 av 10. Världens snällaste Jens delar med sig av sin livsresa. Dessutom utforskar Lacken & Tråden ett mysterium, Mangan vill röra folk till tårar och Jenny pratar smink.</description>
+        <description>Säsong 7. Avsnitt 2 av 10. Världens snällaste Jens delar med sig av sin livsresa. Dessutom utforskar Lacken och Tråden ett mysterium, Mangan vill röra folk till tårar och Jenny pratar smink.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597289</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597289</guid>
         <pubDate>Fri, 23 Oct 2020 05:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562299.mp3" length="1688" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562299.mp3" length="27136507" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder – the king of the animals</title>
-        <description>Säsong 5. Avsnitt 1 av 10. Thunder delar med sig av lin livsresa, från bäbis-ninja till vardagshjälte. Dessutom har Mangan hittat ett nytt levebröd, Jenny ska starta en podd och Lacken & Tråden pratar allvar.</description>
+        <description>Säsong 5. Avsnitt 1 av 10. Thunder delar med sig av lin livsresa, från bäbis-ninja till vardagshjälte. Dessutom har Mangan hittat ett nytt levebröd, Jenny ska starta en podd och Lacken och Tråden pratar allvar.</description>
         <link>https://www.sverigesradio.se/avsnitt/1597273</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597273</guid>
         <pubDate>Fri, 16 Oct 2020 05:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7549956.mp3" length="1828" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7549956.mp3" length="29378877" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans Jordbrukspodd</title>
@@ -355,7 +355,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1203906</guid>
         <pubDate>Tue, 25 Dec 2018 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/d3d76492-7eef-47a2-9265-776c1d3ec9d9.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791551.mp3" length="3231" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791551.mp3" length="51726398" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans första puss</title>
@@ -364,7 +364,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097759</guid>
         <pubDate>Fri, 17 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791560.mp3" length="394" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791560.mp3" length="6333635" type="audio/mpeg" />
         </item>
         <item>
         <title>En oväntad arvtagare</title>
@@ -373,7 +373,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097757</guid>
         <pubDate>Thu, 16 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517945.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517945.mp3" length="5987261" type="audio/mpeg" />
         </item>
         <item>
         <title>Ett stängt Kolmården är också ett Kolmården</title>
@@ -382,7 +382,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097756</guid>
         <pubDate>Fri, 10 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517943.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517943.mp3" length="5990598" type="audio/mpeg" />
         </item>
         <item>
         <title>En avdomnad snopp</title>
@@ -391,7 +391,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097755</guid>
         <pubDate>Thu, 09 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517942.mp3" length="365" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517942.mp3" length="5976804" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan rullar havreboll</title>
@@ -400,7 +400,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097754</guid>
         <pubDate>Fri, 03 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517941.mp3" length="365" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517941.mp3" length="5972210" type="audio/mpeg" />
         </item>
         <item>
         <title>Sveriges första mänskliga badboll</title>
@@ -409,7 +409,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097753</guid>
         <pubDate>Thu, 02 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517940.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517940.mp3" length="5993932" type="audio/mpeg" />
         </item>
         <item>
         <title>”Bara snuskpellar plockar blåbär”</title>
@@ -418,7 +418,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097752</guid>
         <pubDate>Fri, 27 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517938.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517938.mp3" length="5995198" type="audio/mpeg" />
         </item>
         <item>
         <title>Världens snabbaste vattenrutschbana</title>
@@ -427,7 +427,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097751</guid>
         <pubDate>Thu, 26 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517937.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517937.mp3" length="5991022" type="audio/mpeg" />
         </item>
         <item>
         <title>Tre brinnande raggare</title>
@@ -436,7 +436,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097750</guid>
         <pubDate>Fri, 20 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517935.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517935.mp3" length="5989340" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan – flugornas herre</title>
@@ -445,7 +445,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097749</guid>
         <pubDate>Thu, 19 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517934.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517934.mp3" length="5996874" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas skendräktsnatt</title>
@@ -454,7 +454,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097746</guid>
         <pubDate>Fri, 13 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517933.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517933.mp3" length="5993514" type="audio/mpeg" />
         </item>
         <item>
         <title>Annikkis bottennapp</title>
@@ -463,7 +463,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097745</guid>
         <pubDate>Thu, 12 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517932.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517932.mp3" length="5991431" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunders ollon ser allt</title>
@@ -472,7 +472,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097744</guid>
         <pubDate>Fri, 06 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519273.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519273.mp3" length="5993947" type="audio/mpeg" />
         </item>
         <item>
         <title>När tacon kom till Jämtland</title>
@@ -481,7 +481,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097728</guid>
         <pubDate>Thu, 05 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519271.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519271.mp3" length="5991849" type="audio/mpeg" />
         </item>
         <item>
         <title>Patriks spolarvätsketips</title>
@@ -490,7 +490,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097727</guid>
         <pubDate>Fri, 29 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517927.mp3" length="365" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517927.mp3" length="5974703" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan förlöser Lady Gaga</title>
@@ -499,7 +499,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097726</guid>
         <pubDate>Thu, 28 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517926.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517926.mp3" length="5990172" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta flyger med ”Joakim Boy”</title>
@@ -508,7 +508,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103384</guid>
         <pubDate>Fri, 22 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517925.mp3" length="366" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517925.mp3" length="5993101" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan gör bajsjobbet</title>
@@ -517,7 +517,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103383</guid>
         <pubDate>Thu, 21 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517924.mp3" length="367" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517924.mp3" length="5993928" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas nakenfisvecka i Visby</title>
@@ -526,7 +526,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103382</guid>
         <pubDate>Fri, 15 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517923.mp3" length="365" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517923.mp3" length="5971364" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan torrmjölkar en katt</title>
@@ -535,7 +535,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103381</guid>
         <pubDate>Thu, 14 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517922.mp3" length="365" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517922.mp3" length="5971371" type="audio/mpeg" />
         </item>
         <item>
         <title>Mikal bjuder på en riktig skräll</title>
@@ -544,7 +544,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/642094</guid>
         <pubDate>Sun, 06 Dec 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511147.mp3" length="3227" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511147.mp3" length="51755416" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har ett eget paradis</title>
@@ -553,7 +553,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/638582</guid>
         <pubDate>Sun, 29 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511141.mp3" length="3063" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511141.mp3" length="49134681" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan letar efter Rolf</title>
@@ -562,7 +562,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/649385</guid>
         <pubDate>Sun, 22 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496485.mp3" length="3222" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496485.mp3" length="51682921" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta sitter i Brolles badtunna</title>
@@ -571,7 +571,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/628117</guid>
         <pubDate>Sun, 08 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496481.mp3" length="3089" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496481.mp3" length="49556437" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta äter för mycket Japanmix</title>
@@ -580,7 +580,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/624648</guid>
         <pubDate>Sun, 01 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5480879.mp3" length="3097" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5480879.mp3" length="49681776" type="audio/mpeg" />
         </item>
         <item>
         <title>Hans vill bli fuktskadad</title>
@@ -589,7 +589,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/620612</guid>
         <pubDate>Sun, 25 Oct 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5472867.mp3" length="3230" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5472867.mp3" length="51815014" type="audio/mpeg" />
         </item>
         <item>
         <title>Hemligheten bakom ett lyckat slagsmål</title>
@@ -598,7 +598,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/617907</guid>
         <pubDate>Sun, 18 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5467660.mp3" length="2921" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5467660.mp3" length="46867363" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder slåss mot militanta lämlar</title>
@@ -607,7 +607,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/614248</guid>
         <pubDate>Sun, 11 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5458882.mp3" length="3141" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5458882.mp3" length="50383156" type="audio/mpeg" />
         </item>
         <item>
         <title>Hans vill bli offrad till gudarna</title>
@@ -616,7 +616,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/611074</guid>
         <pubDate>Sun, 04 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5479076.mp3" length="3240" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5479076.mp3" length="51965187" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessica har bokat tid hos veterinären</title>
@@ -625,7 +625,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/607964</guid>
         <pubDate>Sun, 27 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441836.mp3" length="3346" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441836.mp3" length="53658306" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki har fått lepra</title>
@@ -634,7 +634,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/604575</guid>
         <pubDate>Sun, 20 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441820.mp3" length="3468" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441820.mp3" length="55610540" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har en grisfri weekend</title>
@@ -643,7 +643,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603140</guid>
         <pubDate>Sun, 13 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431975.mp3" length="3272" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431975.mp3" length="52483006" type="audio/mpeg" />
         </item>
         <item>
         <title>Mikal går på date</title>
@@ -652,7 +652,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603139</guid>
         <pubDate>Sun, 06 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431954.mp3" length="3322" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431954.mp3" length="53282591" type="audio/mpeg" />
         </item>
         <item>
         <title>Skärmfritt i Lappland</title>
@@ -661,7 +661,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603138</guid>
         <pubDate>Sun, 30 Aug 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422874.mp3" length="3270" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422874.mp3" length="52442432" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har skaffat barn</title>
@@ -670,7 +670,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603137</guid>
         <pubDate>Sun, 23 Aug 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422872.mp3" length="3370" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422872.mp3" length="54042449" type="audio/mpeg" />
         </item>
         <item>
         <title>Sanitetsbindor och livslögner</title>
@@ -679,7 +679,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/64727</guid>
         <pubDate>Wed, 05 Jan 2011 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2797763.mp3" length="2580" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2797763.mp3" length="41406345" type="audio/mpeg" />
         </item>
         <item>
         <title>Lobotomi är lösningen</title>
@@ -688,7 +688,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/64570</guid>
         <pubDate>Wed, 29 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2807460.mp3" length="2626" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2807460.mp3" length="42140281" type="audio/mpeg" />
         </item>
         <item>
         <title>Jordgubbar, bajs och sommarjobb</title>
@@ -697,7 +697,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65261</guid>
         <pubDate>Wed, 22 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2769314.mp3" length="2655" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2769314.mp3" length="42607977" type="audio/mpeg" />
         </item>
         <item>
         <title>Jakten på det vita lejonet</title>
@@ -706,7 +706,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65073</guid>
         <pubDate>Wed, 08 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2778566.mp3" length="2414" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2778566.mp3" length="38752304" type="audio/mpeg" />
         </item>
         <item>
         <title>Gladiatorns oväntade berättelse</title>
@@ -715,7 +715,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65902</guid>
         <pubDate>Wed, 01 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2732964.mp3" length="2574" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2732964.mp3" length="41312723" type="audio/mpeg" />
         </item>
         <item>
         <title>Dolly Parton och den förlorade konserten</title>
@@ -724,7 +724,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66050</guid>
         <pubDate>Wed, 24 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2724732.mp3" length="2503" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2724732.mp3" length="40164588" type="audio/mpeg" />
         </item>
         <item>
         <title>Haschkakor i Abu Dhabi</title>
@@ -733,7 +733,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66590</guid>
         <pubDate>Wed, 17 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2695267.mp3" length="2524" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2695267.mp3" length="40508150" type="audio/mpeg" />
         </item>
         <item>
         <title>Kejsare över dinosauriernas bajsberg</title>
@@ -742,7 +742,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66839</guid>
         <pubDate>Wed, 10 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2683129.mp3" length="2556" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2683129.mp3" length="41015553" type="audio/mpeg" />
         </item>
         <item>
         <title>Korta människor, stora upplevelser</title>
@@ -751,7 +751,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66977</guid>
         <pubDate>Wed, 03 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2673907.mp3" length="2462" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2673907.mp3" length="39518423" type="audio/mpeg" />
         </item>
         <item>
         <title>Snorvalpen – en karriärmöjlighet</title>
@@ -760,7 +760,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67290</guid>
         <pubDate>Wed, 27 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655832.mp3" length="2429" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655832.mp3" length="38978160" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan vs mördarbacken</title>
@@ -769,16 +769,16 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67301</guid>
         <pubDate>Wed, 20 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655678.mp3" length="2425" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655678.mp3" length="38917398" type="audio/mpeg" />
         </item>
         <item>
-        <title>Mahogny & träpenisar</title>
+        <title>Mahogny och träpenisar</title>
         <description>Säsong 4. Avsnitt 8 av 19. Patrik listar de mest trovärdiga rykten som florerat i Piteå. Dessutom fortsätter Peter Nilsson att styra upp anfallet hos pojkar -12 och Mangan är som en liten prick i horisonten.</description>
         <link>https://www.sverigesradio.se/avsnitt/67754</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/67754</guid>
         <pubDate>Wed, 13 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2628962.mp3" length="2513" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2628962.mp3" length="40328620" type="audio/mpeg" />
         </item>
         <item>
         <title>Bingoberra Marklund</title>
@@ -787,25 +787,25 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67914</guid>
         <pubDate>Wed, 06 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2617326.mp3" length="2539" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2617326.mp3" length="40740288" type="audio/mpeg" />
         </item>
         <item>
         <title>Gladporr i New York</title>
-        <description>Säsong 4. Avsnitt 6 av 19. Mangan tänjer på löpstegen. Dessutom avhandlar Patrik & Stefan Norell vad som hände igår och Kaj Morenius träffar en marmeladnazist.</description>
+        <description>Säsong 4. Avsnitt 6 av 19. Mangan tänjer på löpstegen. Dessutom avhandlar Patrik och Stefan Norell vad som hände igår och Kaj Morenius träffar en marmeladnazist.</description>
         <link>https://www.sverigesradio.se/avsnitt/67929</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/67929</guid>
         <pubDate>Wed, 29 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2615527.mp3" length="2482" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2615527.mp3" length="39829560" type="audio/mpeg" />
         </item>
         <item>
         <title>Mammas gamla kille</title>
-        <description>Säsong 4. Avsnitt 5 av 19. Peter Nilsson som ställer pojkar -12 mot mot vägen. Dessutom rundar Mangan jordklotet och Patrik & Stefan Norell står för spriten.</description>
+        <description>Säsong 4. Avsnitt 5 av 19. Peter Nilsson som ställer pojkar -12 mot mot vägen. Dessutom rundar Mangan jordklotet och Patrik och Stefan Norell står för spriten.</description>
         <link>https://www.sverigesradio.se/avsnitt/67824</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/67824</guid>
         <pubDate>Wed, 22 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2625949.mp3" length="2382" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2625949.mp3" length="38228183" type="audio/mpeg" />
         </item>
         <item>
         <title>Runka bulle med Molgan och ET</title>
@@ -814,7 +814,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68289</guid>
         <pubDate>Wed, 15 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2586796.mp3" length="2387" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2586796.mp3" length="38314020" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder får grizzlybjörnar att gråta</title>
@@ -823,7 +823,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68459</guid>
         <pubDate>Wed, 08 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2575752.mp3" length="2381" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2575752.mp3" length="38216259" type="audio/mpeg" />
         </item>
         <item>
         <title>Kast med liten järv</title>
@@ -832,7 +832,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68693</guid>
         <pubDate>Wed, 01 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2556360.mp3" length="2431" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2556360.mp3" length="39013165" type="audio/mpeg" />
         </item>
         <item>
         <title>En hyllning till Ghostbusters</title>
@@ -841,7 +841,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68753</guid>
         <pubDate>Wed, 25 Aug 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2551743.mp3" length="2505" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2551743.mp3" length="40201487" type="audio/mpeg" />
         </item>
         <item>
         <title>Passet, pengarna och pulsmätaren</title>
@@ -850,7 +850,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/81735</guid>
         <pubDate>Thu, 28 May 2009 10:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1770212.mp3" length="2870" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1770212.mp3" length="34552077" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla tvättar förhuden</title>
@@ -859,7 +859,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/81939</guid>
         <pubDate>Wed, 20 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1758368.mp3" length="3146" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1758368.mp3" length="37872357" type="audio/mpeg" />
         </item>
         <item>
         <title>Piteås Bermudatriangel</title>
@@ -868,7 +868,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82145</guid>
         <pubDate>Wed, 13 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1746498.mp3" length="3175" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1746498.mp3" length="38212476" type="audio/mpeg" />
         </item>
         <item>
         <title>Norrländsk version av ”Inte utan min dotter”</title>
@@ -877,7 +877,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82354</guid>
         <pubDate>Wed, 06 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1734649.mp3" length="3108" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1734649.mp3" length="37410263" type="audio/mpeg" />
         </item>
         <item>
         <title>”Tänd mig Bengt!”</title>
@@ -886,7 +886,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82535</guid>
         <pubDate>Wed, 29 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1723813.mp3" length="3389" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1723813.mp3" length="40778817" type="audio/mpeg" />
         </item>
         <item>
         <title>”Det luktar i vab-missbrukare”</title>
@@ -895,7 +895,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82729</guid>
         <pubDate>Wed, 22 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1711844.mp3" length="3085" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1711844.mp3" length="37137888" type="audio/mpeg" />
         </item>
         <item>
         <title>Gay-rörelsen från Narnia</title>
@@ -904,7 +904,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82974</guid>
         <pubDate>Wed, 15 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1699734.mp3" length="3063" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1699734.mp3" length="36870516" type="audio/mpeg" />
         </item>
         <item>
         <title>Job tömmer kärleksblåsan</title>
@@ -913,7 +913,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83123</guid>
         <pubDate>Wed, 08 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1690255.mp3" length="3135" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1690255.mp3" length="37735683" type="audio/mpeg" />
         </item>
         <item>
         <title>Staffan ligger med Stockholm</title>
@@ -922,7 +922,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83321</guid>
         <pubDate>Wed, 01 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1677924.mp3" length="3061" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1677924.mp3" length="36852293" type="audio/mpeg" />
         </item>
         <item>
         <title>Den ammande 8-åringen</title>
@@ -931,7 +931,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83502</guid>
         <pubDate>Wed, 25 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1666202.mp3" length="2996" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1666202.mp3" length="36066112" type="audio/mpeg" />
         </item>
         <item>
         <title>Sassy Lady-sagan</title>
@@ -940,7 +940,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83690</guid>
         <pubDate>Wed, 18 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1654635.mp3" length="3114" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1654635.mp3" length="37483334" type="audio/mpeg" />
         </item>
         <item>
         <title>Förfestens farliga lek</title>
@@ -949,7 +949,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83881</guid>
         <pubDate>Wed, 11 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1642799.mp3" length="3014" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1642799.mp3" length="36288080" type="audio/mpeg" />
         </item>
         <item>
         <title>Agnetas nakenvapenfilm</title>
@@ -958,7 +958,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84081</guid>
         <pubDate>Wed, 04 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1631041.mp3" length="2894" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1631041.mp3" length="34845822" type="audio/mpeg" />
         </item>
         <item>
         <title>Experimentera med mig!</title>
@@ -967,7 +967,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84258</guid>
         <pubDate>Wed, 25 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1619133.mp3" length="3073" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1619133.mp3" length="36988357" type="audio/mpeg" />
         </item>
         <item>
         <title>Vildkatten i Minsk</title>
@@ -976,7 +976,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84425</guid>
         <pubDate>Thu, 19 Feb 2009 10:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1607977.mp3" length="2921" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1607977.mp3" length="35163346" type="audio/mpeg" />
         </item>
         <item>
         <title>Det inre spagatmonstret</title>
@@ -985,7 +985,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84630</guid>
         <pubDate>Wed, 11 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1594961.mp3" length="2932" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1594961.mp3" length="35292496" type="audio/mpeg" />
         </item>
         <item>
         <title>Besatt av en demon</title>
@@ -994,7 +994,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84804</guid>
         <pubDate>Wed, 04 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1583216.mp3" length="2846" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1583216.mp3" length="34271550" type="audio/mpeg" />
         </item>
         <item>
         <title>Schimpansgris-tomte</title>
@@ -1003,7 +1003,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/85721</guid>
         <pubDate>Wed, 24 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1519337.mp3" length="2851" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1519337.mp3" length="34320959" type="audio/mpeg" />
         </item>
         <item>
         <title>Triangeldrama i Antnäs</title>
@@ -1012,7 +1012,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/85849</guid>
         <pubDate>Wed, 17 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1508379.mp3" length="2971" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1508379.mp3" length="35769599" type="audio/mpeg" />
         </item>
         <item>
         <title>Dinosauriekrig utan armar eller ben</title>
@@ -1021,7 +1021,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86002</guid>
         <pubDate>Wed, 10 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1496671.mp3" length="2879" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1496671.mp3" length="34657090" type="audio/mpeg" />
         </item>
         <item>
         <title>Myrstackens hemligheter</title>
@@ -1030,7 +1030,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86155</guid>
         <pubDate>Wed, 03 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1484930.mp3" length="2690" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1484930.mp3" length="32393180" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan ringer kungahuset</title>
@@ -1039,7 +1039,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86329</guid>
         <pubDate>Wed, 26 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1473125.mp3" length="2720" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1473125.mp3" length="32758672" type="audio/mpeg" />
         </item>
         <item>
         <title>Tandtrollens nattblod</title>
@@ -1048,7 +1048,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86483</guid>
         <pubDate>Wed, 19 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1461202.mp3" length="2790" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1461202.mp3" length="33600429" type="audio/mpeg" />
         </item>
         <item>
         <title>Solskenshistoria från SJ</title>
@@ -1057,7 +1057,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86638</guid>
         <pubDate>Wed, 12 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1449574.mp3" length="2590" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1449574.mp3" length="31199235" type="audio/mpeg" />
         </item>
         <item>
         <title>Grodmamman protesterar</title>
@@ -1066,7 +1066,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86790</guid>
         <pubDate>Wed, 05 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1438065.mp3" length="2911" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1438065.mp3" length="35043256" type="audio/mpeg" />
         </item>
         <item>
         <title>Fylla på kristen camping</title>
@@ -1075,7 +1075,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86945</guid>
         <pubDate>Thu, 30 Oct 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1428331.mp3" length="2728" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1428331.mp3" length="32855260" type="audio/mpeg" />
         </item>
         <item>
         <title>Blod är tjockare än hyran</title>
@@ -1084,7 +1084,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87146</guid>
         <pubDate>Wed, 22 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1414462.mp3" length="2778" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1414462.mp3" length="33455821" type="audio/mpeg" />
         </item>
         <item>
         <title>Näbbmusen – skogens sexmissbrukare</title>
@@ -1093,7 +1093,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87342</guid>
         <pubDate>Wed, 15 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1402665.mp3" length="2536" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1402665.mp3" length="30546538" type="audio/mpeg" />
         </item>
         <item>
         <title>Tunnhårig i aulan</title>
@@ -1102,7 +1102,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87522</guid>
         <pubDate>Wed, 08 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1390960.mp3" length="2622" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1390960.mp3" length="31573799" type="audio/mpeg" />
         </item>
         <item>
         <title>Rökning dödar – Ester lever</title>
@@ -1111,7 +1111,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87688</guid>
         <pubDate>Wed, 01 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1379269.mp3" length="2870" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1379269.mp3" length="34558638" type="audio/mpeg" />
         </item>
         <item>
         <title>Samlagsmaskinen från Tyskland</title>
@@ -1120,7 +1120,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87830</guid>
         <pubDate>Wed, 24 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1367499.mp3" length="2791" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1367499.mp3" length="33561819" type="audio/mpeg" />
         </item>
         <item>
         <title>Tjejkväll mot självtvivel</title>
@@ -1129,7 +1129,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87970</guid>
         <pubDate>Thu, 18 Sep 2008 09:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1356796.mp3" length="2799" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1356796.mp3" length="33707871" type="audio/mpeg" />
         </item>
         <item>
         <title>Jämtländska kanelkransar</title>
@@ -1138,7 +1138,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88117</guid>
         <pubDate>Wed, 10 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1344237.mp3" length="2654" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1344237.mp3" length="31957211" type="audio/mpeg" />
         </item>
         <item>
         <title>Delfinpiercingen</title>
@@ -1147,7 +1147,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88239</guid>
         <pubDate>Wed, 03 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1332882.mp3" length="2669" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1332882.mp3" length="32146217" type="audio/mpeg" />
         </item>
         <item>
         <title>Smygbusets hemliga ursprung</title>
@@ -1156,7 +1156,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88373</guid>
         <pubDate>Wed, 27 Aug 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1321733.mp3" length="2800" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1321733.mp3" length="33717988" type="audio/mpeg" />
         </item>
         <item>
         <title>Ormgropen i Ånäset</title>
@@ -1165,7 +1165,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88515</guid>
         <pubDate>Wed, 20 Aug 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1310892.mp3" length="2941" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1310892.mp3" length="35405833" type="audio/mpeg" />
         </item>
         <item>
         <title>Från fylla till föreställning</title>
@@ -1174,7 +1174,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90008</guid>
         <pubDate>Wed, 04 Jun 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1192081.mp3" length="2675" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1192081.mp3" length="32216578" type="audio/mpeg" />
         </item>
         <item>
         <title>Döden i baksätet</title>
@@ -1183,16 +1183,16 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90158</guid>
         <pubDate>Wed, 28 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1180991.mp3" length="2678" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1180991.mp3" length="32254632" type="audio/mpeg" />
         </item>
         <item>
-        <title>Sugmärken & yxkärlek</title>
+        <title>Sugmärken och yxkärlek</title>
         <description>Säsong 2. Avsnitt 20 av 41. Mangan klipper navelsträngen. Dessutom har Katla en egen Bibel och Veckans Par vill skapa en egen diktatur.</description>
         <link>https://www.sverigesradio.se/avsnitt/90300</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/90300</guid>
         <pubDate>Wed, 21 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1169587.mp3" length="2792" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1169587.mp3" length="33623244" type="audio/mpeg" />
         </item>
         <item>
         <title>Jakten på Lill-Babs</title>
@@ -1201,7 +1201,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90430</guid>
         <pubDate>Wed, 14 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1158136.mp3" length="2780" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1158136.mp3" length="33424203" type="audio/mpeg" />
         </item>
         <item>
         <title>365 förlåt</title>
@@ -1210,7 +1210,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90557</guid>
         <pubDate>Wed, 07 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1146954.mp3" length="2820" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1146954.mp3" length="33959898" type="audio/mpeg" />
         </item>
         <item>
         <title>Raka en domherre?</title>
@@ -1219,7 +1219,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90686</guid>
         <pubDate>Wed, 30 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1136687.mp3" length="2668" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1136687.mp3" length="32078505" type="audio/mpeg" />
         </item>
         <item>
         <title>Krissamtal på halkbanan</title>
@@ -1228,7 +1228,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90823</guid>
         <pubDate>Wed, 23 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1125280.mp3" length="2648" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1125280.mp3" length="31841181" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla – tandläkarnas skräck</title>
@@ -1237,7 +1237,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90965</guid>
         <pubDate>Wed, 16 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1113715.mp3" length="2827" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1113715.mp3" length="33993776" type="audio/mpeg" />
         </item>
         <item>
         <title>Kriminell, men med högt EQ</title>
@@ -1246,7 +1246,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91404</guid>
         <pubDate>Wed, 09 Apr 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111630.mp3" length="2653" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111630.mp3" length="31956227" type="audio/mpeg" />
         </item>
         <item>
         <title>Mumintrollet under isen</title>
@@ -1255,7 +1255,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91407</guid>
         <pubDate>Wed, 02 Apr 2008 10:47:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111627.mp3" length="2713" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111627.mp3" length="32669400" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan planerar sin begravning</title>
@@ -1264,7 +1264,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91073</guid>
         <pubDate>Wed, 26 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111976.mp3" length="2510" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111976.mp3" length="30238192" type="audio/mpeg" />
         </item>
         <item>
         <title>Psycho-Patrick is born</title>
@@ -1273,7 +1273,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91113</guid>
         <pubDate>Wed, 19 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111933.mp3" length="2588" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111933.mp3" length="31166912" type="audio/mpeg" />
         </item>
         <item>
         <title>Den sjungande Jerry</title>
@@ -1282,7 +1282,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91264</guid>
         <pubDate>Wed, 12 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111776.mp3" length="2806" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111776.mp3" length="33785747" type="audio/mpeg" />
         </item>
         <item>
         <title>Mamma Agneta törstar efter kärlek</title>
@@ -1291,7 +1291,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91190</guid>
         <pubDate>Wed, 05 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111852.mp3" length="2694" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111852.mp3" length="32445556" type="audio/mpeg" />
         </item>
         <item>
         <title>Mannen bakom klamydiaepidemin</title>
@@ -1300,7 +1300,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91169</guid>
         <pubDate>Wed, 27 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111873.mp3" length="2495" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111873.mp3" length="30053820" type="audio/mpeg" />
         </item>
         <item>
         <title>SM-mästaren i tomprat</title>
@@ -1309,7 +1309,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91235</guid>
         <pubDate>Wed, 20 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111805.mp3" length="2449" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111805.mp3" length="29506490" type="audio/mpeg" />
         </item>
         <item>
         <title>Patriks fem-i-topp-lista: Vuxenleksaker</title>
@@ -1318,7 +1318,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91428</guid>
         <pubDate>Wed, 13 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111604.mp3" length="2493" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111604.mp3" length="30027835" type="audio/mpeg" />
         </item>
         <item>
         <title>Sex saxar i en saxask</title>
@@ -1327,7 +1327,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91028</guid>
         <pubDate>Wed, 06 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112026.mp3" length="2498" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112026.mp3" length="30090951" type="audio/mpeg" />
         </item>
         <item>
         <title>”Push it and you die”</title>
@@ -1336,7 +1336,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91385</guid>
         <pubDate>Wed, 30 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111651.mp3" length="2491" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111651.mp3" length="30001613" type="audio/mpeg" />
         </item>
         <item>
         <title>Svenne Banans svensexa</title>
@@ -1345,7 +1345,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90990</guid>
         <pubDate>Wed, 23 Jan 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112070.mp3" length="2515" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112070.mp3" length="30299095" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla blir portad från akuten</title>
@@ -1354,7 +1354,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91209</guid>
         <pubDate>Wed, 16 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111833.mp3" length="2456" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111833.mp3" length="29586569" type="audio/mpeg" />
         </item>
         <item>
         <title>Markus – Kents första gitarrist</title>
@@ -1363,7 +1363,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91435</guid>
         <pubDate>Wed, 09 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111597.mp3" length="2445" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111597.mp3" length="29450534" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans rekordförsök</title>
@@ -1372,7 +1372,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543050</guid>
         <pubDate>Sat, 18 Jun 2005 16:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/ecabed41-3e61-4d64-aa5e-6528bf558040.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645162.mp3" length="5891" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645162.mp3" length="94383207" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans nyårslöfte</title>
@@ -1381,7 +1381,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543046</guid>
         <pubDate>Sat, 18 Jun 2005 16:29:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645133.mp3" length="3006" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645133.mp3" length="48216421" type="audio/mpeg" />
         </item>
         <item>
         <title>Forma handen som en liten pil</title>
@@ -1390,7 +1390,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543043</guid>
         <pubDate>Sat, 18 Jun 2005 16:28:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645081.mp3" length="1944" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645081.mp3" length="31225459" type="audio/mpeg" />
         </item>
         <item>
         <title>”Jag har legat med era mammor”</title>
@@ -1399,7 +1399,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543042</guid>
         <pubDate>Sat, 18 Jun 2005 16:27:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645060.mp3" length="2577" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645060.mp3" length="41357688" type="audio/mpeg" />
         </item>
         <item>
         <title>Golvad av gomsegel</title>
@@ -1408,7 +1408,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543039</guid>
         <pubDate>Sat, 18 Jun 2005 16:26:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645048.mp3" length="2624" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645048.mp3" length="42098389" type="audio/mpeg" />
         </item>
         <item>
         <title>Hetsät en ost</title>
@@ -1417,7 +1417,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543038</guid>
         <pubDate>Sat, 18 Jun 2005 16:25:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645044.mp3" length="2609" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645044.mp3" length="41869156" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki Tapper lagar nattamat</title>
@@ -1426,7 +1426,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543034</guid>
         <pubDate>Sat, 18 Jun 2005 16:24:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644998.mp3" length="2548" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644998.mp3" length="40895487" type="audio/mpeg" />
         </item>
         <item>
         <title>Viskande kvinna sökes</title>
@@ -1435,7 +1435,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543033</guid>
         <pubDate>Sat, 18 Jun 2005 16:23:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644993.mp3" length="2199" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644993.mp3" length="35305839" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans blåsa i munnen läcker</title>
@@ -1444,7 +1444,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543031</guid>
         <pubDate>Sat, 18 Jun 2005 16:22:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644984.mp3" length="2432" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644984.mp3" length="39036789" type="audio/mpeg" />
         </item>
         <item>
         <title>Total makeover – kentaur-edition</title>
@@ -1453,7 +1453,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543024</guid>
         <pubDate>Sat, 18 Jun 2005 16:21:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644973.mp3" length="2258" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644973.mp3" length="36249336" type="audio/mpeg" />
         </item>
         <item>
         <title>Västerbottnisk hårdporr utan bilder</title>
@@ -1462,7 +1462,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543018</guid>
         <pubDate>Sat, 18 Jun 2005 16:20:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644934.mp3" length="2470" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644934.mp3" length="39641211" type="audio/mpeg" />
         </item>
         <item>
         <title>Gränsen mellan kittel och klös</title>
@@ -1471,7 +1471,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543015</guid>
         <pubDate>Sat, 18 Jun 2005 16:19:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644924.mp3" length="2020" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644924.mp3" length="32442544" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla tar till spriten</title>
@@ -1480,7 +1480,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543014</guid>
         <pubDate>Sat, 18 Jun 2005 16:18:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644921.mp3" length="2303" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644921.mp3" length="36976824" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan är kroppsfixerad</title>
@@ -1489,7 +1489,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543010</guid>
         <pubDate>Sat, 18 Jun 2005 16:17:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644871.mp3" length="1874" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644871.mp3" length="30101845" type="audio/mpeg" />
         </item>
         <item>
         <title>Inlinespojken och skatetjejen</title>
@@ -1498,7 +1498,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543004</guid>
         <pubDate>Sat, 18 Jun 2005 16:16:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644857.mp3" length="2553" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644857.mp3" length="40962901" type="audio/mpeg" />
         </item>
         <item>
         <title>Livscoachen Peter botar dålig självkänsla</title>
@@ -1507,7 +1507,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542997</guid>
         <pubDate>Sat, 18 Jun 2005 16:15:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644751.mp3" length="2212" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644751.mp3" length="35508949" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan får en kärringstöt</title>
@@ -1516,7 +1516,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542996</guid>
         <pubDate>Sat, 18 Jun 2005 16:14:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644741.mp3" length="2428" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644741.mp3" length="38964210" type="audio/mpeg" />
         </item>
         <item>
         <title>Bolibompa-Jalle känner sig mobbad</title>
@@ -1525,7 +1525,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542994</guid>
         <pubDate>Sat, 18 Jun 2005 16:13:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644727.mp3" length="2505" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644727.mp3" length="40202616" type="audio/mpeg" />
         </item>
         <item>
         <title>Död kattpojke bortskänkes</title>
@@ -1534,7 +1534,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542992</guid>
         <pubDate>Sat, 18 Jun 2005 16:12:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644700.mp3" length="2295" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644700.mp3" length="36839893" type="audio/mpeg" />
         </item>
         <item>
         <title>Lars ger uttrycket ”fulsnygg” ett ansikte</title>
@@ -1543,7 +1543,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542987</guid>
         <pubDate>Sat, 18 Jun 2005 16:11:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644648.mp3" length="2255" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644648.mp3" length="36205525" type="audio/mpeg" />
         </item>
         <item>
         <title>Big trouble in little China</title>
@@ -1552,7 +1552,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542986</guid>
         <pubDate>Sat, 18 Jun 2005 16:10:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644642.mp3" length="2535" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644642.mp3" length="40677700" type="audio/mpeg" />
         </item>
         <item>
         <title>Gotte får samtalsterapi</title>
@@ -1561,7 +1561,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542844</guid>
         <pubDate>Sat, 18 Jun 2005 16:09:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645974.mp3" length="2051" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645974.mp3" length="32938452" type="audio/mpeg" />
         </item>
         <item>
         <title>Bungy Jump från Patriks bil</title>
@@ -1570,7 +1570,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542985</guid>
         <pubDate>Sat, 18 Jun 2005 16:08:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644641.mp3" length="1723" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644641.mp3" length="27693041" type="audio/mpeg" />
         </item>
         <item>
         <title>Gotte vaknar naken i kontorsförrådet</title>
@@ -1579,7 +1579,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542982</guid>
         <pubDate>Sat, 18 Jun 2005 16:07:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644606.mp3" length="1973" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644606.mp3" length="31692520" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan är mjuk, bilar är hårda</title>
@@ -1588,7 +1588,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542981</guid>
         <pubDate>Sat, 18 Jun 2005 16:06:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644594.mp3" length="1968" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644594.mp3" length="31606447" type="audio/mpeg" />
         </item>
         <item>
         <title>Den osminkade sanningen om stuntmän</title>
@@ -1597,7 +1597,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542974</guid>
         <pubDate>Sat, 18 Jun 2005 16:05:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644590.mp3" length="1932" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644590.mp3" length="31031652" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla bjuder på sju sorters apa</title>
@@ -1606,7 +1606,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542971</guid>
         <pubDate>Sat, 18 Jun 2005 16:04:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644506.mp3" length="2021" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644506.mp3" length="32462825" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunders powerdrink</title>
@@ -1615,7 +1615,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542856</guid>
         <pubDate>Sat, 18 Jun 2005 16:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643965.mp3" length="2049" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643965.mp3" length="32901608" type="audio/mpeg" />
         </item>
         <item>
         <title>Patrik lär sig Google – på ett nytt sätt</title>
@@ -1624,7 +1624,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542835</guid>
         <pubDate>Sat, 18 Jun 2005 16:02:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643750.mp3" length="1988" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643750.mp3" length="31931663" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan åker inlines – utan stopp!</title>
@@ -1633,7 +1633,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542832</guid>
         <pubDate>Sat, 18 Jun 2005 16:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643740.mp3" length="1499" type="audio/mpeg" />
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643740.mp3" length="24098772" type="audio/mpeg" />
         </item>
 </channel>
 </rss>
