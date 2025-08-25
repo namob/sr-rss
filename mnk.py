@@ -42,14 +42,17 @@ except Exception as e:
 if r.status_code == 200:
     episodes = r.json()["episodes"]
     for episode in episodes:
-        title = episode["title"]
+        title = episode["title"].replace("&","och")
         id = episode["id"]
-        description = episode["description"]
+        description = episode["description"].replace("&","och")
         url = episode["url"]
         imageurl = episode["imageurltemplate"]
         if "listenpodfile" in episode:
             audiourl = episode["listenpodfile"]["url"]
-            audioduration = episode["listenpodfile"]["duration"]
+            audioduration = episode["listenpodfile"]["filesizeinbytes"]
+        elif "downloadpodfile" in episode:
+            audiourl = episode["downloadpodfile"]["url"]
+            audioduration = episode["downloadpodfile"]["filesizeinbytes"]
         elif "broadcast" in episode:
             if "broadcastfiles" in episode["broadcast"]:
                 audiourl = episode["broadcast"]["broadcastfiles"][0]["url"]
