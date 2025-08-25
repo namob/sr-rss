@@ -23,7 +23,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: run p3docu.py
+      - name: run p3doku.py
         run: python p3doku.py
 
       - name: run mnk.py
