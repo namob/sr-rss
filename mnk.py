@@ -5,7 +5,7 @@ import re
 lastBuildDate = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
 
 rss = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/po>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sr="http://www.sverigesradio.se/podrss" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
