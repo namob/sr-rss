@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 30 Aug 2025 12:29:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 12:30:22 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -24,6 +24,15 @@
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2025. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+        <item>
+        <title>Mangan i djungeln</title>
+        <description>Thunder avslöjar en fiende mitt ibland oss, Markus Lundin svarar på lyssnarfrågor och Mangan står inför sitt livs största äventyr.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2656600</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2656600</guid>
+        <pubDate>Sat, 30 Aug 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/15606a3d-e55c-4c62-bf46-2bb15e879d90.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9876577.mp3" length="20467029" type="audio/mpeg" />
+        </item>
         <item>
         <title>Katarsis</title>
         <description>Thunder spelar brännboll, Konstantin vänder blad och Markus Lundin vill återförena Kent en sista gång.</description>
