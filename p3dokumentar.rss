@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 31 Aug 2025 12:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 12:34:39 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/919cd270-b1fd-45dd-af26-9a533cc9cbfd.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9481851.mp3" length="4792" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Nytorgsmannen</title>
-            <description>En gärningsman dokumenterar sina övergrepp, men upptäcks av en slump. För polisen börjar ett svårt arbete för att lista ut vilka brottsoffren är.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2452970</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2452970</guid>
-            <pubDate>Thu, 05 Sep 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/58f68900-2272-4c2e-998e-e4067a5da897.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9464531.mp3" length="4315" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
