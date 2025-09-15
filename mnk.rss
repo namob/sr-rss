@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Sep 2025 12:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 12:33:40 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -59,15 +59,6 @@
         <pubDate>Sat, 16 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/cde5a541-b44c-4f2d-a639-64cccea5bfe3.jpg?preset=api-itunes-presentation-image"/>
         <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863342.mp3" length="20376021" type="audio/mpeg" />
-        </item>
-        <item>
-        <title>Till häst genom Västerbotten</title>
-        <description>Norrländsk humor när den är som bäst.</description>
-        <link>https://www.sverigesradio.se/avsnitt/2651279</link>
-        <guid isPermaLink="false">rss:sr.se/pod/eid/2651279</guid>
-        <pubDate>Fri, 15 Aug 2025 17:06:00 GMT</pubDate>
-        <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9869871-hi.m4a" length="9240" type="audio/mpeg" />
         </item>
         <item>
         <title>Resfeber</title>

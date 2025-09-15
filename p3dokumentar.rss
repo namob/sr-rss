@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 14 Sep 2025 12:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 12:33:39 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8cf1901f-2b10-49a1-a721-bb62d930473f.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9500572.mp3" length="4549" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Dubbelmordet i Ljungsbro</title>
-            <description>Från altanen hör Pia Östlingh bråk ute vid vägen. Hon riskerar sitt eget liv när hon rusar ut för att stoppa misshandeln.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2460842</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2460842</guid>
-            <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/919cd270-b1fd-45dd-af26-9a533cc9cbfd.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9481851.mp3" length="4792" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
