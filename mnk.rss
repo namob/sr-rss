@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Sep 2025 12:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 12:34:37 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -26,7 +26,7 @@
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
         <item>
         <title>Fiiiight!</title>
-        <description>Mangan går i Tarzans fotspår, Thunder räddar hundar utan ben och Markus Lundin har bokat Strawberry arena.</description>
+        <description>Säsong 9. Avsnitt 14 av 20. Mangan går i Tarzans fotspår, Thunder räddar hundar utan ben och Markus Lundin har bokat Strawberry arena.</description>
         <link>https://www.sverigesradio.se/avsnitt/2660826</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2660826</guid>
         <pubDate>Sat, 06 Sep 2025 10:03:00 GMT</pubDate>
@@ -35,7 +35,7 @@
         </item>
         <item>
         <title>Mangan i djungeln</title>
-        <description>Thunder avslöjar en fiende mitt ibland oss, Markus Lundin svarar på lyssnarfrågor och Mangan står inför sitt livs största äventyr.</description>
+        <description>Säsong 9. Avsnitt 13 av 20. Thunder avslöjar en fiende mitt ibland oss, Markus Lundin svarar på lyssnarfrågor och Mangan står inför sitt livs största äventyr.</description>
         <link>https://www.sverigesradio.se/avsnitt/2656600</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2656600</guid>
         <pubDate>Sat, 30 Aug 2025 10:03:00 GMT</pubDate>
@@ -44,7 +44,7 @@
         </item>
         <item>
         <title>Hajpojken vänder blad</title>
-        <description>Thunder spelar brännboll, Konstantin vänder blad och Markus Lundin vill återförena Kent en sista gång.</description>
+        <description>Säsong 9. Avsnitt 12 av 20. Thunder spelar brännboll, Konstantin vänder blad och Markus Lundin vill återförena Kent en sista gång.</description>
         <link>https://www.sverigesradio.se/avsnitt/2648462</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648462</guid>
         <pubDate>Sat, 23 Aug 2025 10:03:00 GMT</pubDate>
@@ -53,7 +53,7 @@
         </item>
         <item>
         <title>Yippee-Ki-Yay</title>
-        <description>Livscoach Peter Nilsson botar jobbångest, Lacken och Tråden minns när de gick i kyrkan som barn och Katla bjuder på en sista begravningsplan.</description>
+        <description>Säsong 9. Avsnitt 11 av 20. Livscoach Peter Nilsson botar jobbångest, Lacken och Tråden minns när de gick i kyrkan som barn och Katla bjuder på en sista begravningsplan.</description>
         <link>https://www.sverigesradio.se/avsnitt/2648458</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648458</guid>
         <pubDate>Sat, 16 Aug 2025 10:03:00 GMT</pubDate>
@@ -62,7 +62,7 @@
         </item>
         <item>
         <title>Resfeber</title>
-        <description>Jens ser sanningen i vitögat, Lacken och Tråden bjuder på barndomsminnen och Shanti delar med sig av ett moraliskt dilemma.</description>
+        <description>Säsong 9. Avsnitt 10 av 20. Jens ser sanningen i vitögat, Lacken och Tråden bjuder på barndomsminnen och Shanti delar med sig av ett moraliskt dilemma.</description>
         <link>https://www.sverigesradio.se/avsnitt/2636047</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636047</guid>
         <pubDate>Sat, 09 Aug 2025 10:03:00 GMT</pubDate>
@@ -71,7 +71,7 @@
         </item>
         <item>
         <title>Är det okej om jag röker?</title>
-        <description>Hans vill bli infrusen i en glaciär, Shanti Roney läser högt och Jens gör en chockerande upptäckt.</description>
+        <description>Säsong 9. Avsnitt 9 av 20. Hans vill bli infrusen i en glaciär, Shanti Roney läser högt och Jens gör en chockerande upptäckt.</description>
         <link>https://www.sverigesradio.se/avsnitt/2636046</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636046</guid>
         <pubDate>Sat, 02 Aug 2025 10:03:00 GMT</pubDate>
@@ -80,7 +80,7 @@
         </item>
         <item>
         <title>Jag vill ha en kattbegravning</title>
-        <description>Kicki Tapper bjuder på snus, Lacken och Tråden minns sin barndom och Agneta vill stoppa porr.</description>
+        <description>Säsong 9. Avsnitt 8 av 20. Kicki Tapper bjuder på snus, Lacken och Tråden minns sin barndom och Agneta vill stoppa porr.</description>
         <link>https://www.sverigesradio.se/avsnitt/2636045</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636045</guid>
         <pubDate>Sat, 26 Jul 2025 10:03:00 GMT</pubDate>
@@ -89,7 +89,7 @@
         </item>
         <item>
         <title>Glöm aldrig Hajpojken!</title>
-        <description>Jens går till botten med Peter Jöbacks ondskefulla baklängesmeddelanden, Lacken och Tråden minns sin dagmamma och så dyker Hajpojken upp</description>
+        <description>Säsong 9. Avsnitt 7 av 20. Jens går till botten med Peter Jöbacks ondskefulla baklängesmeddelanden, Lacken och Tråden minns sin dagmamma och så dyker Hajpojken upp</description>
         <link>https://www.sverigesradio.se/avsnitt/2627915</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2627915</guid>
         <pubDate>Sat, 19 Jul 2025 10:03:00 GMT</pubDate>
@@ -98,7 +98,7 @@
         </item>
         <item>
         <title>Förr i världen var man dum i huvudet nå djävulskt</title>
-        <description>Jens avslöjar en oväntad miljöbov, Kicki Tapper kavlar upp ärmarna och Mirjo rapporterar från den romersk-grekiska bundesligan i på måfå</description>
+        <description>Säsong 9. Avsnitt 6 av 20. Jens avslöjar en oväntad miljöbov, Kicki Tapper kavlar upp ärmarna och Mirjo rapporterar från den romersk-grekiska bundesligan i på måfå</description>
         <link>https://www.sverigesradio.se/avsnitt/2621253</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621253</guid>
         <pubDate>Sat, 12 Jul 2025 10:03:00 GMT</pubDate>
@@ -107,7 +107,7 @@
         </item>
         <item>
         <title>Vi syns i marschallens skugga</title>
-        <description>Jens har hittat onda budskap i Orups låtar, Mirjo rapporterar på måfå direkt från Gargamel Parten Kirtsen och Kicki Tapper övar läsförståelse med oss.</description>
+        <description>Säsong 9. Avsnitt 5 av 20. Jens har hittat onda budskap i Orups låtar, Mirjo rapporterar på måfå direkt från Gargamel Parten Kirtsen och Kicki Tapper övar läsförståelse med oss.</description>
         <link>https://www.sverigesradio.se/avsnitt/2621252</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621252</guid>
         <pubDate>Sat, 05 Jul 2025 10:03:00 GMT</pubDate>
@@ -116,7 +116,7 @@
         </item>
         <item>
         <title>Big in Japan</title>
-        <description>Jens avslöjar en mobbare, Mirjo rapporter på måfå och Agneta vill varna förtagare som tänker expandera globalt</description>
+        <description>Säsong 9. Avsnitt 4 av 20.Jens avslöjar en mobbare, Mirjo rapporter på måfå och Agneta vill varna förtagare som tänker expandera globalt</description>
         <link>https://www.sverigesradio.se/avsnitt/2621251</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621251</guid>
         <pubDate>Sat, 28 Jun 2025 10:03:00 GMT</pubDate>
@@ -125,7 +125,7 @@
         </item>
         <item>
         <title>Helt på måfå</title>
-        <description>Mirjo rapporter från låglands VM i på måfå, Kicki Tapper har skrivit en barnbok och Job vet hur det gick till förr i tiden.</description>
+        <description>Säsong 9. Avsnitt 3 av 20. Mirjo rapporter från låglands VM i på måfå, Kicki Tapper har skrivit en barnbok och Job vet hur det gick till förr i tiden.</description>
         <link>https://www.sverigesradio.se/avsnitt/2621206</link>
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621206</guid>
         <pubDate>Sat, 21 Jun 2025 10:03:00 GMT</pubDate>
