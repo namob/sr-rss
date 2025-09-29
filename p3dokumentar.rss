@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 28 Sep 2025 12:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 12:35:12 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 17 Oct 2024 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/4e101379-e7b0-4cc4-ae04-baa92a23e72f.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9575297.mp3" length="4140" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Det svenska rabiesfallet</title>
-            <description>Malin kommer in till Södersjukhuset med mystiska symtom. Snart kommer misstanken – om ett dödligt virus som varit utrotat i Sverige i 100 år.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2471765</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2471765</guid>
-            <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/8cf1901f-2b10-49a1-a721-bb62d930473f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9500572.mp3" length="4549" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
