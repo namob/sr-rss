@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Oct 2025 12:29:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 12:34:51 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 31 Oct 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/3c70674a-08ab-49bf-b3c3-3d331be34f04.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9535272.mp3" length="3924" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Kpistdramat i Uppsala</title>
-            <description>Elisabeth och hennes fem vänner vandrar hem efter en festkväll i Uppsala. Snart hamnar de i ett inferno av kulor och en dödlig masskjutning.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2473873</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2473873</guid>
-            <pubDate>Thu, 17 Oct 2024 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/4e101379-e7b0-4cc4-ae04-baa92a23e72f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9575297.mp3" length="4140" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
