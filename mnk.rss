@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 18 Oct 2025 12:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 12:30:37 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -24,6 +24,15 @@
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2025. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+        <item>
+        <title>Krille! Jag gör slut!</title>
+        <description>Säsong 9. Avsnitt 18 av 20. Kroppshistorikern Kaj Morenius gör entré, Jessika avslöjar något omvälvande och Mangan räddar en elefantunge.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2677580</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2677580</guid>
+        <pubDate>Sat, 18 Oct 2025 10:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/5a22b596-ef4a-4439-a48e-9db123f3707f.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9921474.mp3" length="19376469" type="audio/mpeg" />
+        </item>
         <item>
         <title>Thunder är amazing</title>
         <description>Säsong 9. Avsnitt 17 av 20.Thunder slåss mot en monsterbrasa, Mangan är vilse i djungeln och Jessika gör slut.</description>
