@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 01 Nov 2025 12:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 12:30:28 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -24,6 +24,15 @@
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2025. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+        <item>
+        <title>Klart och betalt!</title>
+        <description>Säsong 9. Avsnitt 20 av 20. Lars visar ett sista ärr, Kaj avslöjar den manliga anatomins historia och Jessika ser äntligen ut att vinna över syrran.</description>
+        <link>https://www.sverigesradio.se/avsnitt/2681247</link>
+        <guid isPermaLink="false">rss:sr.se/pod/eid/2681247</guid>
+        <pubDate>Sat, 01 Nov 2025 11:03:00 GMT</pubDate>
+        <itunes:image href="https://static-cdn.sr.se/images/2399/e4d77276-ef65-46b0-b01a-c7f1781745c0.jpg?preset=api-itunes-presentation-image"/>
+        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9929434.mp3" length="20935509" type="audio/mpeg" />
+        </item>
         <item>
         <title>Det som händer i djungeln stannar i djungeln</title>
         <description>Säsong 9. Avsnitt 19 av 20. Kaj fokuserar på öronen, Krille har bokat delfiner och Mangan går tillbaka till civilisationen.</description>
