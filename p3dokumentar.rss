@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 13 Nov 2025 12:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 12:35:33 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Jordbävningen i Himalaya – backpackerparadiset och katastrofen</title>
+            <description>När marken rämnar i Nepal kämpar två svenska tjejer för att överleva dagen samtidigt som de ställs inför ett livsavgörande val.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2698645</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2698645</guid>
+            <pubDate>Thu, 13 Nov 2025 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/2b8b6598-8337-4c6b-9787-a5d71fdfe903.png?preset=api-itunes-presentation-image"/>
+            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9973291.mp3" length="4760" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Gisslandramat i Wien och terroristen Carlos Schakalen</title>
             <description>Strax före jul 1975 attackeras OPEC:s högkvarter av terrorister. Över 60 ministrar, delegater och tjänstemän tas som gisslan och tre personer dödas.</description>
