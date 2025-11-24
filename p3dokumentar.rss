@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 23 Nov 2025 12:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 12:36:44 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Mon, 02 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8aae34a3-d376-40cc-99de-1b46dbb6d512.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9575423.mp3" length="119" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Mordet på Tova Moberg</title>
-            <description>Det är bara några veckor kvar till studenten när 19-åriga Tova Moberg försvinner. Misstankarna riktas mot hennes 22-åriga pojkvän, men direkta bevis saknas.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2493469</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2493469</guid>
-            <pubDate>Thu, 28 Nov 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/f42fffb0-1c95-4359-856a-12ac74335802.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9572697.mp3" length="5089" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
