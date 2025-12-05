@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 04 Dec 2025 12:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 12:37:04 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 26 Dec 2024 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/7e3af3fa-d05a-4092-b1aa-cc99aad4c993.jpg?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9601495.mp3" length="4604" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Mordet på svenska FN-experten Zaida Catalán</title>
-            <description>FN-experten Zaida Catalán tillfångatas när hon åker motorcykeltaxi med kollegan Michael Sharp på uppdrag i Kongo-Kinshasa. Men vem som ligger bakom morden förblir ett mysterium.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2514111</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2514111</guid>
-            <pubDate>Mon, 09 Dec 2024 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/8e00bf90-c74e-47db-9be7-a1ce5dc3068f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9583956.mp3" length="4351" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
