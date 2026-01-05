@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Jan 2026 12:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 12:41:00 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 23 Jan 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/6eeacb42-3a26-408a-bba9-c783cfc49f5d.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9642135.mp3" length="3918" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Ferrarimannen och pyramidspelet</title>
-            <description>Han klär sig fint, kör dyra bilar och utlovar hög avkastning till sina investerare. Men när hans Ferrari sprängs i luften, nystas en av Sveriges största bedrägerihärvor upp.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2512048</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2512048</guid>
-            <pubDate>Thu, 09 Jan 2025 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/281e4d89-8fae-4e39-8f24-d75ecd5cb96f.jpg?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9637337.mp3" length="4597" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
