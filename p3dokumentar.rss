@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 13 Jan 2026 12:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 12:40:21 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -48,7 +48,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <description>Uppfinnaren Peter Madsen bjuder med journalisten Kim Wall på en tur i sin egenbyggda ubåt. Hon ska göra en intervju men kommer aldrig hem.</description>
             <link>https://www.sverigesradio.se/avsnitt/2702250</link>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2702250</guid>
-            <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
+            <pubDate>Sun, 14 Dec 2025 05:03:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9f01e536-108e-41f6-b22e-c9e0e8bb7d76.png?preset=api-itunes-presentation-image"/>
             <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10008771.mp3" length="5700" type="audio/mpeg" />
             </item>
