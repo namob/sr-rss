@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/4892</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/4892" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Jan 2026 12:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:43:06 GMT</lastBuildDate>
     <image>
       <title>Mammas Nya Kille</title>
       <link>https://www.sverigesradio.se/mammasnyakille</link>
@@ -31,7 +31,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2726481</guid>
         <pubDate>Thu, 25 Dec 2025 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/e8d3be4a-63e9-45b4-b993-c0fb5bbe8833.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10012977.mp3" length="40578645" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/mammas_nya_kille_mammas_nya_kille_har_ar_ditt_20251216_0129425427.mp3" length="40578645" type="audio/mpeg" />
         </item>
         <item>
         <title>Klart och betalt!</title>
@@ -40,7 +40,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2681247</guid>
         <pubDate>Sat, 01 Nov 2025 11:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/e4d77276-ef65-46b0-b01a-c7f1781745c0.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9929434.mp3" length="20935509" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/mammas_nya_kille_klart_och_betalt_20251005_2309412445.mp3" length="20935509" type="audio/mpeg" />
         </item>
         <item>
         <title>Det som händer i djungeln stannar i djungeln</title>
@@ -49,7 +49,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2677706</guid>
         <pubDate>Sat, 25 Oct 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/c4a95e49-4f1f-4c0d-9b39-f9b86c6f439c.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9922775.mp3" length="17998293" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_det_som_hander_i_djungeln_stan_20251005_2305559780.mp3" length="17998293" type="audio/mpeg" />
         </item>
         <item>
         <title>Krille! Jag gör slut!</title>
@@ -58,7 +58,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2677580</guid>
         <pubDate>Sat, 18 Oct 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/5a22b596-ef4a-4439-a48e-9db123f3707f.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9921474.mp3" length="19376469" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_krille_jag_gor_slut_20251005_2305370383.mp3" length="19376469" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder är amazing</title>
@@ -67,7 +67,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2673878</guid>
         <pubDate>Sat, 11 Oct 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/175e5d13-fb50-424e-b423-de995f5fe4b0.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9913315.mp3" length="20969685" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_thunder_ar_amazing_20250921_2149581826.mp3" length="20969685" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessikas revansch</title>
@@ -76,7 +76,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2665132</guid>
         <pubDate>Sat, 04 Oct 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/9816a1a3-073e-4dc5-bebc-3b7d63f921ff.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9898311.mp3" length="20681301" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_jessikas_revansch_20250921_2157544505.mp3" length="20681301" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta och zoomboom</title>
@@ -85,7 +85,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2664498</guid>
         <pubDate>Sat, 27 Sep 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/2ede30ca-a640-4c7b-9fd0-ced56e0eaab9.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9895615.mp3" length="18783189" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_agneta_och_zoomboom_20250921_2158029520.mp3" length="18783189" type="audio/mpeg" />
         </item>
         <item>
         <title>Fiiiight!</title>
@@ -94,7 +94,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2660826</guid>
         <pubDate>Sat, 06 Sep 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8f72a131-8c3a-461f-9cf5-943ce48e58d0.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9889078.mp3" length="19174101" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/mammas_nya_kille_fiiiight_20250921_2158205954.mp3" length="19174101" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan i djungeln</title>
@@ -103,7 +103,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2656600</guid>
         <pubDate>Sat, 30 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/15606a3d-e55c-4c62-bf46-2bb15e879d90.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9876577.mp3" length="20467029" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/08/mammas_nya_kille_mangan_i_djungeln_20250921_2158291228.mp3" length="20467029" type="audio/mpeg" />
         </item>
         <item>
         <title>Hajpojken vänder blad</title>
@@ -112,7 +112,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648462</guid>
         <pubDate>Sat, 23 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f9bab18b-e09e-490c-afc4-bfbf746eba9a.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863393.mp3" length="18264789" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/08/mammas_nya_kille_hajpojken_vander_blad_20250921_2201297147.mp3" length="18264789" type="audio/mpeg" />
         </item>
         <item>
         <title>Yippee-Ki-Yay</title>
@@ -121,7 +121,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2648458</guid>
         <pubDate>Sat, 16 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/cde5a541-b44c-4f2d-a639-64cccea5bfe3.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9863342.mp3" length="20376021" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/08/mammas_nya_kille_yippeekiyay_20250921_2201196055.mp3" length="20376021" type="audio/mpeg" />
         </item>
         <item>
         <title>Resfeber</title>
@@ -130,7 +130,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636047</guid>
         <pubDate>Sat, 09 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/560cd34b-fece-44af-9ae0-8eb7ce88b915.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836838.mp3" length="18346581" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/mammas_nya_kille_resfeber_20250921_2157229973.mp3" length="18346581" type="audio/mpeg" />
         </item>
         <item>
         <title>Är det okej om jag röker?</title>
@@ -139,7 +139,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636046</guid>
         <pubDate>Sat, 02 Aug 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/90361464-a874-42ce-a828-a2701d52d6f2.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9836837.mp3" length="18358101" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/mammas_nya_kille_r_det_okej_om_jag_roker_20250921_2157042419.mp3" length="18358101" type="audio/mpeg" />
         </item>
         <item>
         <title>Jag vill ha en kattbegravning</title>
@@ -148,7 +148,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2636045</guid>
         <pubDate>Sat, 26 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/7c448aea-d0a4-49c4-bd0d-f296332f4fc5.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840442.mp3" length="20106070" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/mammas_nya_kille_mammas_nya_kille_20250921_2156456556.mp3" length="20106070" type="audio/mpeg" />
         </item>
         <item>
         <title>Glöm aldrig Hajpojken!</title>
@@ -157,7 +157,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2627915</guid>
         <pubDate>Sat, 19 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/03e8533f-f22a-4773-8989-3dbc9520df1c.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9840392.mp3" length="19075194" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/mammas_nya_kille_glom_aldrig_hajpojken_20250921_2155530616.mp3" length="19075194" type="audio/mpeg" />
         </item>
         <item>
         <title>Förr i världen var man dum i huvudet nå djävulskt</title>
@@ -166,7 +166,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621253</guid>
         <pubDate>Sat, 12 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/b46048a1-fd63-4a00-bd12-a23b7d456e90.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803358.mp3" length="17851989" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_forr_i_varlden_var_man_dum_i_h_20250921_2151420998.mp3" length="17851989" type="audio/mpeg" />
         </item>
         <item>
         <title>Vi syns i marschallens skugga</title>
@@ -175,7 +175,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621252</guid>
         <pubDate>Sat, 05 Jul 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/1338f8dd-26ef-412e-9cbf-8239da18c19e.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803355.mp3" length="19123797" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_vi_syns_i_marschallens_skugga_20250921_2151080999.mp3" length="19123797" type="audio/mpeg" />
         </item>
         <item>
         <title>Big in Japan</title>
@@ -184,7 +184,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621251</guid>
         <pubDate>Sat, 28 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/5de1cdb6-72cc-41bc-b22f-d04aeeed4551.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803353.mp3" length="18551253" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_big_in_japan_20250921_2150527644.mp3" length="18551253" type="audio/mpeg" />
         </item>
         <item>
         <title>Helt på måfå</title>
@@ -193,7 +193,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2621206</guid>
         <pubDate>Sat, 21 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/26a7ddc9-4ed1-4413-85ba-d6caf730c874.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9803190.mp3" length="18075630" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_helt_pa_mafa_20250921_2156052591.mp3" length="18075630" type="audio/mpeg" />
         </item>
         <item>
         <title>Lär dig läsa annars får du stryk!</title>
@@ -202,7 +202,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2612466</guid>
         <pubDate>Sat, 14 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/d22aedf7-fa97-4901-9cc8-f6bf094542f5.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786807.mp3" length="18775509" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_lar_dig_lasa_annars_far_du_str_20250616_0950235457.mp3" length="18775509" type="audio/mpeg" />
         </item>
         <item>
         <title>Hör du vem som viskar dig i örat?</title>
@@ -211,7 +211,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2612465</guid>
         <pubDate>Sat, 07 Jun 2025 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/9ec15e75-c82e-49cb-83cf-2fde77254e09.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9786806.mp3" length="18361058" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_hor_du_vem_som_viskar_dig_i_or_20250612_1653233531.mp3" length="18361058" type="audio/mpeg" />
         </item>
         <item>
         <title>Vinter – Till häst genom Västerbotten</title>
@@ -220,7 +220,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583355</guid>
         <pubDate>Fri, 02 May 2025 04:02:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747714.mp3" length="27213205" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/mammas_nya_kille_vinter__till_hast_genom_vaste_20250428_1456304858.mp3" length="27213205" type="audio/mpeg" />
         </item>
         <item>
         <title>Höst – Till häst genom Västerbotten</title>
@@ -229,7 +229,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583354</guid>
         <pubDate>Fri, 02 May 2025 04:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747713.mp3" length="25539063" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/mammas_nya_kille_host_till_hast_genom_vasterb_20250428_1456072787.mp3" length="25539063" type="audio/mpeg" />
         </item>
         <item>
         <title>Sommar – Till häst genom Västerbotten</title>
@@ -238,7 +238,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2583353</guid>
         <pubDate>Fri, 02 May 2025 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/78d56c76-7649-406f-9313-ae0a05f8d7e7.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9747712.mp3" length="27453945" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/mammas_nya_kille_sommar__till_hast_genom_vaste_20250428_1455160995.mp3" length="27453945" type="audio/mpeg" />
         </item>
         <item>
         <title>Grässäljaren Håkan kommer tillbaka!</title>
@@ -247,7 +247,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744404</guid>
         <pubDate>Fri, 13 Aug 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791476.mp3" length="30069844" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_grassaljaren_hakan_kommer_till_20250612_1617301498.mp3" length="30069844" type="audio/mpeg" />
         </item>
         <item>
         <title>Lacken och Tråden smusslar musslor</title>
@@ -256,7 +256,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744405</guid>
         <pubDate>Fri, 06 Aug 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7909717.mp3" length="26129547" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/08/mammas_nya_kille_lacken__traden_smusslar_mussl_20250612_1617229821.mp3" length="26129547" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessicas bästa göra slut-repliker</title>
@@ -265,7 +265,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744385</guid>
         <pubDate>Fri, 30 Jul 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908949.mp3" length="27176596" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/07/mammas_nya_kille_jessicasbastagora_slutrepli_20250612_1617405474.mp3" length="27176596" type="audio/mpeg" />
         </item>
         <item>
         <title>Netflix nästa: Hajpojken</title>
@@ -274,7 +274,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744384</guid>
         <pubDate>Fri, 23 Jul 2021 04:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7908948.mp3" length="25738842" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/07/mammas_nya_kille_netflix_nasta_hajpojken_20250612_1617569571.mp3" length="25738842" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla sätter Peter Pan i rullstol</title>
@@ -283,7 +283,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1715937</guid>
         <pubDate>Sun, 18 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894710.mp3" length="25123616" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/07/mammas_nya_kille_katla_satter_peter_pan_i_rulls_20250612_1618575202.mp3" length="25123616" type="audio/mpeg" />
         </item>
         <item>
         <title>Job gräver i småbyxorna</title>
@@ -292,7 +292,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1744752</guid>
         <pubDate>Sun, 11 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7894736.mp3" length="28419562" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/07/mammas_nya_kille_job_graver_i_smabyxorna_20250612_1619088728.mp3" length="28419562" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla hatar Peter Pan</title>
@@ -301,7 +301,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1741902</guid>
         <pubDate>Sun, 04 Jul 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882169.mp3" length="26261629" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/07/mammas_nya_kille_katla_hatar_peter_pan_20250129_1525408075.mp3" length="26261629" type="audio/mpeg" />
         </item>
         <item>
         <title>Håkan säljer gräs!</title>
@@ -310,7 +310,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1715934</guid>
         <pubDate>Sun, 27 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7882168.mp3" length="27186118" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/06/mammas_nya_kille_hakan_saljer_gras_20250612_1619179709.mp3" length="27186118" type="audio/mpeg" />
         </item>
         <item>
         <title>Jan Evert vill återuppleva svältåret 1867</title>
@@ -319,7 +319,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1731569</guid>
         <pubDate>Sun, 20 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867357.mp3" length="25433663" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/06/mammas_nya_kille_jan_evert_vill_ateruppleva_sva_20250612_1619298649.mp3" length="25433663" type="audio/mpeg" />
         </item>
         <item>
         <title>Dinosaurierna – sömntutornas Rolls-Royce</title>
@@ -328,7 +328,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1731568</guid>
         <pubDate>Sun, 13 Jun 2021 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/809b889f-43af-4ab2-981a-e71c8512d1d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7867290.mp3" length="28650307" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2021/06/mammas_nya_kille_dinosaurierna_somntutornas_r_20250612_1619455121.mp3" length="28650307" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas provocerande uppväxt</title>
@@ -337,7 +337,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597366</guid>
         <pubDate>Fri, 18 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791544.mp3" length="32314019" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_katlas_provocerande_uppvaxt_20250612_1620007655.mp3" length="32314019" type="audio/mpeg" />
         </item>
         <item>
         <title>Annikki – kortväxt men längst i byn</title>
@@ -346,7 +346,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597363</guid>
         <pubDate>Fri, 11 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562303.mp3" length="30525764" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/12/mammas_nya_kille_annikki__kortvaxt_men_langst_20250612_1620133842.mp3" length="30525764" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki vägrar villa, Volvo och vovve</title>
@@ -355,7 +355,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597360</guid>
         <pubDate>Fri, 04 Dec 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562304.mp3" length="27155356" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/12/mammas_nya_kille_kicki_vagrar_villa_volvo_och_20250612_1620246187.mp3" length="27155356" type="audio/mpeg" />
         </item>
         <item>
         <title>Från Top Gun till toppnamn – Thomas Wii</title>
@@ -364,7 +364,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597330</guid>
         <pubDate>Fri, 27 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562305.mp3" length="28734767" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/11/mammas_nya_kille_fran_top_gun_till_toppnamn__t_20250612_1620363380.mp3" length="28734767" type="audio/mpeg" />
         </item>
         <item>
         <title>”Dansa med kalvar” starring ”Geggan”</title>
@@ -373,7 +373,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597296</guid>
         <pubDate>Fri, 20 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562306.mp3" length="27418602" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/11/mammas_nya_kille_dansa_med_kalvar_starring_g_20250612_1620512878.mp3" length="27418602" type="audio/mpeg" />
         </item>
         <item>
         <title>105 % Peter Nilsson</title>
@@ -382,7 +382,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597293</guid>
         <pubDate>Fri, 13 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562308.mp3" length="29551090" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/11/mammas_nya_kille_105__peter_nilsson_20250612_1621035728.mp3" length="29551090" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessicas inre FlumeRide</title>
@@ -391,7 +391,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597291</guid>
         <pubDate>Fri, 06 Nov 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562307.mp3" length="27440107" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/11/mammas_nya_kille_jessicasinre_flumeride_20250612_1621144537.mp3" length="27440107" type="audio/mpeg" />
         </item>
         <item>
         <title>Lars Stenberg jävlas med stil</title>
@@ -400,7 +400,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597290</guid>
         <pubDate>Fri, 30 Oct 2020 06:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562301.mp3" length="26358250" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/10/mammas_nya_kille_lars_stenberg_javlas_med_stil_20250612_1621234937.mp3" length="26358250" type="audio/mpeg" />
         </item>
         <item>
         <title>Gången då världens snällaste Jens blev arg</title>
@@ -409,7 +409,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597289</guid>
         <pubDate>Fri, 23 Oct 2020 05:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7562299.mp3" length="27136507" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/10/mammas_nya_kille_gangen_da_varldens_snallaste_j_20250612_1621383757.mp3" length="27136507" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder – the king of the animals</title>
@@ -418,7 +418,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1597273</guid>
         <pubDate>Fri, 16 Oct 2020 05:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/274f6536-c675-438d-9a4f-a2669177af51.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/7549956.mp3" length="29378877" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2020/10/mammas_nya_kille_thunder__the_king_of_the_anim_20250612_1621487755.mp3" length="29378877" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans Jordbrukspodd</title>
@@ -427,7 +427,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1203906</guid>
         <pubDate>Tue, 25 Dec 2018 10:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/d3d76492-7eef-47a2-9265-776c1d3ec9d9.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791551.mp3" length="51726398" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_mangans_jordbrukspodd_20250612_1623448756.mp3" length="51726398" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans första puss</title>
@@ -436,7 +436,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097759</guid>
         <pubDate>Fri, 17 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791560.mp3" length="6333635" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/mammas_nya_kille_mangans_forsta_puss_20250612_1623555506.mp3" length="6333635" type="audio/mpeg" />
         </item>
         <item>
         <title>En oväntad arvtagare</title>
@@ -445,7 +445,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097757</guid>
         <pubDate>Thu, 16 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517945.mp3" length="5987261" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/08/mammas_nya_kille_en_ovantad_arvtagare_20250612_1624043575.mp3" length="5987261" type="audio/mpeg" />
         </item>
         <item>
         <title>Ett stängt Kolmården är också ett Kolmården</title>
@@ -454,7 +454,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097756</guid>
         <pubDate>Fri, 10 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517943.mp3" length="5990598" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/08/mammas_nya_kille_ett_stangt_kolmarden_ar_ocksa_20250612_1624189623.mp3" length="5990598" type="audio/mpeg" />
         </item>
         <item>
         <title>En avdomnad snopp</title>
@@ -463,7 +463,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097755</guid>
         <pubDate>Thu, 09 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517942.mp3" length="5976804" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/08/mammas_nya_kille_en_avdomnad_snopp_20250612_1624263070.mp3" length="5976804" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan rullar havreboll</title>
@@ -472,7 +472,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097754</guid>
         <pubDate>Fri, 03 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517941.mp3" length="5972210" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/08/mammas_nya_kille_mangan_rullar_havreboll_20250612_1624365550.mp3" length="5972210" type="audio/mpeg" />
         </item>
         <item>
         <title>Sveriges första mänskliga badboll</title>
@@ -481,7 +481,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097753</guid>
         <pubDate>Thu, 02 Aug 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517940.mp3" length="5993932" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/08/mammas_nya_kille_sveriges_forsta_manskliga_badb_20250612_1624454199.mp3" length="5993932" type="audio/mpeg" />
         </item>
         <item>
         <title>”Bara snuskpellar plockar blåbär”</title>
@@ -490,7 +490,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097752</guid>
         <pubDate>Fri, 27 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517938.mp3" length="5995198" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_bara_snuskpellar_plockar_blab_20250612_1624541021.mp3" length="5995198" type="audio/mpeg" />
         </item>
         <item>
         <title>Världens snabbaste vattenrutschbana</title>
@@ -499,7 +499,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097751</guid>
         <pubDate>Thu, 26 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517937.mp3" length="5991022" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_varldens_snabbaste_vattenrutsc_20250612_1625049006.mp3" length="5991022" type="audio/mpeg" />
         </item>
         <item>
         <title>Tre brinnande raggare</title>
@@ -508,7 +508,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097750</guid>
         <pubDate>Fri, 20 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517935.mp3" length="5989340" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_tre_brinnande_raggare_20250612_1625200435.mp3" length="5989340" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan – flugornas herre</title>
@@ -517,7 +517,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097749</guid>
         <pubDate>Thu, 19 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517934.mp3" length="5996874" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_mangan__flugornas_herre_20250612_1625419604.mp3" length="5996874" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas skendräktsnatt</title>
@@ -526,7 +526,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097746</guid>
         <pubDate>Fri, 13 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517933.mp3" length="5993514" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_katlas_skendraktsnatt_20250612_1625517124.mp3" length="5993514" type="audio/mpeg" />
         </item>
         <item>
         <title>Annikkis bottennapp</title>
@@ -535,7 +535,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097745</guid>
         <pubDate>Thu, 12 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517932.mp3" length="5991431" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_annikkis_bottennapp_20250612_1626039191.mp3" length="5991431" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunders ollon ser allt</title>
@@ -544,7 +544,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097744</guid>
         <pubDate>Fri, 06 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519273.mp3" length="5993947" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_thunders_ollon_ser_allt_20250612_1626117975.mp3" length="5993947" type="audio/mpeg" />
         </item>
         <item>
         <title>När tacon kom till Jämtland</title>
@@ -553,7 +553,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097728</guid>
         <pubDate>Thu, 05 Jul 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6519271.mp3" length="5991849" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/07/mammas_nya_kille_nar_tacon_kom_till_jamtland_20250612_1626212183.mp3" length="5991849" type="audio/mpeg" />
         </item>
         <item>
         <title>Patriks spolarvätsketips</title>
@@ -562,7 +562,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097727</guid>
         <pubDate>Fri, 29 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517927.mp3" length="5974703" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_patriks_spolarvatsketips_20250612_1626359037.mp3" length="5974703" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan förlöser Lady Gaga</title>
@@ -571,7 +571,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1097726</guid>
         <pubDate>Thu, 28 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517926.mp3" length="5990172" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_mangan_forloser_lady_gaga_20250612_1626447847.mp3" length="5990172" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta flyger med ”Joakim Boy”</title>
@@ -580,7 +580,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103384</guid>
         <pubDate>Fri, 22 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517925.mp3" length="5993101" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_agneta_flyger_med_joakim_boy_20250612_1626550783.mp3" length="5993101" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan gör bajsjobbet</title>
@@ -589,7 +589,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103383</guid>
         <pubDate>Thu, 21 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517924.mp3" length="5993928" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_mangan_gor_bajsjobbet_20250612_1627174611.mp3" length="5993928" type="audio/mpeg" />
         </item>
         <item>
         <title>Katlas nakenfisvecka i Visby</title>
@@ -598,7 +598,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103382</guid>
         <pubDate>Fri, 15 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517923.mp3" length="5971364" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_katlas_nakenfisvecka_i_visby_20250613_1505541515.mp3" length="5971364" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan torrmjölkar en katt</title>
@@ -607,7 +607,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/1103381</guid>
         <pubDate>Thu, 14 Jun 2018 08:50:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/6c58798d-995f-4584-8552-8613998a8244.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/6517922.mp3" length="5971371" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2018/06/mammas_nya_kille_mangan_torrmjolkar_en_katt_20250612_1627301327.mp3" length="5971371" type="audio/mpeg" />
         </item>
         <item>
         <title>Mikal bjuder på en riktig skräll</title>
@@ -616,7 +616,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/642094</guid>
         <pubDate>Sun, 06 Dec 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511147.mp3" length="51755416" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/11/mammas_nya_kille_mikal_bjuder_pa_en_riktig_skra_20250612_1627453085.mp3" length="51755416" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har ett eget paradis</title>
@@ -625,7 +625,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/638582</guid>
         <pubDate>Sun, 29 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5511141.mp3" length="49134681" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/11/mammas_nya_kille_katla_har_ett_eget_paradis_20250612_1627568307.mp3" length="49134681" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan letar efter Rolf</title>
@@ -634,7 +634,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/649385</guid>
         <pubDate>Sun, 22 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496485.mp3" length="51682921" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/11/mammas_nya_kille_mangan_letar_efter_rolf_20250612_1628087256.mp3" length="51682921" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta sitter i Brolles badtunna</title>
@@ -643,7 +643,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/628117</guid>
         <pubDate>Sun, 08 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5496481.mp3" length="49556437" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/11/mammas_nya_kille_agneta_sitter_i_brolles_badtun_20250612_1628162365.mp3" length="49556437" type="audio/mpeg" />
         </item>
         <item>
         <title>Agneta äter för mycket Japanmix</title>
@@ -652,7 +652,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/624648</guid>
         <pubDate>Sun, 01 Nov 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5480879.mp3" length="49681776" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/11/mammas_nya_kille_agneta_ater_for_mycket_japanmi_20250612_1628306584.mp3" length="49681776" type="audio/mpeg" />
         </item>
         <item>
         <title>Hans vill bli fuktskadad</title>
@@ -661,7 +661,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/620612</guid>
         <pubDate>Sun, 25 Oct 2015 15:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5472867.mp3" length="51815014" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/10/mammas_nya_kille_hans_vill_bli_fuktskadad_20250612_1628425489.mp3" length="51815014" type="audio/mpeg" />
         </item>
         <item>
         <title>Hemligheten bakom ett lyckat slagsmål</title>
@@ -670,7 +670,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/617907</guid>
         <pubDate>Sun, 18 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5467660.mp3" length="46867363" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/10/mammas_nya_kille_hemligheten_bakom_ett_lyckat_s_20250612_1628542599.mp3" length="46867363" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder slåss mot militanta lämlar</title>
@@ -679,7 +679,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/614248</guid>
         <pubDate>Sun, 11 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5458882.mp3" length="50383156" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/10/mammas_nya_kille_thunder_slass_mot_militanta_la_20250612_1629043205.mp3" length="50383156" type="audio/mpeg" />
         </item>
         <item>
         <title>Hans vill bli offrad till gudarna</title>
@@ -688,7 +688,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/611074</guid>
         <pubDate>Sun, 04 Oct 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5479076.mp3" length="51965187" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/10/mammas_nya_kille_hans_vill_bli_offrad_till_guda_20250612_1629147371.mp3" length="51965187" type="audio/mpeg" />
         </item>
         <item>
         <title>Jessica har bokat tid hos veterinären</title>
@@ -697,7 +697,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/607964</guid>
         <pubDate>Sun, 27 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441836.mp3" length="53658306" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/09/mammas_nya_kille_jessica_har_bokat_tid_hos_vete_20250612_1629269978.mp3" length="53658306" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki har fått lepra</title>
@@ -706,7 +706,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/604575</guid>
         <pubDate>Sun, 20 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5441820.mp3" length="55610540" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/09/mammas_nya_kille_kicki_har_fatt_lepra_20250612_1629364693.mp3" length="55610540" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har en grisfri weekend</title>
@@ -715,7 +715,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603140</guid>
         <pubDate>Sun, 13 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431975.mp3" length="52483006" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/09/mammas_nya_kille_katla_har_en_grisfri_weekend_20250612_1629448716.mp3" length="52483006" type="audio/mpeg" />
         </item>
         <item>
         <title>Mikal går på date</title>
@@ -724,7 +724,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603139</guid>
         <pubDate>Sun, 06 Sep 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5431954.mp3" length="53282591" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mp/p3_mammas_nya_kille/2015/09/mammas_nya_kille_mikal_gar_pa_date_20250612_1629552104.mp3" length="53282591" type="audio/mpeg" />
         </item>
         <item>
         <title>Skärmfritt i Lappland</title>
@@ -733,7 +733,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603138</guid>
         <pubDate>Sun, 30 Aug 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422874.mp3" length="52442432" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2015/08/mammas_nya_kille_skarmfritt_i_lappland_20250612_1630062098.mp3" length="52442432" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla har skaffat barn</title>
@@ -742,7 +742,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/603137</guid>
         <pubDate>Sun, 23 Aug 2015 14:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/3541142_2048_1152.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/5422872.mp3" length="54042449" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/2015/08/mammas_nya_kille_katla_har_skaffat_barn_20250612_1630173425.mp3" length="54042449" type="audio/mpeg" />
         </item>
         <item>
         <title>Sanitetsbindor och livslögner</title>
@@ -751,7 +751,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/64727</guid>
         <pubDate>Wed, 05 Jan 2011 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2797763.mp3" length="41406345" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_sanitetsbindor_och_livslogner_20250612_1634589694.mp3" length="41406345" type="audio/mpeg" />
         </item>
         <item>
         <title>Lobotomi är lösningen</title>
@@ -760,7 +760,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/64570</guid>
         <pubDate>Wed, 29 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2807460.mp3" length="42140281" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_lobotomi_ar_losningen_20250612_1635123762.mp3" length="42140281" type="audio/mpeg" />
         </item>
         <item>
         <title>Jordgubbar, bajs och sommarjobb</title>
@@ -769,7 +769,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65261</guid>
         <pubDate>Wed, 22 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2769314.mp3" length="42607977" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_jordgubbar_bajs_och_sommarjob_20250612_1635209049.mp3" length="42607977" type="audio/mpeg" />
         </item>
         <item>
         <title>Jakten på det vita lejonet</title>
@@ -778,7 +778,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65073</guid>
         <pubDate>Wed, 08 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2778566.mp3" length="38752304" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_jakten_pa_det_vita_lejonet_20250612_1635341148.mp3" length="38752304" type="audio/mpeg" />
         </item>
         <item>
         <title>Gladiatorns oväntade berättelse</title>
@@ -787,7 +787,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/65902</guid>
         <pubDate>Wed, 01 Dec 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2732964.mp3" length="41312723" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_gladiatorns_ovantade_berattels_20250612_1635488591.mp3" length="41312723" type="audio/mpeg" />
         </item>
         <item>
         <title>Dolly Parton och den förlorade konserten</title>
@@ -796,7 +796,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66050</guid>
         <pubDate>Wed, 24 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2724732.mp3" length="40164588" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_dolly_parton_och_den_forlorade_20250612_1635590142.mp3" length="40164588" type="audio/mpeg" />
         </item>
         <item>
         <title>Haschkakor i Abu Dhabi</title>
@@ -805,7 +805,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66590</guid>
         <pubDate>Wed, 17 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2695267.mp3" length="40508150" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_haschkakor_i_abu_dhabi_20250612_1636107717.mp3" length="40508150" type="audio/mpeg" />
         </item>
         <item>
         <title>Kejsare över dinosauriernas bajsberg</title>
@@ -814,7 +814,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66839</guid>
         <pubDate>Wed, 10 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2683129.mp3" length="41015553" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_kejsare_over_dinosauriernas_ba_20250612_1636203894.mp3" length="41015553" type="audio/mpeg" />
         </item>
         <item>
         <title>Korta människor, stora upplevelser</title>
@@ -823,7 +823,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/66977</guid>
         <pubDate>Wed, 03 Nov 2010 15:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2673907.mp3" length="39518423" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_korta_manniskor_stora_uppleve_20250613_1506578751.mp3" length="39518423" type="audio/mpeg" />
         </item>
         <item>
         <title>Snorvalpen – en karriärmöjlighet</title>
@@ -832,7 +832,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67290</guid>
         <pubDate>Wed, 27 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655832.mp3" length="38978160" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_snorvalpen__en_karriarmojligh_20250613_1507086209.mp3" length="38978160" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan vs mördarbacken</title>
@@ -841,7 +841,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67301</guid>
         <pubDate>Wed, 20 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2655678.mp3" length="38917398" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_mangan_vsmordarbacken_20250613_1507237936.mp3" length="38917398" type="audio/mpeg" />
         </item>
         <item>
         <title>Mahogny och träpenisar</title>
@@ -850,7 +850,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67754</guid>
         <pubDate>Wed, 13 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2628962.mp3" length="40328620" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_mahogny__trapenisar_20250613_1507338413.mp3" length="40328620" type="audio/mpeg" />
         </item>
         <item>
         <title>Bingoberra Marklund</title>
@@ -859,7 +859,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67914</guid>
         <pubDate>Wed, 06 Oct 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2617326.mp3" length="40740288" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_bingoberra_marklund_20250612_1636289868.mp3" length="40740288" type="audio/mpeg" />
         </item>
         <item>
         <title>Gladporr i New York</title>
@@ -868,7 +868,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67929</guid>
         <pubDate>Wed, 29 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2615527.mp3" length="39829560" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_gladporr_i_new_york_20250612_1636385453.mp3" length="39829560" type="audio/mpeg" />
         </item>
         <item>
         <title>Mammas gamla kille</title>
@@ -877,7 +877,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/67824</guid>
         <pubDate>Wed, 22 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2625949.mp3" length="38228183" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_mammas_gamla_kille_20250612_1636527137.mp3" length="38228183" type="audio/mpeg" />
         </item>
         <item>
         <title>Runka bulle med Molgan och ET</title>
@@ -886,7 +886,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68289</guid>
         <pubDate>Wed, 15 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2586796.mp3" length="38314020" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_runka_bulle_med_molgan_och_et_20250612_1637062104.mp3" length="38314020" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunder får grizzlybjörnar att gråta</title>
@@ -895,7 +895,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68459</guid>
         <pubDate>Wed, 08 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2575752.mp3" length="38216259" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_thunder_far_grizzlybjornar_att_20250612_1637167077.mp3" length="38216259" type="audio/mpeg" />
         </item>
         <item>
         <title>Kast med liten järv</title>
@@ -904,7 +904,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68693</guid>
         <pubDate>Wed, 01 Sep 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2556360.mp3" length="39013165" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_kast_med_liten_jarv_20250612_1637313986.mp3" length="39013165" type="audio/mpeg" />
         </item>
         <item>
         <title>En hyllning till Ghostbusters</title>
@@ -913,7 +913,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/68753</guid>
         <pubDate>Wed, 25 Aug 2010 14:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/f1587001-f44c-4cb3-be9e-a1368f16c986.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/2551743.mp3" length="40201487" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/p3_mammas_nya_kille/mammas_nya_kille_en_hyllningtill_ghostbusters_20250612_1637405897.mp3" length="40201487" type="audio/mpeg" />
         </item>
         <item>
         <title>Passet, pengarna och pulsmätaren</title>
@@ -922,7 +922,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/81735</guid>
         <pubDate>Thu, 28 May 2009 10:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1770212.mp3" length="34552077" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_passet_pengarna_och_pulsmatar_20250612_1637542453.mp3" length="34552077" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla tvättar förhuden</title>
@@ -931,7 +931,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/81939</guid>
         <pubDate>Wed, 20 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1758368.mp3" length="37872357" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_katla_tvattar_forhuden_20250612_1638024717.mp3" length="37872357" type="audio/mpeg" />
         </item>
         <item>
         <title>Piteås Bermudatriangel</title>
@@ -940,7 +940,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82145</guid>
         <pubDate>Wed, 13 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1746498.mp3" length="38212476" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_piteas_bermudatriangel_20250612_1638188557.mp3" length="38212476" type="audio/mpeg" />
         </item>
         <item>
         <title>Norrländsk version av ”Inte utan min dotter”</title>
@@ -949,7 +949,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82354</guid>
         <pubDate>Wed, 06 May 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1734649.mp3" length="37410263" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_norrlandsk_version_av_inte_ut_20250612_1638266063.mp3" length="37410263" type="audio/mpeg" />
         </item>
         <item>
         <title>”Tänd mig Bengt!”</title>
@@ -958,7 +958,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82535</guid>
         <pubDate>Wed, 29 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1723813.mp3" length="40778817" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_tand_mig_bengt_20250612_1638347998.mp3" length="40778817" type="audio/mpeg" />
         </item>
         <item>
         <title>”Det luktar i vab-missbrukare”</title>
@@ -967,7 +967,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82729</guid>
         <pubDate>Wed, 22 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1711844.mp3" length="37137888" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_det_luktar_i_vabmissbrukare_20250612_1638438195.mp3" length="37137888" type="audio/mpeg" />
         </item>
         <item>
         <title>Gay-rörelsen från Narnia</title>
@@ -976,7 +976,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/82974</guid>
         <pubDate>Wed, 15 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1699734.mp3" length="36870516" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_gayrorelsen_fran_narnia_20250612_1638578714.mp3" length="36870516" type="audio/mpeg" />
         </item>
         <item>
         <title>Job tömmer kärleksblåsan</title>
@@ -985,7 +985,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83123</guid>
         <pubDate>Wed, 08 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1690255.mp3" length="37735683" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_job_tommerkarleksblasan_20250612_1639054801.mp3" length="37735683" type="audio/mpeg" />
         </item>
         <item>
         <title>Staffan ligger med Stockholm</title>
@@ -994,7 +994,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83321</guid>
         <pubDate>Wed, 01 Apr 2009 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1677924.mp3" length="36852293" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_staffan_ligger_med_stockholm_20250612_1639141447.mp3" length="36852293" type="audio/mpeg" />
         </item>
         <item>
         <title>Den ammande 8-åringen</title>
@@ -1003,7 +1003,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83502</guid>
         <pubDate>Wed, 25 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1666202.mp3" length="36066112" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_den_ammande_8aringen_20250612_1639287165.mp3" length="36066112" type="audio/mpeg" />
         </item>
         <item>
         <title>Sassy Lady-sagan</title>
@@ -1012,7 +1012,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83690</guid>
         <pubDate>Wed, 18 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1654635.mp3" length="37483334" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_sassy_ladysagan_20250612_1639382432.mp3" length="37483334" type="audio/mpeg" />
         </item>
         <item>
         <title>Förfestens farliga lek</title>
@@ -1021,7 +1021,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/83881</guid>
         <pubDate>Wed, 11 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1642799.mp3" length="36288080" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_forfestens_farliga_lek_20250612_1639531060.mp3" length="36288080" type="audio/mpeg" />
         </item>
         <item>
         <title>Agnetas nakenvapenfilm</title>
@@ -1030,7 +1030,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84081</guid>
         <pubDate>Wed, 04 Mar 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1631041.mp3" length="34845822" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_agnetas_nakenvapenfilm_20250612_1640017863.mp3" length="34845822" type="audio/mpeg" />
         </item>
         <item>
         <title>Experimentera med mig!</title>
@@ -1039,7 +1039,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84258</guid>
         <pubDate>Wed, 25 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1619133.mp3" length="36988357" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_experimentera_med_mig_20250612_1640139677.mp3" length="36988357" type="audio/mpeg" />
         </item>
         <item>
         <title>Vildkatten i Minsk</title>
@@ -1048,7 +1048,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84425</guid>
         <pubDate>Thu, 19 Feb 2009 10:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1607977.mp3" length="35163346" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_vildkatten_i_minsk_20250612_1640229240.mp3" length="35163346" type="audio/mpeg" />
         </item>
         <item>
         <title>Det inre spagatmonstret</title>
@@ -1057,7 +1057,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84630</guid>
         <pubDate>Wed, 11 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1594961.mp3" length="35292496" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_det_inre_spagatmonstret_20250612_1640309287.mp3" length="35292496" type="audio/mpeg" />
         </item>
         <item>
         <title>Besatt av en demon</title>
@@ -1066,7 +1066,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/84804</guid>
         <pubDate>Wed, 04 Feb 2009 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/75430ed3-2bdf-4006-b55c-b41571b268fd.png?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1583216.mp3" length="34271550" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_besatt_av_en_demon_20250612_1640405995.mp3" length="34271550" type="audio/mpeg" />
         </item>
         <item>
         <title>Schimpansgris-tomte</title>
@@ -1075,7 +1075,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/85721</guid>
         <pubDate>Wed, 24 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1519337.mp3" length="34320959" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_schimpansgristomte_20250612_1640578803.mp3" length="34320959" type="audio/mpeg" />
         </item>
         <item>
         <title>Triangeldrama i Antnäs</title>
@@ -1084,7 +1084,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/85849</guid>
         <pubDate>Wed, 17 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1508379.mp3" length="35769599" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_triangeldrama_i_antnas_20250612_1641091358.mp3" length="35769599" type="audio/mpeg" />
         </item>
         <item>
         <title>Dinosauriekrig utan armar eller ben</title>
@@ -1093,7 +1093,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86002</guid>
         <pubDate>Wed, 10 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1496671.mp3" length="34657090" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_dinosauriekrig_utan_armar_elle_20250612_1641168027.mp3" length="34657090" type="audio/mpeg" />
         </item>
         <item>
         <title>Myrstackens hemligheter</title>
@@ -1102,7 +1102,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86155</guid>
         <pubDate>Wed, 03 Dec 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1484930.mp3" length="32393180" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_myrstackens_hemligheter_20250612_1641408926.mp3" length="32393180" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan ringer kungahuset</title>
@@ -1111,7 +1111,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86329</guid>
         <pubDate>Wed, 26 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1473125.mp3" length="32758672" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_mangan_ringer_kungahuset_20250612_1641263489.mp3" length="32758672" type="audio/mpeg" />
         </item>
         <item>
         <title>Tandtrollens nattblod</title>
@@ -1120,7 +1120,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86483</guid>
         <pubDate>Wed, 19 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1461202.mp3" length="33600429" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_tandtrollens_nattblod_20250612_1641492319.mp3" length="33600429" type="audio/mpeg" />
         </item>
         <item>
         <title>Solskenshistoria från SJ</title>
@@ -1129,7 +1129,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86638</guid>
         <pubDate>Wed, 12 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1449574.mp3" length="31199235" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_solskenshistoria_fran_sj_20250612_1641585749.mp3" length="31199235" type="audio/mpeg" />
         </item>
         <item>
         <title>Grodmamman protesterar</title>
@@ -1138,7 +1138,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86790</guid>
         <pubDate>Wed, 05 Nov 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1438065.mp3" length="35043256" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_grodmamman_protesterar_20250612_1642125180.mp3" length="35043256" type="audio/mpeg" />
         </item>
         <item>
         <title>Fylla på kristen camping</title>
@@ -1147,7 +1147,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/86945</guid>
         <pubDate>Thu, 30 Oct 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1428331.mp3" length="32855260" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_fylla_pa_kristen_camping_20250612_1642234540.mp3" length="32855260" type="audio/mpeg" />
         </item>
         <item>
         <title>Blod är tjockare än hyran</title>
@@ -1156,7 +1156,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87146</guid>
         <pubDate>Wed, 22 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1414462.mp3" length="33455821" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_blod_ar_tjockare_an_hyran_20250612_1642424127.mp3" length="33455821" type="audio/mpeg" />
         </item>
         <item>
         <title>Näbbmusen – skogens sexmissbrukare</title>
@@ -1165,7 +1165,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87342</guid>
         <pubDate>Wed, 15 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1402665.mp3" length="30546538" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_nabbmusen__skogens_sexmissbru_20250612_1642546950.mp3" length="30546538" type="audio/mpeg" />
         </item>
         <item>
         <title>Tunnhårig i aulan</title>
@@ -1174,7 +1174,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87522</guid>
         <pubDate>Wed, 08 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1390960.mp3" length="31573799" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_tunnharig_i_aulan_20250612_1643063029.mp3" length="31573799" type="audio/mpeg" />
         </item>
         <item>
         <title>Rökning dödar – Ester lever</title>
@@ -1183,7 +1183,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87688</guid>
         <pubDate>Wed, 01 Oct 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1379269.mp3" length="34558638" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_rokning_dodar__ester_lever_20250612_1643207246.mp3" length="34558638" type="audio/mpeg" />
         </item>
         <item>
         <title>Samlagsmaskinen från Tyskland</title>
@@ -1192,7 +1192,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87830</guid>
         <pubDate>Wed, 24 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1367499.mp3" length="33561819" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_samlagsmaskinen_fran_tyskland_20250612_1643295804.mp3" length="33561819" type="audio/mpeg" />
         </item>
         <item>
         <title>Tjejkväll mot självtvivel</title>
@@ -1201,7 +1201,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/87970</guid>
         <pubDate>Thu, 18 Sep 2008 09:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1356796.mp3" length="33707871" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_tjejkvall_mot_sjalvtvivel_20250612_1643401835.mp3" length="33707871" type="audio/mpeg" />
         </item>
         <item>
         <title>Jämtländska kanelkransar</title>
@@ -1210,7 +1210,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88117</guid>
         <pubDate>Wed, 10 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1344237.mp3" length="31957211" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_jamtlandska_kanelkransar_20250612_1643484865.mp3" length="31957211" type="audio/mpeg" />
         </item>
         <item>
         <title>Delfinpiercingen</title>
@@ -1219,7 +1219,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88239</guid>
         <pubDate>Wed, 03 Sep 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1332882.mp3" length="32146217" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_delfinpiercingen_20250612_1643594037.mp3" length="32146217" type="audio/mpeg" />
         </item>
         <item>
         <title>Smygbusets hemliga ursprung</title>
@@ -1228,7 +1228,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88373</guid>
         <pubDate>Wed, 27 Aug 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1321733.mp3" length="33717988" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_smygbusets_hemliga_ursprung_20250612_1644090762.mp3" length="33717988" type="audio/mpeg" />
         </item>
         <item>
         <title>Ormgropen i Ånäset</title>
@@ -1237,7 +1237,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/88515</guid>
         <pubDate>Wed, 20 Aug 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1310892.mp3" length="35405833" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_ormgropen_i_naset_20250612_1644169442.mp3" length="35405833" type="audio/mpeg" />
         </item>
         <item>
         <title>Från fylla till föreställning</title>
@@ -1246,7 +1246,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90008</guid>
         <pubDate>Wed, 04 Jun 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1192081.mp3" length="32216578" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_fran_fylla_till_forestallning_20250612_1644268372.mp3" length="32216578" type="audio/mpeg" />
         </item>
         <item>
         <title>Döden i baksätet</title>
@@ -1255,7 +1255,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90158</guid>
         <pubDate>Wed, 28 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1180991.mp3" length="32254632" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_doden_i_baksatet_20250612_1644399824.mp3" length="32254632" type="audio/mpeg" />
         </item>
         <item>
         <title>Sugmärken och yxkärlek</title>
@@ -1264,7 +1264,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90300</guid>
         <pubDate>Wed, 21 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1169587.mp3" length="33623244" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_sugmarken__yxkarlek_20250612_1644485652.mp3" length="33623244" type="audio/mpeg" />
         </item>
         <item>
         <title>Jakten på Lill-Babs</title>
@@ -1273,7 +1273,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90430</guid>
         <pubDate>Wed, 14 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1158136.mp3" length="33424203" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_jakten_pa_lillbabs_20250612_1644578774.mp3" length="33424203" type="audio/mpeg" />
         </item>
         <item>
         <title>365 förlåt</title>
@@ -1282,7 +1282,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90557</guid>
         <pubDate>Wed, 07 May 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1146954.mp3" length="33959898" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_365_forlat_20250612_1645074985.mp3" length="33959898" type="audio/mpeg" />
         </item>
         <item>
         <title>Raka en domherre?</title>
@@ -1291,7 +1291,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90686</guid>
         <pubDate>Wed, 30 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1136687.mp3" length="32078505" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_raka_en_domherre_20250612_1645169124.mp3" length="32078505" type="audio/mpeg" />
         </item>
         <item>
         <title>Krissamtal på halkbanan</title>
@@ -1300,7 +1300,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90823</guid>
         <pubDate>Wed, 23 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1125280.mp3" length="31841181" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_krissamtal_pa_halkbanan_20250612_1645294930.mp3" length="31841181" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla – tandläkarnas skräck</title>
@@ -1309,7 +1309,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90965</guid>
         <pubDate>Wed, 16 Apr 2008 16:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1113715.mp3" length="33993776" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_katla__tandlakarnas_skrack_20250612_1645378574.mp3" length="33993776" type="audio/mpeg" />
         </item>
         <item>
         <title>Kriminell, men med högt EQ</title>
@@ -1318,7 +1318,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91404</guid>
         <pubDate>Wed, 09 Apr 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111630.mp3" length="31956227" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_kriminell_men_med_hogt_eq_20250612_1645490222.mp3" length="31956227" type="audio/mpeg" />
         </item>
         <item>
         <title>Mumintrollet under isen</title>
@@ -1327,7 +1327,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91407</guid>
         <pubDate>Wed, 02 Apr 2008 10:47:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111627.mp3" length="32669400" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_mumintrollet_under_isen_20250612_1646040416.mp3" length="32669400" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan planerar sin begravning</title>
@@ -1336,7 +1336,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91073</guid>
         <pubDate>Wed, 26 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111976.mp3" length="30238192" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_mangan_planerar_sin_begravning_20250612_1646128054.mp3" length="30238192" type="audio/mpeg" />
         </item>
         <item>
         <title>Psycho-Patrick is born</title>
@@ -1345,7 +1345,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91113</guid>
         <pubDate>Wed, 19 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111933.mp3" length="31166912" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_psychopatrick_is_born_20250612_1646227759.mp3" length="31166912" type="audio/mpeg" />
         </item>
         <item>
         <title>Den sjungande Jerry</title>
@@ -1354,7 +1354,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91264</guid>
         <pubDate>Wed, 12 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111776.mp3" length="33785747" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_den_sjungande_jerry_20250612_1646327529.mp3" length="33785747" type="audio/mpeg" />
         </item>
         <item>
         <title>Mamma Agneta törstar efter kärlek</title>
@@ -1363,7 +1363,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91190</guid>
         <pubDate>Wed, 05 Mar 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111852.mp3" length="32445556" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_mamma_agneta_torstar_efter_kar_20250612_1646421447.mp3" length="32445556" type="audio/mpeg" />
         </item>
         <item>
         <title>Mannen bakom klamydiaepidemin</title>
@@ -1372,7 +1372,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91169</guid>
         <pubDate>Wed, 27 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111873.mp3" length="30053820" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_mannen_bakom_klamydiaepidemin_20250612_1646507602.mp3" length="30053820" type="audio/mpeg" />
         </item>
         <item>
         <title>SM-mästaren i tomprat</title>
@@ -1381,7 +1381,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91235</guid>
         <pubDate>Wed, 20 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111805.mp3" length="29506490" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_smmastaren_i_tomprat_20250612_1646594233.mp3" length="29506490" type="audio/mpeg" />
         </item>
         <item>
         <title>Patriks fem-i-topp-lista: Vuxenleksaker</title>
@@ -1390,7 +1390,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91428</guid>
         <pubDate>Wed, 13 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111604.mp3" length="30027835" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_patriks_femitopplista_vuxe_20250613_1508047242.mp3" length="30027835" type="audio/mpeg" />
         </item>
         <item>
         <title>Sex saxar i en saxask</title>
@@ -1399,7 +1399,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91028</guid>
         <pubDate>Wed, 06 Feb 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112026.mp3" length="30090951" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_sex_saxar_i_en_saxask_20250612_1647098711.mp3" length="30090951" type="audio/mpeg" />
         </item>
         <item>
         <title>”Push it and you die”</title>
@@ -1408,7 +1408,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91385</guid>
         <pubDate>Wed, 30 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111651.mp3" length="30001613" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_push_it_and_you_die_20250612_1647201501.mp3" length="30001613" type="audio/mpeg" />
         </item>
         <item>
         <title>Svenne Banans svensexa</title>
@@ -1417,7 +1417,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/90990</guid>
         <pubDate>Wed, 23 Jan 2008 17:00:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1112070.mp3" length="30299095" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_svenne_banans_svensexa_20250612_1647279659.mp3" length="30299095" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla blir portad från akuten</title>
@@ -1426,7 +1426,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91209</guid>
         <pubDate>Wed, 16 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111833.mp3" length="29586569" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_katla_blir_portad_fran_akuten_20250612_1647360685.mp3" length="29586569" type="audio/mpeg" />
         </item>
         <item>
         <title>Markus – Kents första gitarrist</title>
@@ -1435,7 +1435,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/91435</guid>
         <pubDate>Wed, 09 Jan 2008 18:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/8146535b-3327-4b88-a9ef-5b4e51fc84d8.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/1111597.mp3" length="29450534" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/mammas_nya_kille_markus__kents_forsta_gitarris_20250612_1647444646.mp3" length="29450534" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans rekordförsök</title>
@@ -1444,7 +1444,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543050</guid>
         <pubDate>Sat, 18 Jun 2005 16:30:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/ecabed41-3e61-4d64-aa5e-6528bf558040.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645162.mp3" length="94383207" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangans_rekordforsok_20250612_1648083772.mp3" length="94383207" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans nyårslöfte</title>
@@ -1453,7 +1453,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543046</guid>
         <pubDate>Sat, 18 Jun 2005 16:29:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645133.mp3" length="48216421" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangans_nyarslofte_20250612_1648165572.mp3" length="48216421" type="audio/mpeg" />
         </item>
         <item>
         <title>Forma handen som en liten pil</title>
@@ -1462,7 +1462,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543043</guid>
         <pubDate>Sat, 18 Jun 2005 16:28:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645081.mp3" length="31225459" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_forma_handen_som_en_liten_pil_20250612_1648257963.mp3" length="31225459" type="audio/mpeg" />
         </item>
         <item>
         <title>”Jag har legat med era mammor”</title>
@@ -1471,7 +1471,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543042</guid>
         <pubDate>Sat, 18 Jun 2005 16:27:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645060.mp3" length="41357688" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_jag_har_legat_med_era_mammor_20250612_1648386263.mp3" length="41357688" type="audio/mpeg" />
         </item>
         <item>
         <title>Golvad av gomsegel</title>
@@ -1480,7 +1480,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543039</guid>
         <pubDate>Sat, 18 Jun 2005 16:26:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645048.mp3" length="42098389" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_golvad_av_gomsegel_20250612_1648471492.mp3" length="42098389" type="audio/mpeg" />
         </item>
         <item>
         <title>Hetsät en ost</title>
@@ -1489,7 +1489,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543038</guid>
         <pubDate>Sat, 18 Jun 2005 16:25:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645044.mp3" length="41869156" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_hetsat_en_ost_20250612_1648554069.mp3" length="41869156" type="audio/mpeg" />
         </item>
         <item>
         <title>Kicki Tapper lagar nattamat</title>
@@ -1498,7 +1498,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543034</guid>
         <pubDate>Sat, 18 Jun 2005 16:24:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644998.mp3" length="40895487" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_kicki_tapper_lagar_nattamat_20250612_1649048143.mp3" length="40895487" type="audio/mpeg" />
         </item>
         <item>
         <title>Viskande kvinna sökes</title>
@@ -1507,7 +1507,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543033</guid>
         <pubDate>Sat, 18 Jun 2005 16:23:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644993.mp3" length="35305839" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_viskande_kvinna_sokes_20250612_1649148948.mp3" length="35305839" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangans blåsa i munnen läcker</title>
@@ -1516,7 +1516,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543031</guid>
         <pubDate>Sat, 18 Jun 2005 16:22:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644984.mp3" length="39036789" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangans_blasa_i_munnen_lacker_20250612_1650086956.mp3" length="39036789" type="audio/mpeg" />
         </item>
         <item>
         <title>Total makeover – kentaur-edition</title>
@@ -1525,7 +1525,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543024</guid>
         <pubDate>Sat, 18 Jun 2005 16:21:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644973.mp3" length="36249336" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_total_makeover__kentaurediti_20250612_1650160830.mp3" length="36249336" type="audio/mpeg" />
         </item>
         <item>
         <title>Västerbottnisk hårdporr utan bilder</title>
@@ -1534,7 +1534,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543018</guid>
         <pubDate>Sat, 18 Jun 2005 16:20:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644934.mp3" length="39641211" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_vasterbottnisk_hardporr_utan_b_20250612_1650250315.mp3" length="39641211" type="audio/mpeg" />
         </item>
         <item>
         <title>Gränsen mellan kittel och klös</title>
@@ -1543,7 +1543,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543015</guid>
         <pubDate>Sat, 18 Jun 2005 16:19:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644924.mp3" length="32442544" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_gransen_mellan_kittel_och_klos_20250612_1650345223.mp3" length="32442544" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla tar till spriten</title>
@@ -1552,7 +1552,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543014</guid>
         <pubDate>Sat, 18 Jun 2005 16:18:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644921.mp3" length="36976824" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_katla_tar_till_spriten_20250612_1650427335.mp3" length="36976824" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan är kroppsfixerad</title>
@@ -1561,7 +1561,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543010</guid>
         <pubDate>Sat, 18 Jun 2005 16:17:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644871.mp3" length="30101845" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangan_ar_kroppsfixerad_20250612_1650591811.mp3" length="30101845" type="audio/mpeg" />
         </item>
         <item>
         <title>Inlinespojken och skatetjejen</title>
@@ -1570,7 +1570,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2543004</guid>
         <pubDate>Sat, 18 Jun 2005 16:16:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644857.mp3" length="40962901" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_inlinespojken_och_skatetjejen_20250613_1508191276.mp3" length="40962901" type="audio/mpeg" />
         </item>
         <item>
         <title>Livscoachen Peter botar dålig självkänsla</title>
@@ -1579,7 +1579,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542997</guid>
         <pubDate>Sat, 18 Jun 2005 16:15:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644751.mp3" length="35508949" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_livscoachen_peter_botar_dalig_20250613_1508291016.mp3" length="35508949" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan får en kärringstöt</title>
@@ -1588,7 +1588,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542996</guid>
         <pubDate>Sat, 18 Jun 2005 16:14:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644741.mp3" length="38964210" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangan_far_en_karringstot_20250613_1508440569.mp3" length="38964210" type="audio/mpeg" />
         </item>
         <item>
         <title>Bolibompa-Jalle känner sig mobbad</title>
@@ -1597,7 +1597,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542994</guid>
         <pubDate>Sat, 18 Jun 2005 16:13:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644727.mp3" length="40202616" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_bolibompajalle_kanner_sig_mob_20250612_1651080047.mp3" length="40202616" type="audio/mpeg" />
         </item>
         <item>
         <title>Död kattpojke bortskänkes</title>
@@ -1606,7 +1606,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542992</guid>
         <pubDate>Sat, 18 Jun 2005 16:12:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644700.mp3" length="36839893" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_dod_kattpojke_bortskankes_20250612_1651178093.mp3" length="36839893" type="audio/mpeg" />
         </item>
         <item>
         <title>Lars ger uttrycket ”fulsnygg” ett ansikte</title>
@@ -1615,7 +1615,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542987</guid>
         <pubDate>Sat, 18 Jun 2005 16:11:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644648.mp3" length="36205525" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_lars_ger_uttrycket_fulsnygg_20250612_1651270801.mp3" length="36205525" type="audio/mpeg" />
         </item>
         <item>
         <title>Big trouble in little China</title>
@@ -1624,7 +1624,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542986</guid>
         <pubDate>Sat, 18 Jun 2005 16:10:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644642.mp3" length="40677700" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_big_trouble_in_little_china_20250612_1651400063.mp3" length="40677700" type="audio/mpeg" />
         </item>
         <item>
         <title>Gotte får samtalsterapi</title>
@@ -1633,7 +1633,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542844</guid>
         <pubDate>Sat, 18 Jun 2005 16:09:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9645974.mp3" length="32938452" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_gotte_far_samtalsterapi_20250612_1651486853.mp3" length="32938452" type="audio/mpeg" />
         </item>
         <item>
         <title>Bungy Jump från Patriks bil</title>
@@ -1642,7 +1642,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542985</guid>
         <pubDate>Sat, 18 Jun 2005 16:08:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644641.mp3" length="27693041" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_bungy_jump_fran_patriks_bil_20250612_1651592418.mp3" length="27693041" type="audio/mpeg" />
         </item>
         <item>
         <title>Gotte vaknar naken i kontorsförrådet</title>
@@ -1651,7 +1651,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542982</guid>
         <pubDate>Sat, 18 Jun 2005 16:07:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644606.mp3" length="31692520" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_gotte_vaknar_naken_i_kontorsfo_20250612_1652081656.mp3" length="31692520" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan är mjuk, bilar är hårda</title>
@@ -1660,7 +1660,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542981</guid>
         <pubDate>Sat, 18 Jun 2005 16:06:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644594.mp3" length="31606447" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangan_ar_mjuk_bilar_ar_harda_20250612_1652277838.mp3" length="31606447" type="audio/mpeg" />
         </item>
         <item>
         <title>Den osminkade sanningen om stuntmän</title>
@@ -1669,7 +1669,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542974</guid>
         <pubDate>Sat, 18 Jun 2005 16:05:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644590.mp3" length="31031652" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_den_osminkade_sanningen_om_stu_20250612_1652360799.mp3" length="31031652" type="audio/mpeg" />
         </item>
         <item>
         <title>Katla bjuder på sju sorters apa</title>
@@ -1678,7 +1678,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542971</guid>
         <pubDate>Sat, 18 Jun 2005 16:04:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9644506.mp3" length="32462825" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_katla_bjuder_pa_sju_sorters_ap_20250612_1652521643.mp3" length="32462825" type="audio/mpeg" />
         </item>
         <item>
         <title>Thunders powerdrink</title>
@@ -1687,7 +1687,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542856</guid>
         <pubDate>Sat, 18 Jun 2005 16:03:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643965.mp3" length="32901608" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_thunders_powerdrink_20250612_1616339428.mp3" length="32901608" type="audio/mpeg" />
         </item>
         <item>
         <title>Patrik lär sig Google – på ett nytt sätt</title>
@@ -1696,7 +1696,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542835</guid>
         <pubDate>Sat, 18 Jun 2005 16:02:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643750.mp3" length="31931663" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_patrik_lar_sig_google__pa_ett_20250612_1616109639.mp3" length="31931663" type="audio/mpeg" />
         </item>
         <item>
         <title>Mangan åker inlines – utan stopp!</title>
@@ -1705,7 +1705,7 @@
         <guid isPermaLink="false">rss:sr.se/pod/eid/2542832</guid>
         <pubDate>Sat, 18 Jun 2005 16:01:00 GMT</pubDate>
         <itunes:image href="https://static-cdn.sr.se/images/2399/a0321d6b-5c94-4b6e-a712-81e26d458a86.jpg?preset=api-itunes-presentation-image"/>
-        <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9643740.mp3" length="24098772" type="audio/mpeg" />
+        <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/01/mammas_nya_kille_mangan_aker_inlines__utan_sto_20250612_1615118179.mp3" length="24098772" type="audio/mpeg" />
         </item>
 </channel>
 </rss>

@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 26 Jan 2026 12:42:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 12:43:06 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -32,7 +32,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2713452</guid>
             <pubDate>Thu, 22 Jan 2026 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/543c12e9-8eff-4e7e-a858-0c99592f19b2.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10050613.mp3" length="4740" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/01/p3_dokumentar_ny_terrorattackerna_i_bryssel_20260121_1152073172.mp3" length="4740" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Operation Casino</title>
@@ -41,7 +41,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2688286</guid>
             <pubDate>Thu, 08 Jan 2026 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/96b77707-bbcc-428f-8136-d0747a0c2cda.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10015259.mp3" length="4537" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_dokumentar_ny_operation_casino_20251219_1424200378.mp3" length="4537" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Århundradets konstförfalskare</title>
@@ -50,7 +50,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2713450</guid>
             <pubDate>Thu, 25 Dec 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e36b2565-c2f7-41eb-9e05-4db86d3c0f9f.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10022794.mp3" length="4654" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_dokumentar_ny_rhundradets_konstforfalsk_20251223_0330362137.mp3" length="4654" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordet på journalisten Kim Wall</title>
@@ -59,7 +59,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2702250</guid>
             <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9f01e536-108e-41f6-b22e-c9e0e8bb7d76.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/10008771.mp3" length="5700" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_dokumentar_ny_mordet_pa_journalisten_kim_20251211_1413177709.mp3" length="5700" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: CIA:s hemliga LSD-experiment</title>
@@ -68,7 +68,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2702248</guid>
             <pubDate>Thu, 27 Nov 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d304104f-b4b0-4da5-a068-ea72a07ba560.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9991640.mp3" length="3603" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/11/p3_dokumentar_nycias_hemliga_lsdexperime_20251126_0958587295.mp3" length="3603" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Jordbävningen i Himalaya – backpackerparadiset och katastrofen</title>
@@ -77,7 +77,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2698645</guid>
             <pubDate>Thu, 13 Nov 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/2b8b6598-8337-4c6b-9787-a5d71fdfe903.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9973291.mp3" length="4760" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/11/program_p3_dok_jordbavningen_i_himalay_20251111_1326157206.mp3" length="4760" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Gisslandramat i Wien och terroristen Carlos Schakalen</title>
@@ -86,7 +86,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2646988</guid>
             <pubDate>Thu, 30 Oct 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a2aa7c01-6557-47c7-95aa-2d41e82938e7.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9956618.mp3" length="4142" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_nygisslandramat_i_wien_och_t_20251027_1040129007.mp3" length="4142" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mjältbrandsbreven och jakten på seriemördaren</title>
@@ -95,7 +95,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2670396</guid>
             <pubDate>Thu, 16 Oct 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/1d3c2884-4b73-40f6-9a9e-2b981ac06b0c.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9939971.mp3" length="5113" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_ny_mjaltbrandsbreven_och_jakt_20251015_1720541402.mp3" length="5113" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Svarta pantrarna och mordet på Fred Hampton</title>
@@ -104,7 +104,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2677620</guid>
             <pubDate>Thu, 02 Oct 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/457cffbb-9f0e-4501-8821-8d83e2f9c914.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9924542.mp3" length="4323" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_ny_svarta_pantrarna_och_morde_20251001_1415265690.mp3" length="4323" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Lilla hjärtat</title>
@@ -113,7 +113,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2615280</guid>
             <pubDate>Thu, 18 Sep 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/e361befc-93e5-43a5-a2c8-7d28e6954666.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9918729.mp3" length="4319" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/p3_dokumentar_ny_lilla_hjartat_20250925_1656574350.mp3" length="4319" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Terrordåden i Paris</title>
@@ -122,7 +122,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2621630</guid>
             <pubDate>Thu, 04 Sep 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a86b313e-2cc0-4959-883e-e8663adc6c4b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9892945.mp3" length="5469" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/p3_dokumentar_ny_terrordaden_i_paris_20250904_1521451087.mp3" length="5469" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Konstkuppen och jakten på Skriet och Madonnan</title>
@@ -131,7 +131,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2609601</guid>
             <pubDate>Thu, 21 Aug 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/542ca261-cbc3-4ab5-b2e4-83f6750e1d81.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9872914.mp3" length="3954" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/08/p3_dokumentar_ny_konstkuppen_och_jakten_pa_20250819_1434506439.mp3" length="3954" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordmysteriet i Steg</title>
@@ -140,7 +140,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2624056</guid>
             <pubDate>Thu, 07 Aug 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/da1f4671-7cca-43e5-b5e2-c5d32957e97b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9823503.mp3" length="4358" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/p3_dokumentar_ny_mordmysteriet_i_steg_20250704_0725371602.mp3" length="4358" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Polisbombningen mot MOVE-rörelsen i Philadelphia</title>
@@ -149,7 +149,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2615283</guid>
             <pubDate>Thu, 10 Jul 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d9f5a754-5526-410e-8d20-2f7a5cd788c5.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9813342.mp3" length="4718" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_nypolisbombningen_mot_mover_20250625_0907224248.mp3" length="4718" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Seriemördaren på grisfarmen</title>
@@ -158,7 +158,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2615286</guid>
             <pubDate>Thu, 26 Jun 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/45bb866d-9d9b-4103-80ee-585aea36ac20.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9806495.mp3" length="5466" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_seriemordaren_pa_grisfarme_20250618_1016574051.mp3" length="5466" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Explosionen i Annedal</title>
@@ -167,7 +167,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2602604</guid>
             <pubDate>Thu, 12 Jun 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/19885ca9-2b57-4a56-9ea8-cfe428031f6b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9797564.mp3" length="4559" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_explosionen_i_annedal_20250611_2311270599.mp3" length="4559" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordet på polisen Andreas Danman</title>
@@ -176,7 +176,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2601146</guid>
             <pubDate>Thu, 29 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/b9c2ebc1-3c6c-4a15-a54f-61e51a4ee7c8.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9782487.mp3" length="4536" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/05/p3_dokumentar_ny_mordet_pa_polisen_andreas_20250528_0939454639.mp3" length="4536" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Kvinnomassakern i Montréal</title>
@@ -185,7 +185,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2590337</guid>
             <pubDate>Thu, 15 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f35f6d2e-7acc-4cbb-ac21-e82cec802685.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9749224.mp3" length="4313" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_kvinnomassakern_i_montral_20250514_1708164776.mp3" length="4313" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Knarkbossen och den norska polisskandalen</title>
@@ -194,7 +194,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2590336</guid>
             <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/69b8adae-4586-4343-b517-1ff21257c72d.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9750089.mp3" length="4821" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_knarkbossen_och_den_norska_20250430_0959295757.mp3" length="4821" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 3 – Vittnet i verkstaden</title>
@@ -203,7 +203,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583922</guid>
             <pubDate>Thu, 17 Apr 2025 04:02:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/a3f8222c-7bf6-4b58-8f94-eff5b1985694.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736966.mp3" length="2962" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1053318827.mp3" length="2962" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 2 – De spetsade chokladpralinerna</title>
@@ -212,7 +212,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583862</guid>
             <pubDate>Thu, 17 Apr 2025 04:01:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/fb6c92d5-ec78-4c49-b58b-32b59519d880.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736460.mp3" length="2234" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1052533074.mp3" length="2234" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 1 – Den döde killen i bagageluckan</title>
@@ -221,7 +221,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2583852</guid>
             <pubDate>Thu, 17 Apr 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/aee37ab1-1c8d-4d29-af05-3c480a94ac13.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9736442.mp3" length="2165" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1052030772.mp3" length="2165" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Mordet på åttaåriga Yara</title>
@@ -230,7 +230,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2575535</guid>
             <pubDate>Thu, 03 Apr 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d851383f-82d3-4e7f-a7e9-380c902d8b04.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9791635.mp3" length="4548" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_mordet_pa_attaariga_yara_20250605_1608135510.mp3" length="4548" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Vrakplundrarna på Östersjön</title>
@@ -239,7 +239,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2566072</guid>
             <pubDate>Thu, 20 Mar 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/6251b8be-f58a-4816-9746-c4e91420cd0d.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9702391.mp3" length="3957" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/03/p3_dokumentar_ny_vrakplundrarna_pa_stersjo_20250318_1441539819.mp3" length="3957" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Opioidkrisen och massdöden</title>
@@ -248,7 +248,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2550828</guid>
             <pubDate>Thu, 06 Mar 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/aef9baac-5a32-4068-97c7-3a3b1876313d.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9685805.mp3" length="4515" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/03/p3_dokumentar_ny_opioidkrisen_och_massdoden_20250310_1519520702.mp3" length="4515" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Särskoleskandalen och fallet Robin och Rasmus</title>
@@ -257,7 +257,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2543062</guid>
             <pubDate>Thu, 20 Feb 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8db102e6-8ee1-40f5-9ce5-d645ea19a6ee.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9662759.mp3" length="4357" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/02/p3_dokumentar_ny_sarskoleskandalen_och_fall_20250219_1524232418.mp3" length="4357" type="audio/mpeg" />
             </item>
             <item>
             <title>Ny: Gamestop och kriget mot Wall Street</title>
@@ -266,7 +266,7 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <guid isPermaLink="false">rss:sr.se/pod/eid/2543156</guid>
             <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/cbf00b05-a31b-46ff-8af8-02dcbd13a085.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="http://www.sverigesradio.se/topsy/ljudfil/srapi/9651567.mp3" length="4253" type="audio/mpeg" />
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/02/p3_dokumentar_ny_gamestop_och_kriget_mot_wa_20250205_2218412480.mp3" length="4253" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
