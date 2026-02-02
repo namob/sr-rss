@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Feb 2026 12:42:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 12:54:16 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 20 Feb 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/8db102e6-8ee1-40f5-9ce5-d645ea19a6ee.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/02/p3_dokumentar_ny_sarskoleskandalen_och_fall_20250219_1524232418.mp3" length="4357" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Gamestop och kriget mot Wall Street</title>
-            <description>När hedgefonder satsar på att spelkedjan Gamestops aktie ska rasa, slår tusentals småsparare på Reddit tillbaka och utmanar finanseliten.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2543156</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2543156</guid>
-            <pubDate>Thu, 06 Feb 2025 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/cbf00b05-a31b-46ff-8af8-02dcbd13a085.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/02/p3_dokumentar_ny_gamestop_och_kriget_mot_wa_20250205_2218412480.mp3" length="4253" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
