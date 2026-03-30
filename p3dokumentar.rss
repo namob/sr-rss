@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 29 Mar 2026 12:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 13:13:34 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -276,15 +276,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 17 Apr 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/aee37ab1-1c8d-4d29-af05-3c480a94ac13.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1052030772.mp3" length="2165" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Mordet på åttaåriga Yara</title>
-            <description>På valborgsmässoafton 2014 hittas åttaåriga Yara livlös i sitt hem. Ambulanspersonalen beskriver brutaliteten mot barnet som det värsta de sett.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2575535</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2575535</guid>
-            <pubDate>Thu, 03 Apr 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/d851383f-82d3-4e7f-a7e9-380c902d8b04.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_mordet_pa_attaariga_yara_20250605_1608135510.mp3" length="4548" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
