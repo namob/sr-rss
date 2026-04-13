@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 12 Apr 2026 12:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:20:48 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,33 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/69b8adae-4586-4343-b517-1ff21257c72d.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_knarkbossen_och_den_norska_20250430_0959295757.mp3" length="4821" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 3 – Vittnet i verkstaden</title>
-            <description>Del 3 av 3. Polisen är pralinligan på spåren. I Bartoszfallet finns ingen lösning i sikte. Men hans vänner har inte gett upp hoppet.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2583922</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2583922</guid>
-            <pubDate>Thu, 17 Apr 2025 04:02:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a3f8222c-7bf6-4b58-8f94-eff5b1985694.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1053318827.mp3" length="2962" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 2 – De spetsade chokladpralinerna</title>
-            <description>Del 2 av 3. Mindre än ett år efter att Bartosz kropp påträffats, hittas en antikhandlare död i sin lägenhet i Malmö.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2583862</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2583862</guid>
-            <pubDate>Thu, 17 Apr 2025 04:01:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/fb6c92d5-ec78-4c49-b58b-32b59519d880.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1052533074.mp3" length="2234" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Privatdetektiven och de mystiska dödsfallen, del 1 – Den döde killen i bagageluckan</title>
-            <description>Del 1 av 3. En ung man hittas död i bagageluckan i sin egen bil. Fallet blir en labyrint, med kopplingar till fler händelser i 90-talets Malmö.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2583852</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2583852</guid>
-            <pubDate>Thu, 17 Apr 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/aee37ab1-1c8d-4d29-af05-3c480a94ac13.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_privatdetektiven_och_de_my_20250425_1052030772.mp3" length="2165" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
