@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 26 Apr 2026 13:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 13:46:47 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 15 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/f35f6d2e-7acc-4cbb-ac21-e82cec802685.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_kvinnomassakern_i_montral_20250514_1708164776.mp3" length="4313" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Knarkbossen och den norska polisskandalen</title>
-            <description>En känd polischef grips av sina kollegor i polishusets garage i Oslo. Han misstänks för att ha levt ett dubbelliv och hjälpt en känd knarkboss i smyg.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2590336</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2590336</guid>
-            <pubDate>Thu, 01 May 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/69b8adae-4586-4343-b517-1ff21257c72d.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_knarkbossen_och_den_norska_20250430_0959295757.mp3" length="4821" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
