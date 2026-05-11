@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 10 May 2026 13:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:43:31 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 29 May 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/b9c2ebc1-3c6c-4a15-a54f-61e51a4ee7c8.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/05/p3_dokumentar_ny_mordet_pa_polisen_andreas_20250528_0939454639.mp3" length="4536" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Kvinnomassakern i Montréal</title>
-            <description>Den 6 december 1989 går en beväpnad man in på det tekniska universitetet École Polytechnique. 14 kvinnor mördas och dagen förvandlas till en mardröm.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2590337</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2590337</guid>
-            <pubDate>Thu, 15 May 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/f35f6d2e-7acc-4cbb-ac21-e82cec802685.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/04/p3_dokumentar_ny_kvinnomassakern_i_montral_20250514_1708164776.mp3" length="4313" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
