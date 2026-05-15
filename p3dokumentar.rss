@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 14 May 2026 14:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 14:00:22 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Den brittiska postskandalen och de oskyldigt dömda</title>
+            <description>Postombud runt om i Storbritannien upptäcker att det saknas pengar i deras kassor. De anklagas för att stjäla postens pengar och ställs inför rätta.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2796262</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2796262</guid>
+            <pubDate>Thu, 14 May 2026 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/392e8d38-04c8-4d0b-8f36-3633ab90fb7e.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/05/p3_dokumentar_ny_den_brittiska_postskandale_20260513_1100595211.mp3" length="5047" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Babyguden</title>
             <description>Fertilitetsläkaren kallades för Babyguden. Men bakom framgångarna döljer sig en skandal där hundratals patienter på hans klinik fått fel spermier.</description>
