@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 24 May 2026 13:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 14:48:27 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 12 Jun 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/19885ca9-2b57-4a56-9ea8-cfe428031f6b.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_explosionen_i_annedal_20250611_2311270599.mp3" length="4559" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Mordet på polisen Andreas Danman</title>
-            <description>Andreas arbetar i Biskopsgården där en blodig gängkonflikt pågått i flera år. Vid en gängskjutning 2021 hamnar han plötsligt i skottlinjen.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2601146</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2601146</guid>
-            <pubDate>Thu, 29 May 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/b9c2ebc1-3c6c-4a15-a54f-61e51a4ee7c8.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/05/p3_dokumentar_ny_mordet_pa_polisen_andreas_20250528_0939454639.mp3" length="4536" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
