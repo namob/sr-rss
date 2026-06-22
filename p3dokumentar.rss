@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 21 Jun 2026 14:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:50:12 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 10 Jul 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/d9f5a754-5526-410e-8d20-2f7a5cd788c5.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_nypolisbombningen_mot_mover_20250625_0907224248.mp3" length="4718" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Seriemördaren på grisfarmen</title>
-            <description>Över 50 kvinnor försvinner från Vancouvers mest utsatta område, Downtown Eastside. Många av kvinnorna är drogberoende och prostituerade. Men där tar ledtrådarna slut.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2615286</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2615286</guid>
-            <pubDate>Thu, 26 Jun 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/45bb866d-9d9b-4103-80ee-585aea36ac20.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_ny_seriemordaren_pa_grisfarme_20250618_1016574051.mp3" length="5466" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
