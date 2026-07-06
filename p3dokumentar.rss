@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 05 Jul 2026 13:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:24:49 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -258,15 +258,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 07 Aug 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/da1f4671-7cca-43e5-b5e2-c5d32957e97b.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/p3_dokumentar_ny_mordmysteriet_i_steg_20250704_0725371602.mp3" length="4358" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Polisbombningen mot MOVE-rörelsen i Philadelphia</title>
-            <description>Den radikala rörelsen MOVE hamnar ofta i konfrontation med polisen. 1985 släpper polisen en bomb på deras hus. 11 personer dör, inklusive 5 barn.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2615283</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2615283</guid>
-            <pubDate>Thu, 10 Jul 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/d9f5a754-5526-410e-8d20-2f7a5cd788c5.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/06/p3_dokumentar_nypolisbombningen_mot_mover_20250625_0907224248.mp3" length="4718" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
