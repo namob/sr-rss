@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 09 Jul 2026 14:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:18:35 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Kokainjakten i Göteborgs skärgård</title>
+            <description>När en global liga av smugglare får problem att lasta av flera hundra kilo kokain måste några killar i Göteborg under stor tidspress lösa mottagandet.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2819488</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2819488</guid>
+            <pubDate>Thu, 09 Jul 2026 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/77bcbf3d-eadd-4281-8955-a92e3356dcc7.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/06/p3_dokumentar_ny_kokainjakten_i_goteborgs_s_20260624_1109178521.mp3" length="4555" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: De samiska barnen på tvångsinternaten</title>
             <description>Renskötande samer tvingas lämna sina barn på särskilda internatskolor, där Rasbiologiska institutet under en period använder barnen för sina undersökningar. </description>
