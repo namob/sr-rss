@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 02 Aug 2026 13:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 14:31:28 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 21 Aug 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/542ca261-cbc3-4ab5-b2e4-83f6750e1d81.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/08/p3_dokumentar_ny_konstkuppen_och_jakten_pa_20250819_1434506439.mp3" length="3954" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Mordmysteriet i Steg</title>
-            <description>Polisen hittar en oidentifierad död man på en avlägsen skogsväg utanför Hudiksvall. Kommer polisen lösa mordet om de inte ens vet vem offret är?</description>
-            <link>https://www.sverigesradio.se/avsnitt/2624056</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2624056</guid>
-            <pubDate>Thu, 07 Aug 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/da1f4671-7cca-43e5-b5e2-c5d32957e97b.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/07/p3_dokumentar_ny_mordmysteriet_i_steg_20250704_0725371602.mp3" length="4358" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
