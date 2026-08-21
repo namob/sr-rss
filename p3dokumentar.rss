@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 20 Aug 2026 12:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 12:39:07 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Mordet på president John F. Kennedy</title>
+            <description>I november 1963 färdas USA:s president John F. Kennedy genom Dallas i en öppen limousine. Då hörs skotten som ska förändra USA:s historia.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2826993</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2826993</guid>
+            <pubDate>Thu, 20 Aug 2026 04:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/de92c9f9-7374-47d4-a897-6fa1c666566b.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/07/p3_dokumentar_ny_mordet_pa_president_john_f_20260703_1216457558.mp3" length="4489" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Spiralskandalen och de grönländska kvinnorna</title>
             <description>Under decennier sattes spiraler in i tusentals grönländska kvinnor och flickor – ofta utan deras vetskap eller samtycke. Henriette är 13 år när hon och klasskompisarna kallas till läkaren.</description>
