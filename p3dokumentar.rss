@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Sep 2026 15:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:38:34 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 02 Oct 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/457cffbb-9f0e-4501-8821-8d83e2f9c914.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_ny_svarta_pantrarna_och_morde_20251001_1415265690.mp3" length="4323" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Lilla hjärtat</title>
-            <description>Esmeralda växer upp i ett familjehem. Men en dag tas ett beslut och flickan flyttas till sina biologiska föräldrar. 10 månader senare hittas hon död.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2615280</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2615280</guid>
-            <pubDate>Thu, 18 Sep 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/e361befc-93e5-43a5-a2c8-7d28e6954666.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/09/p3_dokumentar_ny_lilla_hjartat_20250925_1656574350.mp3" length="4319" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
