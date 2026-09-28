@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 16:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:12:27 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 16 Oct 2025 04:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/1d3c2884-4b73-40f6-9a9e-2b981ac06b0c.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_ny_mjaltbrandsbreven_och_jakt_20251015_1720541402.mp3" length="5113" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Svarta pantrarna och mordet på Fred Hampton</title>
-            <description>En decembernatt 1969 stormas en lägenhet i Chicago där medlemmar i Svarta pantrarna ligger och sover. Den 21-åriga ledaren Fred Hampton skjuts till döds.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2677620</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2677620</guid>
-            <pubDate>Thu, 02 Oct 2025 04:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/457cffbb-9f0e-4501-8821-8d83e2f9c914.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_ny_svarta_pantrarna_och_morde_20251001_1415265690.mp3" length="4323" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
