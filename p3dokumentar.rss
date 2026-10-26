@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 15:30:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:11:39 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 13 Nov 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/2b8b6598-8337-4c6b-9787-a5d71fdfe903.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/11/program_p3_dok_jordbavningen_i_himalay_20251111_1326157206.mp3" length="4760" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: Gisslandramat i Wien och terroristen Carlos Schakalen</title>
-            <description>Strax före jul 1975 attackeras OPEC:s högkvarter av terrorister. Över 60 ministrar, delegater och tjänstemän tas som gisslan och tre personer dödas.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2646988</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2646988</guid>
-            <pubDate>Thu, 30 Oct 2025 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/a2aa7c01-6557-47c7-95aa-2d41e82938e7.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/10/p3_dokumentar_nygisslandramat_i_wien_och_t_20251027_1040129007.mp3" length="4142" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
