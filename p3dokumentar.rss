@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 19:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:10:03 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -25,6 +25,15 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
     <language>sv</language>
     <copyright>Copyright Sveriges Radio 2023. All rights reserved.</copyright>
     <media:restriction type="country" relationship="allow">be bg cy dk ee fi fr gr ie it hr lv lt lu mt nl pl pt ro sk si es se cz de hu at is li no</media:restriction>
+            <item>
+            <title>Ny: Insats torsk</title>
+            <description>När en TV-profil grips i en razzia i Stockholm blir Insats torsk rikskänd. Poliserna Elin och Linnea jagar sexköpare samtidigt som Adina är fast i prostitution.</description>
+            <link>https://www.sverigesradio.se/avsnitt/2891843</link>
+            <guid isPermaLink="false">rss:sr.se/pod/eid/2891843</guid>
+            <pubDate>Thu, 12 Nov 2026 05:00:00 GMT</pubDate>
+            <itunes:image href="https://static-cdn.sr.se/images/2519/47c53628-9f78-4f26-8335-d1631a254cdb.jpg?preset=api-itunes-presentation-image"/>
+            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2026/11/p3_dokumentar_ny_insats_torsk_20261111_2131290090.mp3" length="4598" type="audio/mpeg" />
+            </item>
             <item>
             <title>Ny: Flygolyckan på Umeå fallskärmsklubb</title>
             <description>Den 14 juli 2019 störtar ett flygplan med åtta fallskärmshoppare och en pilot utanför Umeå. Planet kraschar på en ö mitt i Umeälven.</description>
