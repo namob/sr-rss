@@ -3,7 +3,7 @@
   <channel>
     <itunes:new-feed-url>https://api.sr.se/api/rss/pod/3966</itunes:new-feed-url>
     <atom:link href="https://api.sr.se/api/rss/pod/3966" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 18:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:21:09 GMT</lastBuildDate>
     <image>
       <title>P3 Dokumentär</title>
       <link>https://sverigesradio.se/p3dokumentar</link>
@@ -267,15 +267,6 @@ Ansvarig utgivare: Caroline Lagergren]]></description>
             <pubDate>Thu, 11 Dec 2025 05:00:00 GMT</pubDate>
             <itunes:image href="https://static-cdn.sr.se/images/2519/9f01e536-108e-41f6-b22e-c9e0e8bb7d76.png?preset=api-itunes-presentation-image"/>
             <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/12/p3_dokumentar_ny_mordet_pa_journalisten_kim_20251211_1413177709.mp3" length="5700" type="audio/mpeg" />
-            </item>
-            <item>
-            <title>Ny: CIA:s hemliga LSD-experiment</title>
-            <description>CIA driver ett topphemligt projekt för hjärntvätt som involverar droger, tortyr och nazi-doktorer. Det är 50-tal och 16-åriga Lana medicineras med LSD i smyg.</description>
-            <link>https://www.sverigesradio.se/avsnitt/2702248</link>
-            <guid isPermaLink="false">rss:sr.se/pod/eid/2702248</guid>
-            <pubDate>Thu, 27 Nov 2025 05:00:00 GMT</pubDate>
-            <itunes:image href="https://static-cdn.sr.se/images/2519/d304104f-b4b0-4da5-a068-ea72a07ba560.png?preset=api-itunes-presentation-image"/>
-            <enclosure url="https://static-cdn.sr.se/laddahem/podradio/2025/11/p3_dokumentar_nycias_hemliga_lsdexperime_20251126_0958587295.mp3" length="3603" type="audio/mpeg" />
             </item>
 </channel>
 </rss>
